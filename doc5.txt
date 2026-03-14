@@ -1,1 +1,347 @@
-hello banana cherry.
+hello banana cherry.Learning new skills takes time, practice, and patience. When people practice the same skills again and again, they begin to improve their knowledge and their confidence. Practice helps people understand mistakes, correct mistakes, and learn better ways to solve problems. Because of practice and patience, people slowly develop strong skills and strong knowledge that help them succeed in different situations.The Oxford 3000™
+The Oxford 3000 is the list of the 3000 most important words to learn in English, from A1 to B2 level.
+a, an indefinite article A1
+abandon v. B2
+ability n. A2
+able adj. A2
+about prep., adv. A1
+above prep., adv. A1
+abroad adv. A2
+absolute adj. B2
+absolutely adv. B1
+academic adj.B1, n. B2
+accept v. A2
+acceptable adj. B2
+access n., v. B1
+accident n. A2
+accommodation n. B1
+accompany v. B2
+according to prep. A2
+account n. B1, v. B2
+accurate adj. B2
+accuse v. B2
+achieve v. A2
+achievement n. B1
+acknowledge v. B2
+acquire v. B2
+across prep., adv. A1
+act v. A2, n. B1
+action n. A1
+active adj. A2
+activity n. A1
+actor n. A1
+actress n. A1
+actual adj. B2
+actually adv. A2
+ad n. B1
+adapt v. B2
+add v. A1
+addition n. B1
+additional adj. B2
+address n. A1, v. B2
+administration n. B2Create a union named student that has roll and marks as member. Assign some values to these members one at a time and display the result one at a time.
+
+
+
+
+Difference between Structure and union
+
+
+Structure Union
+1.	It takes more memory space than that of union.	1. It takes less memory than that of structure.
+
+2.	All the members of structure can be accessed at	2. Only one member of union can be accessed at any
+
+any point of time.
+given time.
+ 
+Pointers
+
+
+By Bipin Tiwari
+
+
+Introduction to Pointer
+
+
+A pointer is special type of a variable. It is special because it contains a memory address instead of values. A pointer variable is declared with specific data type, like any other normal variable so that it will work only with memory address of a given type.
+
+
+Example
+
+
+Write a program to read marks of 10 students secured in a subject and store them in an array using pointer notation. Calculate average marks of them and display on screen.
+
+ 
+ 
+
+
+
+
+
+
+
+
+Dynamic Memory Allocation(DMA)
+
+The process of allocating and freeing memory in a program at run time is known as Dynamic Memory Allocation (DMA).
+
+i.	malloc () function
+
+
+It allocates requested size of bytes and returns a pointer to the first byte of the allocated space to the program.
+
+ 
+
+Example
+
+
+x=(int*) malloc (100* sizeof (int));
+
+
+ii.	calloc() function
+
+
+
+Example
+
+
+x= (int*) calloc (5, 10*sizeof (int));
+
+
+x= (int*) calloc( 5, 20);
+
+
+iii.	free() function
+
+
+
+iv.	realloc();
+
+
+
+Example
+write a program to define two matrices of order m×n using pointer notation. Read elements of the matrices from user and add them using pointer.
+
+ 
+File Handling in C
+
+
+By Bipin Tiwari
+
+
+
+Library Functions for Reading/Writing from/to a File
+
+A.	String Input/ Output
+
+
+Using string i/O function, data can be read from a file or written to a file in the form of array of characters.
+
+
+i.	fgets():
+
+
+It is used to read string from file.
+
+
+
+
+ii.	fputs():
+
+
+It is used to write a string to a file.
+
+
+
+
+
+
+
+Example
+Write a program to open the file “test.txt ” created , read its content and display to the screen.
+
+
+
+
+
+
+
+B.	Character Input/ Output
+
+
+Using character I/O functions, data can be read from a file or written to a file one character at a time.
+
+
+i.	fgetc():
+
+It is used to read a character to read a character from a file.
+
+
+
+
+ii.	fputc():
+
+
+It is used to write a character to a file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example
+
+
+Write a program to create file and write some text to it writing one character at a time using fputc() function. The program should write until hits enter key. Read filename from user.
+
+ 
+
+
+C.	Formatted Input/ Output
+
+These functions are used to read numbers, character or string from a file or write them to a file in format as our requirement.
+
+i.	fprintf():
+
+
+It is formatted output function which is used to write integer , float, char or string data to a file.
+
+
+ii.	fscanf():
+
+
+It is formatted input function which is used to read integer, float, char or string value from a file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example
+
+
+Write a program to create a file named student.txt in D:\ drive and write name, roll, address and marks of a student to the file.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Binary Data Files
+
+
+The binary files organize data into blocks containing contiguous bytes of information. The binary files are recognized as a stream of bytes and programming languages tend to work with streams rather than files. In binary file, the opening mode of text mode file is appended by a character ‘b’ .
+
+
+Example
+
+
+Write a C program to write some text “welcome to my college” to a data file in binary mode. Read its content and display it.
+
+ 
+ 
+Introduction to Graphics
+
+
+By Bipin Tiwari
+
+
+
+Graphics Characteristics
+
+1.	Pixels
+
+
+A pixel is a short from of picture Element and it represent a single point in a graphic image.
+
+2.	Resolution
+
+
+The number of pixels used on the screen is called resolution.
+
+
+3.	Colors
+
+
+Some graphics modes support more colors than others ranging from
+2 to millions colors. A particular mode may		support only two colors at a time while other may support 256 colors. These groups of colors are known as color	palettes,
+
+4.	Video Adapters
+
+
+Video adapters are drivers for display. Each video adapters handles graphics in different way. Some examples of video adapters are CGA, VGA and EGA. Each video adapter supports different resolutions and colors.
+ 
+Example
+
+
+Write a program to draw a circle with center point at (200, 200) and radius 50 pixels.
+
+
+
+Output
+
+
+
+
+
+
+
+
+
+
+Example
+
+Write a program to draw a hexagon.
+
+
+ 
+
+Output
+
+
+admire v. B1
+admit v. B1
+adopt v. B2
+adult n. A1, adj. A2
+advance n., v., adj. B2
