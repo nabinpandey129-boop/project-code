@@ -1,1 +1,2116 @@
-Hello world, apple!
+Hello world, apple!Skip to content
+MedStudentNotes
+
+Heart Anatomy
+HomeCardiovascular SystemHeart Anatomy
+Table of Contents
+Overview – Heart Anatomy
+Definition
+Anatomical Location
+Pericardium (Coverings of the Heart)
+Layers of the Heart Wall
+Fibrous Skeleton of the Heart
+Chambers & Great Vessels
+Heart Landmarks
+Pathway of Blood Through the Heart
+Coronary Circulation
+Heart Valves
+Valve Sounds
+Summary – Heart Anatomy
+Overview – Heart Anatomy
+Heart anatomy refers to the structural organization of the heart within the thoracic cavity, including its chambers, layers, valves, blood vessels, and coverings. Understanding this anatomy is essential for interpreting cardiovascular physiology, diagnosing structural abnormalities, and performing clinical procedures like auscultation or ECG placement. This article provides a high-yield, clinically relevant overview tailored for final-year medical students.
+
+Definition
+The heart is a muscular organ responsible for pumping blood through the pulmonary and systemic circulations. It lies within the middle mediastinum of the thorax and is encased in a fibrous sac known as the pericardium.
+
+Anatomical Location
+Located in the middle mediastinum, within the inferior mediastinum
+Extends from the 2nd rib to the 5th intercostal space
+Anterior to vertebral column, posterior to sternum
+Flanked by both lungs and rests on the diaphragm
+Two-thirds of the heart lies to the left of the midsternal line
+The middle mediastinum also contains the pericardium, great vessels, trachea, and esophagus
+Anatomical Location of the Heart
+Anatomical Location of the Heart
+Blausen.com staff (2014). “Medical gallery of Blausen Medical 2014“. WikiJournal of Medicine 1 (2).
+Pericardium (Coverings of the Heart)
+Double-walled sac enclosing the heart
+Contains serous fluid for lubrication
+Fibrous Pericardium:
+Tough connective tissue
+Anchors and protects the heart
+Prevents overfilling (e.g. in cardiac tamponade)
+Serous Pericardium:
+Parietal layer: lines fibrous pericardium
+Visceral layer (epicardium): adheres to external heart surface
+Layers of the Heart Wall
+Epicardium: outermost layer; visceral pericardium
+Myocardium: muscular layer; responsible for contraction
+Endocardium: endothelial lining of chambers; prevents clotting and acts as a barrier between blood and myocardium
+Layers of the Heart Wall
+Blausen.com staff (2014). “Medical gallery of Blausen Medical 2014“. WikiJournal of Medicine 1 (2)
+Fibrous Skeleton of the Heart
+Dense connective tissue network of collagen and elastin
+Functions:
+Anchors muscle fibers, valves, and great vessels
+Reinforces myocardium
+Electrically isolates atria from ventricles
+Components:
+Septums: separate chambers (interatrial, atrioventricular, interventricular); non-conductive
+Rings: surround valves and great vessels to prevent dilation under pressure
+Fibrous Skeleton of the Heart
+Source: unable to attribute.
+Chambers & Great Vessels
+Atria (Superior Chambers)
+Thin-walled receiving chambers
+Auricles: increase atrial volume
+Right Atrium:
+Receives blood from:
+Superior vena cava
+Inferior vena cava
+Coronary sinus
+Features: pectinate muscles
+Left Atrium:
+Receives oxygenated blood from 4 pulmonary veins
+Ventricles (Inferior Chambers)
+Thick-walled discharging chambers
+Trabeculae carneae line internal surfaces
+Papillary muscles attach to valves
+Right Ventricle:
+Forms most of anterior surface
+Pumps to lungs via pulmonary trunk
+Left Ventricle:
+Forms postero-inferior surface
+Pumps to body via aorta
+Heart chambers and valves – anatomy of the heart
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Heart Landmarks
+Coronary Sulcus (AV groove): encircles heart; houses coronary arteries and veins
+Anterior Interventricular Sulcus: contains LAD; separates ventricles anteriorly
+Posterior Interventricular Sulcus: contains PDA; separates ventricles posteriorly
+Labeled diagram showing the anatomy of the heart
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Pathway of Blood Through the Heart
+Right heart → pulmonary circuit (deoxygenated blood to lungs)
+Left heart → systemic circuit (oxygenated blood to body)
+Colour change reflects gas exchange:
+Pulmonary: blue to red (O₂ gain)
+Systemic: red to blue (O₂ loss)
+Pathway of Blood Through the Heart
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Coronary Circulation
+Arterial Supply
+Coronary arteries arise from aorta and run in epicardium
+Left Coronary Artery:
+LAD (Anterior Interventricular Artery): apex, anterior LV, 2/3 IV septum
+Circumflex Artery: left atrium, lateral LV
+Right Coronary Artery:
+Marginal Artery: right lateral myocardium
+Posterior Interventricular Artery: posterior ventricular walls
+Forms anastomosis with LAD
+Venous Drainage
+Collected by Great, Middle, and Small Cardiac Veins
+Drain into coronary sinus, then right atrium
+Coronary Circulation
+Blausen.com staff (2014). Blausen Medical Communications, Inc.
+Heart Valves
+Atrioventricular (AV) Valves
+Located between atria and ventricles
+Prevent backflow during ventricular contraction
+Chordae tendineae anchor cusps to papillary muscles
+Tricuspid Valve: right side; 3 cusps
+Mitral Valve: left side; 2 cusps
+Semilunar (SL) Valves
+Located at outflow of ventricles
+Open under ventricular pressure
+Pulmonary Valve: RV → Pulmonary trunk
+Aortic Valve: LV → Aorta
+Valve Positions During Ventricular Contraction
+
+Valve Positions During Ventricular Contraction
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Valve Positions During Ventricular Relaxation
+
+Valve Positions During Ventricular Relaxation
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Valve Sounds
+“Lubb” (S1): closure of AV valves (M1 + T1)
+“Dupp” (S2): closure of SL valves (A2 + P2)
+Auscultation Landmarks
+Aortic, Pulmonary, Tricuspid, and Mitral valve sounds can be heard at distinct points on the thorax based on flow direction and valve position
+Where to Listen to Heart Sounds
+
+Where to Listen to Heart Sounds
+Adaptation of File:Precordial Leads 2.svg (by Jmarchn) and Rib_Cage (Jeroen Hut)
+Summary – Heart Anatomy
+Heart anatomy encompasses the detailed structure of the heart, including its chambers, valves, coverings, and vascular supply, all essential for maintaining efficient circulation and interpreting clinical findings. A foundational understanding of heart anatomy supports diagnostics and skills such as auscultation, ECG interpretation, and cardiovascular imaging. For a broader context, see our Cardiovascular Overview page.
+
+Want Your OWN Copy?
+The Complete Offline Bundle
+Instant Download Access
+Both PDF + ePUB Formats
+ALL 700+ Medical Topics
+ALL 20 Clinical Subjects
+2300+ High Res Diagrams
+Smart Menus & Hyperlinks
+Lifetime Yearly Updates
+BUY NOW! Only $29
+Downloadable | Printable | Yours!
+
+Want Specific Notes?
+
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+
+Shop All Subjects
+Want To TEST Yourself?
+Practice Exam Pack
+Instant PDF Download
+15 Clinical Subjects
+1600+ Pages of Q's & A's
+High-Yield Questions
+Detailed Model Answers
+Multi-Choice & Short Answer
+BUY NOW! Only $21
+Downloadable | Printable | Yours!
+
+Want Specific Exams?
+
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+
+Shop All Subjects
+Subject Index
+Cardiovascular
+Respiratory
+Gastrointestinal
+Nervous System
+Musculoskeletal
+Urinary & Renal
+Endocrine
+Blood & Haematology
+Immune & Rheumatology
+Skin & Dermatology
+Reproductive Health
+Obstetrics
+Cell Bio & Biochem
+Genetics & Cancer
+Pharmacology
+Emergency Medicine
+Head & Neck
+Clinical Skills
+Microbio & Pub Health
+Psych & Mental Health
+Stay up to date
+Subscribe for new topics & additions. (Max 1 email per month)
+
+
+Name
+Surname
+Email
+
+Our Mission
+To empower all medical students to excel as future clinicians by streamlining their studies & preventing ‘burn-out’.
+
+Footer Menu
+About Us
+Contact Us
+FAQ’s
+Testimonials
+T’s & C’s
+Privacy Policy
+Terms of Service
+Refund Policy
+Follow UsSkip to content
+MedStudentNotes
+
+The Vascular System
+HomeCardiovascular SystemThe Vascular System
+Table of Contents
+Overview – The Vascular System
+The Arterial System
+The Capillary System
+The Venous System
+Foetal Circulation
+Summary – The Vascular System
+Overview – The Vascular System
+The vascular system comprises arteries, capillaries, and veins that work together to circulate blood throughout the body. Each component of the system has a distinct structure and function, from the high-pressure conduits of elastic arteries to the exchange-focused capillaries and the capacitance-based return pathway of veins. Understanding vascular anatomy and physiology is critical for diagnosing and managing cardiovascular conditions in clinical practice.
+
+The Arterial System
+Elastic (Conducting) Arteries
+Includes the aorta and its major branches
+Thick-walled with large lumens → low resistance to flow
+High elastin content allows:
+Dampening of pressure fluctuations
+Energy storage during systole → blood propulsion during diastole
+Muscular (Distributing) Arteries
+Distal to elastic arteries; supply specific organs
+Diameter: 0.3 mm to 1 cm
+Thickest tunica media with high smooth muscle content
+Highly active in vasoconstriction → less elastic
+Key regulators of regional blood distribution
+Arterioles
+Smallest arteries
+Larger arterioles have all 3 tunics (intima, media, externa)
+Smaller arterioles = 1–2 layers of smooth muscle surrounding endothelium
+Critical for local blood flow control
+Respond to:
+Neural signals (e.g. sympathetic tone)
+Hormones (e.g. norepinephrine, vasopressin)
+Local chemicals (e.g. NO, endothelin)
+Vasoconstriction → bypasses capillary beds
+Vasodilation → allows tissue perfusion
+Major determinant of systemic blood pressure
+The 3 types of arteries in the arterial system
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Arterial System Anatomy
+Arterial System Anatomy
+LadyofHats, Public domain, via Wikimedia Commons; https://commons.wikimedia.org/wiki/File:Arterial_System_en.svg
+The Capillary System
+Structure and Function
+Microscopic vessels with thin walls (only tunica intima)
+Length ≈ 1 mm; diameter just enough to allow RBCs in single file
+Site of exchange between blood and interstitial fluid
+Penetrate most tissues except cartilage, tendons, ligaments, epithelia
+Capillary Beds
+Network of capillaries = site of microcirculation
+Blood flow from arteriole → venule
+Components:
+Vascular Shunt:
+Metarteriole to thoroughfare channel
+Direct arteriole-to-venule connection
+True Capillaries:
+Branch from metarteriole
+Perform exchange functions
+Precapillary Sphincters:
+Smooth muscle cuffs at capillary roots
+Regulate entry of blood into true capillaries
+Allow blood to bypass or enter capillary beds based on tissue demand
+Capillary bed structure
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Types of Capillaries
+Continuous Capillaries:
+Uninterrupted endothelium with tight junctions
+Intercellular clefts allow limited solute passage
+Form blood-brain barrier in CNS
+Fenestrated Capillaries:
+Contain fenestrations (pores) → ↑ permeability
+Found in kidneys, intestines, endocrine organs
+Sinusoids (Sinusoidal Capillaries):
+Large, irregular lumens
+Incomplete basement membranes
+Found in liver, bone marrow, lymphoid tissue
+Allow passage of large molecules and WBCs
+Lined with phagocytic Kupffer cells
+Capillary Types - Continuous, Fenestrated, Sinusoid
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+The Venous System
+Venules
+Formed from post-capillary capillary union
+Composed of endothelium (high permeability)
+Permit WBC migration into inflamed tissues
+Larger venules:
+Contain smooth muscle (tunica media)
+Thin tunica externa
+Veins
+Formed from the convergence of venules
+Thinner walls and larger lumens than arteries
+All 3 tunics present, but tunica media poorly developed
+Tunica externa is the thickest layer → collagen & elastic fibers
+Serve as capacitance vessels → hold ~65% of total blood volume
+Low-pressure system requiring adaptations:
+Valves (from tunica intima):
+Prevent backflow
+Function similar to semilunar valves
+Most important in limbs (against gravity)
+Failure can lead to varicosities and thrombosis
+Vein Walls & Valves
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Venous System Anatomy
+Anatomy of the Venous System
+LadyofHats, Public domain, via Wikimedia Commons; https://commons.wikimedia.org/wiki/File:Venous_system_en.svg
+Foetal Circulation
+Shunts Bypassing Certain Organs
+Ductus Venosus:
+Bypasses liver sinusoids
+Directs blood from placenta → inferior vena cava
+Foramen Ovale:
+Interatrial septal opening
+Allows blood to bypass non-functional fetal lungs
+Ductus Arteriosus:
+Connects pulmonary trunk to aorta
+Also bypasses lungs
+All fetal shunts normally close at birth due to circulatory pressure changes
+
+Foramen ovale may take up to 6 months to fully seal
+Foetal Circulation & Shunts
+CNX OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Summary – The Vascular System
+The vascular system comprises a complex network of arteries, capillaries, and veins, each uniquely structured to fulfill transport and exchange roles. Understanding these vascular segments, from high-pressure elastic arteries to low-pressure veins, is critical for mastering cardiovascular physiology. For a broader context, see our Cardiovascular Overview page.
+
+Want Your OWN Copy?
+The Complete Offline Bundle
+Instant Download Access
+Both PDF + ePUB Formats
+ALL 700+ Medical Topics
+ALL 20 Clinical Subjects
+2300+ High Res Diagrams
+Smart Menus & Hyperlinks
+Lifetime Yearly Updates
+BUY NOW! Only $29
+Downloadable | Printable | Yours!
+
+Want Specific Notes?
+
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+
+Shop All Subjects
+Want To TEST Yourself?
+Practice Exam Pack
+Instant PDF Download
+15 Clinical Subjects
+1600+ Pages of Q's & A's
+High-Yield Questions
+Detailed Model Answers
+Multi-Choice & Short Answer
+BUY NOW! Only $21
+Downloadable | Printable | Yours!
+
+Want Specific Exams?
+
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+
+Shop All Subjects
+Subject Index
+Cardiovascular
+Respiratory
+Gastrointestinal
+Nervous System
+Musculoskeletal
+Urinary & Renal
+Endocrine
+Blood & Haematology
+Immune & Rheumatology
+Skin & Dermatology
+Reproductive Health
+Obstetrics
+Cell Bio & Biochem
+Genetics & Cancer
+Pharmacology
+Emergency Medicine
+Head & Neck
+Clinical Skills
+Microbio & Pub Health
+Psych & Mental Health
+Stay up to date
+Subscribe for new topics & additions. (Max 1 email per month)
+
+
+Name
+Surname
+Email
+
+Our Mission
+To empower all medical students to excel as future clinicians by streamlining their studies & preventing ‘burn-out’.
+
+Footer Menu
+About Us
+Contact Us
+FAQ’s
+Testimonials
+T’s & C’s
+Privacy Policy
+Terms of Service
+Refund Policy
+Follow Us
+Facebook
+Instagram
+Twitter (X)
+Copyright © 2026 MedStudentNotes
+
+
+Facebook
+Instagram
+Twitter (X)
+Copyright © 2026 MedStudentNotes
+
+Scroll to TopSkip to content
+MedStudentNotes
+
+Cerebral Blood Supply
+HomeNervous SystemCerebral Blood Supply
+Table of Contents
+Overview – Cerebral Blood Supply
+Why the Brain Needs Blood
+Arterial Supply – Circle of Willis
+Distribution of Cerebral Blood Supply
+Blood–Brain Barrier (BBB)
+Venous Drainage – Dural Sinuses
+Regulation of Cerebral Blood Supply
+Summary – Cerebral Blood Supply
+Overview – Cerebral Blood Supply
+The brain has extremely high metabolic demands, consuming 15–20% of total body energy despite comprising just 2% of body mass. This demand for oxygen and glucose is driven by neurons, which lack anaerobic capacity and rely on continuous perfusion. As a result, even short interruptions in blood flow can lead to unconsciousness or irreversible damage. Cerebral blood supply is built on redundancy, with a unique arterial anastomosis—the Circle of Willis—providing backup routes in case of vascular compromise.
+
+Why the Brain Needs Blood
+Brain receives ~15% of cardiac output
+Neurons require constant oxygen and glucose for:
+ATP production for ion gradients
+Neurotransmitter synthesis and recycling
+No anaerobic capacity → interruption in oxygen leads to rapid loss of function
+≈30 seconds without O₂ → unconsciousness
+Minutes without O₂ → irreversible injury
+Arterial Supply – Circle of Willis
+Dual-Arterial Supply System
+2 Vertebral Arteries → unite into Basilar Artery
+2 Internal Carotid Arteries
+These systems merge at the Circle of Willis, forming a protective arterial anastomosis
+Circle of Willis – Components
+Encircles the optic chiasm, pituitary gland, and mammillary bodies
+Major branches (anterior to posterior):
+2x Anterior Cerebral Arteries (ACA)
+1x Anterior Communicating Artery
+2x Internal Carotid Arteries
+2x Middle Cerebral Arteries (MCA)
+2x Posterior Communicating Arteries
+2x Posterior Cerebral Arteries (PCA)
+1x Basilar Artery
+Communicating arteries are anatomically open but only functionally active when major flow is compromised (e.g. stenosis or occlusion).
+
+Cerebral Blood Supply - Circle of willis
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Circle of willis 
+OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Distribution of Cerebral Blood Supply
+Anterior Cerebral Arteries (ACA)
+Travels along superior surface of corpus callosum
+Supplies:
+Medial frontal lobe
+Medial parietal lobe
+Corpus callosum
+Middle Cerebral Arteries (MCA)
+Travels through lateral sulcus, then over lateral brain surface
+Supplies:
+Lateral frontal and parietal lobes
+Entire temporal lobe
+Posterior Cerebral Arteries (PCA)
+Courses along inferior brain surface, near cerebellum
+Supplies:
+Occipital lobe (primary visual cortex)
+Posteromedial parietal lobe
+Inferior temporal lobe
+Cerebral Blood Supply - vascular territories
+vascular territories
+derivative work: Frank Gaillard (talk)Brain_stem_normal_human.svg: Patrick J. Lynch, medical illustrator, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+Blood–Brain Barrier (BBB)
+Purpose
+Maintains a stable environment for neurons
+Limits toxin, pathogen, and ion fluctuations
+Structure
+Tight Junctions between CNS capillary endothelial cells
+Blocks diffusion of most water-soluble substances
+Thick Basement Membrane
+Transport proteins for glucose, amino acids, etc.
+Special Considerations
+Choroid Plexuses: BBB maintained by tight junctions between ependymal cells (capillaries here are fenestrated)
+BBB is absent in:
+Hypothalamus – for hormonal sensing
+Vomiting centre (area postrema) – detects toxins in blood
+blood brain barrier
+blood brain barrier
+Credit: NIH Medical Arts; https://www.ncbi.nlm.nih.gov/
+Venous Drainage – Dural Sinuses
+Dural Venous Sinuses
+Located within dura mater folds (not in brain tissue)
+Drain cerebral veins into internal jugular veins
+Major Sinuses
+1. Falx Cerebri
+
+Separates cerebral hemispheres in longitudinal fissure
+Contains:
+Superior sagittal sinus
+Inferior sagittal sinus
+falx cerebri
+OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+2. Tentorium Cerebelli
+
+Separates cerebrum from cerebellum (transverse fissure)
+Contains:
+Left & Right transverse sinuses
+tentorium
+Rabjot Rai, Joe Iwanaga , Gaffar Shokouhi, Rod J. Oskouian, R. Shane Tubbs, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Drainage Pathway
+Superior + inferior sagittal sinuses → straight sinus
+All converge into transverse sinuses → become sigmoid sinuses
+Sigmoid sinuses exit skull as internal jugular veins
+sigmoid sinuses - cerebral blood supply 
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Regulation of Cerebral Blood Supply
+1. Autoregulation
+Maintains constant cerebral perfusion despite changes in systemic BP
+Critical in preventing stroke or ischaemia
+2. Myogenic Response
+↑Mean arterial pressure → vasoconstriction of large cerebral arteries
+↓MAP → vasodilation to maintain perfusion
+3. Metabolic Autoregulation
+Factor	Response	Effect on Flow
+↑CO₂	→ Vasodilation	↑Flow
+↓CO₂	→ Vasoconstriction	↓Flow
+↓pH (↑H⁺)	→ Vasodilation	↑Flow
+↑pH (↓H⁺)	→ Vasoconstriction	↓Flow
+↓O₂	→ Vasodilation	↑Flow
+↑O₂	→ Vasoconstriction	↓Flow
+Regulation of cerebral blood flow
+Summary – Cerebral Blood Supply
+Cerebral circulation is essential for the brain’s high metabolic demand and is protected by anatomical redundancies like the Circle of Willis. The anterior, middle, and posterior cerebral arteries provide regional cortical perfusion, while the blood–brain barrier and dural sinuses regulate and protect brain tissue. Cerebral blood flow is tightly autoregulated by myogenic and metabolic factors to prevent stroke and maintain homeostasis. For a broader context, see our Nervous System page.
+
+Want Your OWN Copy?
+The Complete Offline Bundle
+Instant Download Access
+Both PDF + ePUB Formats
+ALL 700+ Medical Topics
+ALL 20 Clinical Subjects
+2300+ High Res Diagrams
+Smart Menus & Hyperlinks
+Lifetime Yearly Updates
+BUY NOW! Only $29
+Downloadable | Printable | Yours!
+
+Want Specific Notes?
+
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+
+Shop All Subjects
+Want To TEST Yourself?
+Practice Exam Pack
+Instant PDF Download
+15 Clinical Subjects
+1600+ Pages of Q's & A's
+High-Yield Questions
+Detailed Model Answers
+Multi-Choice & Short Answer
+BUY NOW! Only $21
+Downloadable | Printable | Yours!
+
+Want Specific Exams?
+
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+
+Shop All Subjects
+Subject Index
+Cardiovascular
+Respiratory
+Gastrointestinal
+Nervous System
+Musculoskeletal
+Urinary & Renal
+Endocrine
+Blood & Haematology
+Immune & Rheumatology
+Skin & Dermatology
+Reproductive Health
+Obstetrics
+Cell Bio & Biochem
+Genetics & Cancer
+Pharmacology
+Emergency Medicine
+Head & Neck
+Clinical Skills
+Microbio & Pub Health
+Psych & Mental Health
+Stay up to date
+Subscribe for new topics & additions. (Max 1 email per month)
+
+
+Name
+Surname
+Email
+
+Our Mission
+To empower all medical students to excel as future clinicians by streamlining their studies & preventing ‘burn-out’.
+
+Footer Menu
+About Us
+Contact Us
+FAQ’s
+Testimonials
+T’s & C’s
+Privacy Policy
+Terms of Service
+Refund Policy
+Follow Us
+Facebook
+Instagram
+Twitter (X)
+Copyright © 2026 MedStudentNotesSkip to content
+MedStudentNotes
+
+Musculoskeletal Vasculature
+HomeMusculoskeletal SystemMusculoskeletal Vasculature
+Table of Contents
+Overview – Musculoskeletal Vasculature
+Definition
+Arterial Supply – Upper Limbs & Shoulder Girdle
+Venous Drainage – Upper Limbs
+Arterial Supply – Lower Limbs & Pelvic Girdle
+Venous Drainage – Lower Limbs
+Muscle Pump & Venous Return
+Summary – Musculoskeletal Vasculature
+Overview – Musculoskeletal Vasculature
+Musculoskeletal vasculature ensures vital oxygen and nutrient delivery to muscles, bones, and connective tissue of the upper and lower limbs. Arterial branches originate from the subclavian and iliac systems, forming dense anastomotic networks around joints to maintain blood flow during movement or compression. Venous return follows both superficial and deep systems, often accompanied by valves and aided by muscular contractions. Understanding this vascular roadmap is essential for surgical access, trauma management, and vascular disease assessment.
+
+Definition
+Musculoskeletal vasculature comprises the arterial and venous networks that supply and drain the bones, joints, and muscles of the upper and lower limbs, as well as the shoulder and pelvic girdles. These include both deep and superficial systems with extensive collateral pathways.
+
+Arterial Supply – Upper Limbs & Shoulder Girdle
+Anastomoses:
+
+Occur around joints and potential compression points
+Allow for collateral circulation in case of arterial obstruction
+Pathway:
+Region	Arterial Progression
+Thorax	Brachiocephalic trunk → Subclavian artery
+Shoulder	Subclavian → Axillary artery
+Upper Arm	Axillary → Brachial artery
+Elbow	Brachial splits → Radial & Ulnar arteries (cubital fossa)
+Forearm	Radial & Ulnar arteries → Superficial & Deep Palmar Arches
+Hand	Superficial arch → Digital arteries; Deep arch → Metacarpal arteries
+Note: Digital and metacarpal arteries form anastomoses for redundancy.
+
+musculoskeletal vasculature - Upper limb Arterial Blood Supply
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Venous Drainage – Upper Limbs
+System	Pathway Description
+Superficial	Superficial dorsal & palmar arches → Cephalic, Basilic & Median antebrachial veins → Median cubital vein → Axillary vein
+Deep	Deep palmar arches → Radial, Ulnar, Interosseous veins → Brachial veins → Axillary vein
+Progression to Heart:
+
+Axillary vein → Subclavian vein → Brachiocephalic → Superior vena cava → Heart
+Key Concepts:
+
+Veins have valves to prevent backflow
+Deep veins accompany arteries
+Muscle contraction promotes flow via the muscle pump
+musculoskeletal vasculature - Upper limb Venous Blood Drainage
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Arterial Supply – Lower Limbs & Pelvic Girdle
+Arterial Pathway:
+Region	Arterial Progression
+Abdomen	Abdominal aorta → Right & Left Common Iliac arteries
+Pelvis	Internal iliac → Gluteal, Obturator, and pelvic organ branches
+Thigh	External iliac → Femoral artery → Deep artery of thigh + branches
+Knee	Femoral → Popliteal artery → Genicular anastomoses
+Leg	Popliteal splits → Anterior tibial, Posterior tibial, and Fibular arteries
+Foot	Anterior tibial → Dorsalis pedis; Posterior tibial → Medial & Lateral plantar arteries
+musculoskeletal vasculature - Lower Limb Arterial Blood Supply
+Anastomoses
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Venous Drainage – Lower Limbs
+Region	Venous Drainage Pathway
+Foot	Dorsal venous arch →
+→ Small saphenous (superficial)
+→ Anterior tibial vein (deep)
+Plantar venous arch →
+→ Great saphenous (superficial)
+→ Posterior tibial & Fibular veins (deep)
+Calf & Thigh	Small saphenous → Popliteal vein
+Great saphenous → Deep femoral vein
+Deep veins: Anterior & posterior tibial, fibular → Popliteal vein
+Pelvis to Heart	Popliteal → Deep femoral → External iliac → Inferior vena cava
+musculoskeletal vasculature - Superficial Veins of Lower Limb
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Muscle Pump & Venous Return
+Muscle contractions compress veins, pushing blood centrally
+Valves in veins prevent reflux
+Communicating veins transfer blood from superficial → deep systems
+Valve failure → venous pooling → varicose veins
+Muscle Pump
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Summary – Musculoskeletal Vasculature
+Musculoskeletal vasculature of the limbs consists of interconnected arterial and venous systems. Upper limb supply arises from the subclavian system, while lower limb supply stems from the iliac and femoral systems. Venous return relies on deep/superficial circuits and muscle pumps to maintain efficient flow back to the heart. A solid grasp of this layout is essential for understanding trauma, compartment syndromes, and vascular access. For a broader context, see our Musculoskeletal Overview page.
+
+Want Your OWN Copy?
+The Complete Offline Bundle
+Instant Download Access
+Both PDF + ePUB Formats
+ALL 700+ Medical Topics
+ALL 20 Clinical Subjects
+2300+ High Res Diagrams
+Smart Menus & Hyperlinks
+Lifetime Yearly Updates
+BUY NOW! Only $29
+Downloadable | Printable | Yours!
+
+Want Specific Notes?
+
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+
+Shop All Subjects
+Want To TEST Yourself?
+Practice Exam Pack
+Instant PDF Download
+15 Clinical Subjects
+1600+ Pages of Q's & A's
+High-Yield Questions
+Detailed Model Answers
+Multi-Choice & Short Answer
+BUY NOW! Only $21
+Downloadable | Printable | Yours!
+
+Want Specific Exams?
+
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+
+Shop All Subjects
+Subject Index
+Cardiovascular
+Respiratory
+Gastrointestinal
+Nervous System
+Musculoskeletal
+Urinary & Renal
+Endocrine
+Blood & Haematology
+Immune & Rheumatology
+Skin & Dermatology
+Reproductive Health
+Obstetrics
+Cell Bio & Biochem
+Genetics & Cancer
+Pharmacology
+Emergency Medicine
+Head & Neck
+Clinical Skills
+Microbio & Pub Health
+Psych & Mental Health
+Stay up to date
+Subscribe for new topics & additions. (Max 1 email per month)
+
+
+Name
+Surname
+Email
+
+Our Mission
+To empower all medical students to excel as future clinicians by streamlining their studies & preventing ‘burn-out’.
+
+Footer Menu
+About Us
+Contact Us
+FAQ’s
+Testimonials
+T’s & C’s
+Privacy Policy
+Terms of Service
+Refund Policy
+Follow Us
+Facebook
+Instagram
+Twitter (X)
+Copyright © 2026 MedStudentNotes
+Skip to content
+MedStudentNotes
+
+Foetal Lung Development
+HomeRespiratory SystemFoetal Lung Development
+Table of Contents
+Overview – Foetal Lung Development
+Maternal Respiratory Adaptations in Pregnancy
+Stages of Foetal Lung Development
+1. Embryonic Stage (Weeks 4–7)
+2. Pseudoglandular Stage (Weeks 8–16)
+3. Canalicular Stage (Weeks 16–26)
+4. Saccular Stage (Weeks 25–35)
+5. Alveolar Stage (Week 35 – 3 years postnatal)
+Additional Foetal Lung Features
+Foetal Lung Fluid
+Foetal Respiratory Movements
+Foetal Haemoglobin (HbF)
+Pulmonary Surfactant
+Postnatal Lung Growth
+Summary – Foetal Lung Development
+Overview – Foetal Lung Development
+Foetal lung development is a complex, staged process that prepares the respiratory system for extrauterine life. During gestation, maternal respiratory physiology is significantly altered to facilitate gas exchange, while the foetal lungs progress through embryonic, pseudoglandular, canalicular, saccular, and alveolar stages. Critical events include airway branching, vascularisation, surfactant production, and alveolar maturation. Understanding these stages is essential for recognising the basis of neonatal respiratory disorders such as infant respiratory distress syndrome (IRDS).
+
+Maternal Respiratory Adaptations in Pregnancy
+High oestrogen levels:
+Fluid retention → ↑ blood volume.
+Oedema of airway mucosa.
+Stimulates mucous gland proliferation and growth.
+High progesterone levels (≈6× normal):
+Hypersensitises central CO₂ chemoreceptors in the medulla.
+Resets normal PaCO₂ to a lower level → relative hyperventilation (≈40% ↑ tidal volume, frequency unchanged).
+Facilitates clearance of foetal CO₂.
+Consequences: ↓ arterial PaCO₂, stable PaO₂, mild alkalosis (↑ pH).
+Metabolic changes:
+15–30% ↑ in metabolic rate.
+↑ oxidative phosphorylation → ↑ O₂ consumption → ↑ respiratory drive.
+Mechanical changes:
+Enlarged uterus compresses lungs and diaphragm → ↓ compliance, residual volume, functional residual capacity, ERV, and IRV.
+Compensation via increased anteroposterior and transverse chest diameters.
+Maternal Respiratory Adaptations in Pregnancy
+Yeomans, Edward R., and Larry C. Gilstrap III. “Physiologic changes in pregnancy and their impact on critical care.” Critical care medicine 33.10 (2005): S256-S258.
+Stages of Foetal Lung Development
+Foetal Lung Development Stages
+https://www.embryology.ch/anglais/rrespiratory/phasen01.html
+1. Embryonic Stage (Weeks 4–7)
+Upper airway structures form before lower.
+Week 4: olfactory placodes (ectodermal) form nasal cavities, which connect to the foregut.
+Olfactory Pit
+Parexocoetus, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Week 5: laryngotracheal bud forms from endoderm, developing into respiratory mucosa (pharyngeal, tracheal, bronchial, bronchiolar, alveolar).
+By weeks 6–7, the basic upper respiratory tree is laid down.
+Foetal Lung Development
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+2. Pseudoglandular Stage (Weeks 8–16)
+Development of airway smooth muscle, cartilage, blood vessels, and interstitium.
+Rapid proliferation of endodermal epithelium.
+By week 16, all airway divisions are complete down to terminal bronchioles.
+Foetal Lung Development - pseudoglandular stage
+Adapted from: http://www.embryology.ch/dutch/rrespiratory/phasen03.html
+3. Canalicular Stage (Weeks 16–26)
+Rapid angiogenesis → proliferation of pulmonary capillaries.
+Acinar walls thin due to fibroblast apoptosis → facilitates gas exchange.
+First appearance of surfactant from type II pneumocytes.
+Surfactant reduces surface tension, promotes alveolar expansion, and ↑ lung volume.
+Foetal Lung Development - Canalicular stage
+Adapted from: https://www.embryology.ch/anglais/rrespiratory/phasen04.html
+4. Saccular Stage (Weeks 25–35)
+Airspaces develop into saccules.
+Contain both type I and type II epithelial cells.
+By ≈27 weeks: lungs are structurally capable of gas exchange (survival possible in premature infants).
+Foetal Lung Development - Saccular stage
+Adapted from: https://www.embryology.ch/anglais/rrespiratory/phasen05.html
+5. Alveolar Stage (Week 35 – 3 years postnatal)
+Terminal saccules form primitive alveoli.
+Type II cells differentiate into thin type I cells, dramatically ↑ surface area.
+At birth: ~50 million alveoli present.
+By 3 years: ~300 million alveoli.
+Foetal Lung Development - Alveolar stage
+Adapted from: https://www.embryology.ch/anglais/rrespiratory/phasen06.html
+Additional Foetal Lung Features
+Foetal Lung Fluid
+Secreted by type I epithelial cells into airspaces, flows into amniotic fluid.
+Maintains positive pressure in airspaces, preventing collapse.
+Stimulates lung expansion, cell growth, and differentiation of type II → type I cells.
+Foetal Respiratory Movements
+In-utero “practice” breathing occurs from 22–35 weeks.
+Inhibited in the final week before birth to prevent aspiration of fluid or meconium.
+Foetal Haemoglobin (HbF)
+HbF has a higher affinity for oxygen than adult haemoglobin (left-shifted dissociation curve).
+Facilitates oxygen transfer from maternal to foetal blood.
+HbF is replaced by adult haemoglobin within 6 months postnatally.
+Foetal Haemoglobin
+Creative Commons: Anatomy & Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/
+Pulmonary Surfactant
+Without surfactant:
+High surface tension from water molecules causes alveolar collapse.
+Lung compliance reduced to 10–20% of normal.
+Leads to infant respiratory distress syndrome (IRDS).
+With surfactant:
+Composed mainly of dipalmitoylphosphatidylcholine (DPPC, 90%) plus proteins/carbohydrates.
+Secreted by type II alveolar cells.
+Reduces alveolar pressure, collapse tendency, and work of breathing.
+Equalises stability: ↓ surface tension more in small alveoli than large ones, preventing collapse into larger alveoli.
+Foetal Lung Development - Pulmonary Surfactant
+BQUB19-PDonatiu, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Postnatal Lung Growth
+Lung maturation continues postnatally
+Increases in alveoli number, diameter, surface area
+Growth from 50 million to 300 million alveoli
+Summary – Foetal Lung Development
+Foetal lung development proceeds through embryonic, pseudoglandular, canalicular, saccular, and alveolar stages, with critical events including vascularisation, surfactant production, and alveolar expansion. Maternal respiratory adaptations ensure efficient clearance of foetal CO₂ while supporting oxygen supply. Surfactant production and alveolar maturation are essential for postnatal survival, and deficiencies can lead to infant respiratory distress syndrome. For broader context, see our Respiratory Overview page.
+
+Want Your OWN Copy?
+The Complete Offline Bundle
+Instant Download Access
+Both PDF + ePUB Formats
+ALL 700+ Medical Topics
+ALL 20 Clinical Subjects
+2300+ High Res Diagrams
+Smart Menus & Hyperlinks
+Lifetime Yearly Updates
+BUY NOW! Only $29
+Downloadable | Printable | Yours!
+
+Want Specific Notes?
+
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+
+Shop All Subjects
+Want To TEST Yourself?
+Practice Exam Pack
+Instant PDF Download
+15 Clinical Subjects
+1600+ Pages of Q's & A's
+High-Yield Questions
+Detailed Model Answers
+Multi-Choice & Short Answer
+BUY NOW! Only $21
+Downloadable | Printable | Yours!
+
+Want Specific Exams?
+
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+
+Shop All Subjects
+Subject Index
+Cardiovascular
+Respiratory
+Gastrointestinal
+Nervous System
+Musculoskeletal
+Urinary & Renal
+Endocrine
+Blood & Haematology
+Immune & Rheumatology
+Skin & Dermatology
+Reproductive Health
+Obstetrics
+Cell Bio & Biochem
+Genetics & Cancer
+Pharmacology
+Emergency Medicine
+Head & Neck
+Clinical Skills
+Microbio & Pub Health
+Psych & Mental Health
+Stay up to date
+Subscribe for new topics & additions. (Max 1 email per month)
+
+
+Name
+Surname
+Email
+
+Our Mission
+To empower all medical students to excel as future clinicians by streamlining their studies & preventing ‘burn-out’.
+
+Footer Menu
+About Us
+Contact Us
+FAQ’s
+Testimonials
+T’s & C’s
+Privacy Policy
+Terms of Service
+Refund Policy
+Follow Us
+Facebook
+Instagram
+Twitter (X)
+Copyright © 2Skip to content
+MedStudentNotes
+
+Thoracic Anatomy
+HomeRespiratory SystemThoracic Anatomy
+Table of Contents
+Overview – Thoracic Anatomy
+Thoracic Overview
+Relationship of Thorax to Other Regions
+Thoracic Skeleton
+Muscular Components
+Accessory Muscles of Respiration
+The Diaphragm
+Pleura
+Thoracic Movements of Breathing
+Summary – Thoracic Anatomy
+Overview – Thoracic Anatomy
+Thoracic anatomy forms the foundation for understanding the respiratory and cardiovascular systems. The thorax provides mechanical protection for vital organs, structural support for respiration, and passageways for major vessels and nerves. Thoracic anatomy is clinically important because injuries or pathology within this region can compromise breathing, circulation, or nervous system function.
+
+Thoracic Overview
+3 Main Parts:
+Thoracic Cage – skeletal framework
+Thoracic Wall – muscular components
+Thoracic Cavity – internal area containing organs
+3 Internal Compartments:
+Mediastinum (central compartment): heart, oesophagus, trachea, major vessels, nerves
+Left Pleural Cavity: left lung
+Right Pleural Cavity: right lung
+Internal Compartments of the Thoracic Cavity
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Body Cavities (thoracic anatomy)
+Connexions, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Relationship of Thorax to Other Regions
+Neck connections: trachea, oesophagus, major vessels and nerves
+thoracic inlet
+Nadezdha D. Kiriyak, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Abdominal connections: oesophagus, inferior vena cava, aorta
+Inferior Diaphragm - Thoracic anatomy
+OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Thoracic Skeleton
+Vertebrae
+12 thoracic vertebrae (T1–T12)
+Distinguishing features:
+Heart-shaped vertebral body (extra weight-bearing)
+Inferiorly projecting spinous process (permits rib mobility)
+Large transverse processes (rib articulation)
+Costal demifacets for rib heads
+Thoracic Vertebrae anatomy
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+thoracic vertebrae anatomy
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Sternum
+Three parts: manubrium, body, xiphoid process
+Sternal angle (angle of Louis): junction of manubrium and body
+Landmark for: tracheal bifurcation, aortic arch, T4 vertebra, 2nd rib
+Articulations:
+Ribs 1–7: sternocostal (synovial) joints
+Ribs 8–10: interchondral joints (indirect attachment)
+Note: Thoracic cage joints allow small movements; combined, these create mobility for breathing.
+
+Sternum - thoracic anatomy
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Ribs
+12 pairs of ribs:
+Ribs 1–7 = True ribs (direct sternum attachment)
+Ribs 8–12 = False ribs (indirect or no sternum attachment)
+Ribs 11–12 = Floating ribs (insert into abdominal muscles)
+Features:
+Posterior end: head, neck, tubercle (for vertebral articulation)
+Shaft: thin, flat, vertically oriented with subcostal groove (houses intercostal nerve, artery, vein)
+Anterior end: attaches via costal cartilage
+Typical articulations:
+Rib head with its own vertebra and the vertebra above
+Tubercle with transverse process of corresponding vertebra
+Rib landmarks
+rib head landmarks
+Source: Unattributable.
+Rib articulations
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Atypical Ribs
+Rib 1: horizontal, short, articulates only with T1, scalene tubercle, grooves for subclavian vessels
+Rib 2: horizontal, otherwise typical
+Rib 10: articulates only with its own vertebra (single facet)
+Ribs 11 & 12: articulate only with their own vertebra, no tubercles or anterior attachment
+Typical and Atypical Ribs - thoracic anatomy
+Source: Unattributable.
+Muscular Components
+The thoracic wall consists of three layers of intercostal muscles:
+
+External intercostal muscles
+Oriented infero-anteriorly (diagonal)
+Incomplete anteriorly → transition to anterior intercostal membrane
+Internal intercostal muscles
+Deep to externals
+Transition posteriorly into the posterior intercostal membrane
+Innermost intercostal muscles
+Oriented infero-posteriorly
+Incomplete posteriorly
+Thoracic Muscles Anatomy
+OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Blood Supply
+Posterior intercostal arteries (branches of descending aorta)
+Anterior intercostal arteries (branches of internal thoracic arteries from subclavian)
+Nerve Supply
+Anterior rami of thoracic spinal nerves supply the intercostal muscles segmentally.
+Costal Nerve Artery and vein
+https://csds.qld.edu.au/
+Accessory Muscles of Respiration
+Inspiration:
+Scalene muscles
+Sternocleidomastoid
+External intercostals
+Mechanism: elevate ribs and sternum → pump-handle and bucket-handle movements
+Expiration:
+Abdominal wall muscles (↑ intra-abdominal pressure → diaphragm pushed up)
+Internal intercostals (depress ribs and sternum → reverse pump/bucket-handle)
+The Diaphragm
+The diaphragm is the primary muscle of respiration.
+
+Structure: musculotendinous sheet dividing thorax and abdomen
+Action:
+Contraction → flattens downward → inspiration
+Relaxation → domes upward → expiration
+Origins: xiphoid process, costal margin (7th rib), lower ribs 11–12, body of T12
+Insertion: central tendon
+Blood supply: superior & inferior phrenic arteries
+Venous drainage: brachiocephalic veins, azygous veins, inferior vena cava
+Nerve supply: phrenic nerve (C3–C5)
+Receives sympathetic fibres from cervical ganglia
+Provides both voluntary and autonomic control
+thoracic anatomy - diaphragm
+https://medlineplus.gov/ency/imagepages/19072.htm
+diaphragm inferior aspect
+OpenStax, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+Pleura
+Continuous serous sacs: visceral pleura (covers lungs) & parietal pleura (lines thoracic cavity)
+Between layers: pleural space with lubricating serous fluid
+Surface tension keeps lungs inflated and pleurae together
+pleura diagram
+thoracic anatomy - pleural cavity 
+OpenStax College, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Costodiaphragmatic recess: potential space for lung expansion during forced inspiration
+Diaphragmatic Recess
+Diaphragmatic Recess Xray
+Mikael Häggström, CC0, via Wikimedia Commons
+Thoracic Movements of Breathing
+Breathing movements arise from combined actions of diaphragm, thoracic wall, and accessory muscles.
+Upper 6 ribs: pump-handle action → increases anteroposterior diameter
+Lower 6 ribs: bucket-handle action → increases transverse diameter
+
+https://doctorlib.info/physiology/medical/146.html
+Summary – Thoracic Anatomy
+Thoracic anatomy integrates the skeletal cage, muscles, and cavity housing critical organs like the lungs and heart. Understanding rib articulations, pleural spaces, and diaphragm mechanics is vital for respiratory medicine. Explore more high-yield anatomy content on our Respiratory Overview page.
+
+Want Your OWN Copy?
+The Complete Offline Bundle
+Instant Download Access
+Both PDF + ePUB Formats
+ALL 700+ Medical Topics
+ALL 20 Clinical Subjects
+2300+ High Res Diagrams
+Smart Menus & Hyperlinks
+Lifetime Yearly Updates
+BUY NOW! Only $29
+Downloadable | Printable | Yours!
+
+Want Specific Notes?
+
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+Cardiovascular
+Only $5
+Nervous System
+Only $5
+Musculoskeletal
+Only $5
+Respiratory
+Only $5
+Gastrointestinal
+Only $5
+Urinary & Renal
+Only $5
+Blood & Haematology
+Only $5
+Immunology & Rheumatology
+Only $5
+Endocrine
+Only $5
+Cell Biology & Biochemistry
+Only $5
+Pharmacology & Toxicology
+Only $5
+Skin & Dermatology
+Only $5
+Genetics & Cancer
+Only $5
+Reproductive Health
+Only $5
+Obstetrics
+Only $5
+Emergency Room Medicine
+Only $5
+
+Only $5
+Head & Neck
+Only $5
+Psychiartry & Mental Health
+Only $5
+Microbiology & Public Health
+Only $5
+
+Shop All Subjects
+Want To TEST Yourself?
+Practice Exam Pack
+Instant PDF Download
+15 Clinical Subjects
+1600+ Pages of Q's & A's
+High-Yield Questions
+Detailed Model Answers
+Multi-Choice & Short Answer
+BUY NOW! Only $21
+Downloadable | Printable | Yours!
+
+Want Specific Exams?
+
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+Practice Exams: Cardiovascular
+Only $5
+Practice Exams: Gastrointestinal
+Only $5
+Practice Exams: Neurological
+Only $5
+Practice Exams: Musculoskeletal
+Only $5
+Practice Exams: Respiratory
+Only $5
+Practice Exams: Urinary & Renal
+Only $5
+Practice Exams: Haematology
+Only $5
+Practice Exams: Immunology
+Only $5
+Practice Exams: Endocrinology
+Only $5
+Practice Exams: Obstetrics
+Only $5
+Practice Exams: Sexual Health
+Only $5
+Practice Exams: Dermatology
+Only $5
+Practice Exams: Biology & Biochem
+Only $5
+Practice Exams: Genetics & Cancer
+Only $5
+Practice Exams: Pharmacology
+Only $5
+
+Shop All Subjects
+Subject Index
+Cardiovascular
+Respiratory
+Gastrointestinal
+Nervous System
+Musculoskeletal
+Urinary & Renal
+Endocrine
+Blood & Haematology
+Immune & Rheumatology
+Skin & Dermatology
+Reproductive Health
+Obstetrics
+Cell Bio & Biochem
+Genetics & Cancer
+Pharmacology
+Emergency Medicine
+Head & Neck
+Clinical Skills
+Microbio & Pub Health
+Psych & Mental Health
+Stay up to date
+Subscribe for new topics & additions. (Max 1 email per month)
+
+
+Name
+Surname
+Email
+
+Our Mission
+To empower all medical students to excel as future clinicians by streamlining their studies & preventing ‘burn-out’.
+
+Footer Menu
+About Us
+Contact Us
+FAQ’s
+Testimonials
+T’s & C’s
+Privacy Policy
+Terms of Service
+Refund Policy
+Follow Us
+Facebook
+Instagram
+Twitter (X)
+Copyright © 2026 MedStudentNotes
+
+026 MedStudentNotes
+Anatomy
+
+
+
+
+
+
