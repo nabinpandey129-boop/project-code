@@ -1,0 +1,58 @@
+Hello world from file one.
+This is a test file.
+
+# ── Word Reference: Meaning & Example Sentences ──────────────
+# Format: Word | Meaning | Example Sentence
+
+Backbone | The central or most important part of an organisation or structure. | The backbone of the team's success was their relentless commitment to training.
+Balance | A situation in which different elements are equal or in correct proportions. | She struggled to maintain a healthy balance between work and personal life.
+Beacon | A light or signal serving as a warning or guide. | The lighthouse stood as a beacon for ships navigating the rocky coastline.
+Benign | Gentle and kindly; (of a condition) not harmful. | The doctor confirmed the growth was benign and required no further treatment.
+Blueprint | A design plan or technical drawing; a model or template for something. | The architects presented a detailed blueprint for the new community centre.
+Calibrate | To carefully measure and adjust an instrument to ensure accurate results. | The technician had to calibrate the sensors before the experiment could begin.
+Cascade | A small waterfall; a series of stages forming a process. | A cascade of colourful lights fell from the ceiling at the opening ceremony.
+Catalyst | A substance or person that causes or accelerates change without being consumed. | The new manager acted as a catalyst for innovation across all departments.
+Chronicle | A factual written account of important events in the order they occurred. | The journalist spent five years writing a chronicle of the city's transformation.
+Cognition | The mental process of acquiring knowledge through thought, experience, and the senses. | Research in psychology has deepened our understanding of human cognition.
+Consensus | General agreement among a group of people. | After hours of debate, the committee finally reached a consensus on the proposal.
+Corridor | A long passage in a building from which doors lead into rooms. | The school's main corridor was lined with artwork created by the students.
+Debris | Scattered pieces of waste or remains left after damage or destruction. | Rescue teams worked through the night to clear the debris from the collapsed bridge.
+Delegate | A person authorised to represent others; to assign a task to someone else. | The manager learned to delegate responsibilities so the team could operate efficiently.
+Diligence | Careful and persistent work or effort. | Her diligence in revising every chapter resulted in a polished manuscript.
+Diverge | To separate from a route or path and move in a different direction. | The two hiking trails diverge at the old oak tree near the river.
+Ecosystem | A biological community of organisms interacting with their physical environment. | Deforestation severely disrupts the ecosystem and threatens many species.
+Eloquence | Fluency and persuasiveness in speaking or writing. | His eloquence in the final debate won over many undecided voters.
+Empirical | Based on observation or experience rather than theory or pure logic. | The team's empirical findings challenged the previously accepted model.
+Flourish | To grow or develop in a healthy or vigorous way; a bold or extravagant gesture. | Creative businesses tend to flourish in cities that value cultural diversity.
+Fossil | The preserved remains or trace of a prehistoric organism embedded in rock. | The museum's newest exhibit showcases a remarkably well-preserved dinosaur fossil.
+Gradient | The degree of steepness of a slope; a rate of change in a quantity. | The cyclist struggled against a steep gradient on the final leg of the race.
+Gravity | The force that attracts objects with mass toward each other; also seriousness. | Scientists use satellites to measure tiny variations in Earth's gravity.
+Heritage | Valued traditions or property passed down through generations. | The ancient temple is recognised as a UNESCO World Heritage Site.
+Hibernate | To spend the winter in a dormant state to conserve energy. | Bears typically hibernate for several months during the coldest part of the year.
+Ignite | To catch fire or cause to catch fire; to arouse a feeling. | A single spark was enough to ignite the dry leaves scattered across the forest floor.
+Impetus | A force or energy that makes something happen or happen more quickly. | The government grant provided the impetus needed to launch the research programme.
+Labyrinth | A complicated irregular network of passages; a confusing complex situation. | Navigating the bureaucracy felt like wandering through an endless labyrinth.
+Legacy | Something handed down by a predecessor; a long-lasting impact. | The scientist left behind a legacy of groundbreaking discoveries in molecular biology.
+Luminous | Emitting or reflecting bright light; clearly expressed and inspiring. | The luminous glow of the city skyline could be seen from miles away.
+Narrative | A spoken or written account of connected events; a story. | The documentary's powerful narrative kept audiences engaged from start to finish.
+Nucleus | The central and most important part of a group; the core of an atom. | Collaboration forms the nucleus of every successful team project.
+Oblivion | The state of being unaware or forgotten; total obscurity. | Without proper preservation, many ancient manuscripts would fade into oblivion.
+Panorama | An unobstructed wide view of an extensive area in all directions. | From the mountaintop, the hikers were rewarded with a stunning panorama.
+Persevere | To continue in a course of action despite difficulty or delay in achieving success. | She chose to persevere through the setbacks and eventually completed her degree.
+Pinnacle | The most successful or exciting point; the highest peak of something. | Winning the championship was considered the pinnacle of his athletic career.
+Plausible | Seeming reasonable or probable; apparently valid or acceptable. | The detective found only one plausible explanation for the missing evidence.
+Prodigy | A person, especially a young one, with exceptional talent or ability. | By the age of ten, the young pianist was recognised as a musical prodigy.
+Resilient | Able to recover quickly from difficulties; tough and flexible. | A resilient mindset helps people adapt when unexpected challenges arise.
+Scrutiny | Critical observation or examination of something in great detail. | The company's financial records came under intense scrutiny during the audit.
+Serene | Calm, peaceful, and untroubled. | The morning mist hung over the lake, creating a serene and tranquil scene.
+Spectrum | A band of colours, or a wide range of related ideas or qualities. | The new policy affects people across the entire spectrum of society.
+Synthesis | The combination of components or elements to form a new whole. | The report offered a clear synthesis of findings from dozens of research papers.
+Tenacious | Tending to keep a firm hold; not giving up easily; persistent. | The tenacious reporter spent years investigating the corruption scandal.
+Threshold | The level at which something begins; the bottom of a doorway. | The country has crossed the threshold of renewables making up 50% of its energy grid.
+Turbulent | Moving in a chaotic way; emotionally disturbed or politically unstable. | The turbulent weather conditions forced the flight to be diverted.
+Ubiquity | The fact of appearing everywhere or of being very widespread. | The ubiquity of smartphones has fundamentally changed how people communicate.
+Velocity | The speed of something in a given direction; rapidity of action. | The engineers measured the velocity of the rocket at each stage of its ascent.
+Vigour | Physical strength and good health; great energy or enthusiasm. | He attacked the project with renewed vigour after a refreshing holiday.
+Vivid | Producing powerful feelings or strong, clear images in the mind. | She had such vivid memories of childhood that she could still smell the sea air.
+Watershed | An event marking a turning point; a ridge dividing river drainage areas. | The 2008 financial crisis proved to be a watershed moment for global banking regulation.
+Zenith | The highest point reached by a star; the peak of success or power. | At the zenith of her career, the author had written over thirty acclaimed novels.

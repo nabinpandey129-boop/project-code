@@ -1,0 +1,2115 @@
+# dictionary.txt — Format:  word : meaning
+# Lines starting with # are ignored
+
+ephemeral : lasting for a very short time
+serendipity : finding something good without looking for it
+ubiquitous : present or found everywhere at the same time
+eloquent : fluent and persuasive in speaking or writing
+ambiguous : having more than one possible meaning or interpretation
+lethargic : affected by lethargy; sluggish and apathetic
+resilience : the ability to recover quickly from difficulties
+paradigm : a typical example or pattern of something
+meticulous : showing great attention to detail and careful accuracy
+pragmatic : dealing with problems in a practical and sensible way
+obscure : not well known or hard to understand
+verbose : using more words than needed to express something
+altruistic : showing unselfish concern for others
+candid : truthful and straightforward without hesitation
+diligent : having or showing care and effort in ones work
+Abandon:  To stop a process or task before it finishes, often without saving the current state.
+Abort:  To terminate an operation immediately due to an error or external command (e.g., the `abort()` function in C).
+Absolute:  A value or path that is fixed and not relative to anything else (e.g., an  Absolute Address  in memory).
+Abstract:  High-level logic that hides specific implementation details.
+Abstraction:  The process of simplifying complex systems by modeling classes or structures based on their essential characteristics.
+Accelerator:  Hardware or software used to speed up specific tasks, like a Graphics Accelerator (GPU).
+Accept:  To receive and process an incoming request or data packet.
+Access:  The ability to read, write, or modify data or system resources.
+Accessible:  Data or code that is within the "scope" or reach of a specific part of a program.
+Accessor:  A function specifically designed to fetch the value of a private data member (a "getter").
+Accident:  An unplanned event or runtime error that disrupts the intended flow of a program.
+Account:  A set of credentials or a record used to track usage and permissions for a user.
+Accumulation:  The process of gathering or summing values over time.
+Accumulator:  A specific CPU register used to store the intermediate results of arithmetic and logic operations.
+Accuracy:  How close a calculated value is to the true or intended value.
+Accurate:  Correct in all details; free from error.
+Acknowledgement (ACK):  A signal sent to confirm that a message or data packet was successfully received.
+Acoustic:  Relating to sound or the sense of hearing; often used in digital signal processing (DSP).
+Acquisition:  The process of collecting or capturing data from an external source (e.g., Data Acquisition).
+Action:  A specific task or function triggered by an event.
+Activate:  To put a software component or hardware device into a functional state.
+Active:  Currently running, enabled, or in use.
+Activity:  A measure of work being performed by a system or a specific task within an application.
+Actor:  An entity in a system that performs a specific role or action (common in "Actor Model" concurrency).
+Actual:  The real value or state of something at runtime, as opposed to its theoretical or "formal" definition.
+Actuate:  To put a machine or device into motion.
+Actuator:  A physical device that moves or controls a mechanism (common in robotics/embedded C).
+Adapt:  To modify a system so it can function in a new environment or with different data.
+Adapter:  A design pattern or hardware device that allows two incompatible interfaces to work together.
+Adaptive:  A system that changes its behavior based on its environment or the data it receives.
+Addition:  The mathematical operation of summing values ($A + B$).
+Address:  A unique identifier for a location in memory where data is stored.
+Addressable:  Memory that can be directly accessed by the CPU using an address.
+Adjust:  To change a parameter or setting slightly to achieve a desired result (fine-tuning).
+Admin / Administration:  Management tasks related to system configuration, security, and user roles.
+Administrator:  A user with high-level privileges to change system-wide settings.
+Adobe:  Specifically refers to the software company, but often used as shorthand for PDF or Flash formats.
+Adopt:  To take up or start using a specific standard, library, or methodology.
+Advance:  To move forward in a process or to a more complex level of a system.
+Advanced:  Sophisticated features or techniques that go beyond basic functionality.
+Adventure:  In gaming/logic, a genre or mode focused on exploration and narrative.
+Advice:  In Aspect-Oriented Programming, code that is executed at a specific "join point."
+Advise:  To provide information or a suggestion to a system or user.
+Advisor:  A tool or component that analyzes a system and suggests optimizations.
+Aerial:  Related to antennas or wireless transmission "over the air."
+Aggregate:  A collection of data items treated as one (e.g., a `struct` or a database "average").
+Aggregation:  A relationship where one object "contains" others, but the contained objects can exist independently.
+Agile:  An iterative approach to software development that emphasizes flexibility and frequent updates.
+Agility:  The ability of a system or team to respond quickly to change.
+Agree:  To reach a state of consensus, often used in distributed systems (Consensus Algorithms).
+Agreement:  A formal protocol or "contract" defining how two parts of a system will interact.
+Ahead:  Usually refers to "Ahead-of-Time" (AOT) compilation, where code is translated before the program runs.
+Aid:  A tool or function designed to assist a user or another process.
+Alert:  A notification triggered by a specific condition or error.
+Algebra:  The study of mathematical symbols and the rules for manipulating them (Boolean algebra is key to C logic).
+Algorithm:  A step-by-step set of instructions used to solve a specific problem.
+Algorithmic:  Relating to or following the steps of an algorithm.
+Alias:  A different name for the same memory location or variable (e.g., two pointers pointing to the same `int`).
+Align:  To position data or UI elements according to a specific reference point.
+Alignment:  How data is arranged in memory (e.g., 4-byte or 8-byte alignment) to optimize CPU performance.
+
+Allocate:  To reserve a block of memory for a specific purpose (using `malloc` or `calloc`).
+Allocation:  The actual act or instance of reserving that memory.
+Allocator:  The part of the system (or a custom function) responsible for managing memory requests.
+Alpha:  The first version of a software product; also refers to the "Alpha Channel" for transparency in images.
+Alphabet:  A set of characters used to form strings or symbols in a language.
+Alphabetic:  Consisting only of letters (A-Z).
+Alphanumeric:  Consisting of both letters and numbers (A-Z, 0-9).
+
+
+   Anchor:  A heavy object used to moor a ship to the sea bottom; or, a person/thing that provides stability.
+   Antenna:  A rod, wire, or other device used to transmit or receive radio or television signals.
+   Apparel:  Clothing or attire.
+   Appliance:  A device or piece of equipment designed to perform a specific task, typically a domestic one (like a toaster).
+   Armada:  A fleet of warships.
+   Armature:  The rotating part of an electric motor or generator; also a framework used by sculptors.
+    
+   Armor:  Metal coverings used to protect the body in battle.
+   Arsenal:  A collection of weapons and military equipment.
+   Article:  A particular item or object; also a piece of writing in a newspaper or magazine.
+   Artifact:  An object made by a human being, typically one of cultural or historical interest.
+   Artillery:  Large-caliber guns used in warfare on land.
+   Atlas:  A book of maps or charts.
+
+
+   Asterisk:  A symbol ( ) used in text as a pointer to an annotation or footnote.
+   Asteroid:  A small rocky body orbiting the sun.
+   Asthma:  A respiratory condition marked by spasms in the bronchi of the lungs, causing difficulty in breathing.
+   Astral:  Relating to the stars.
+   Astrology:  The study of the movements and relative positions of celestial bodies interpreted as having an influence on human affairs.
+   Asymmetric / Asymmetry:  Lacking symmetry; parts that do not fail to correspond to one another in shape or size.
+   Atavism:  A modification of a biological structure whereby an ancestral genetic trait reappears after having been lost through evolutionary change.
+   Ascent:  A climb or walk to the summit of a mountain or hill.
+   Aspiration / Aspire:  A hope or ambition of achieving something; to direct one's hopes toward achieving something.
+   Arrival / Arrive:  The action or process of arriving; reaching a destination.
+   Assent:  The expression of approval or agreement.
+   Assert / Assertion:  To state a fact or belief confidently and forcefully.
+   Assign / Assignment:  To allocate a job or duty to someone; the task itself.
+   Assist / Assistance / Assistant:  To help someone; the act of helping; the person providing help.
+   Assume / Assumption:  To suppose that something is the case without proof.
+   Astonish / Astonishment:  To surprise or impress someone greatly.
+   Aspect:  A particular part or feature of something.
+   Asset:  A useful or valuable thing, person, or quality.
+   Assess / Assessment:  To evaluate or estimate the nature, ability, or quality of something.
+   Associate / Association / Associative:  To connect someone or something with something else in one's mind; a group of people organized for a joint purpose.
+   Assortment:  A miscellaneous collection of a real thing or person.
+   Assure / Assurance:  To tell someone something positively or confidently to dispel any doubts.
+   Astute:  Having or showing an ability to accurately assess situations or people and turn this to one's advantage.
+   Asylum:  Protection granted by a nation to someone who has left their native country as a political refugee.
+   Apiary:  A place where bees are kept; a collection of beehives.
+   Apex:  The top or highest part of something, especially one forming a point.
+   Apology:  A regretful acknowledgment of an offense or failure.
+   Append / Appendix:  To add something as an attachment or supplement; a section of subsidiary matter at the end of a book.
+   Appetite:  A natural desire to satisfy a bodily need, especially for food.
+   Applied:  Put to practical use as opposed to being theoretical.
+   Appoint / Appointment:  To assign a job or role to someone; an arrangement to meet at a particular time.
+   Appreciate / Appreciation:  To recognize the full worth of something; a rise in value.
+   Appropriate:  Suitable or proper in the circumstances.
+   Approve / Approval:  To believe that someone or something is good or acceptable.
+   Approximate / Approximation:  Close to the actual, but not completely accurate or exact.
+   Aptitude:  A natural ability to do something.
+   Arbiter / Arbitrary / Arbitration / Arbitrator:  Relating to settling disputes. "Arbitrary" specifically refers to a choice based on random whim rather than reason.
+   Archaic:  Very old or old-fashioned.
+   Arena:  A level area surrounded by seats for spectators, used for sports or entertainment.
+   Arithmetic:  The branch of mathematics dealing with the properties and manipulation of numbers.
+   Arson:  The criminal act of deliberately setting fire to property.
+   Arsenic:  A chemical element that is a well-known strong poison.
+   Artificial:  Made or produced by human beings rather than occurring naturally.
+   Artist / Artistic / Artistry:  Relating to the creation of art or creative skill.
+   Asphalt:  A dark bituminous pitch used for surfacing roads.
+   Aspirin:  A synthetic compound used medicinally to relieve mild or chronic pain and reduce fever.
+Ambiguity: The quality of being open to more than one interpretation; inexactness.
+
+
+Amendment: A minor change or addition designed to improve a text or piece of legislation.
+
+Amenity: A desirable or useful feature or facility of a building or place.
+
+Amortize: To gradually write off the initial cost of an asset or to pay off a debt over a period of time.
+
+Amount: A quantity of something, especially the total of a thing or things in number, size, value, or extent.
+
+Amplifier: An electronic device for increasing the amplitude of electrical signals, used chiefly in sound reproduction.
+
+Amplitude: The maximum extent of a vibration or oscillation, measured from the position of equilibrium.
+
+Analog: Relating to signals or information represented by a continuously variable physical quantity.
+
+Analogy: A comparison between two things, typically for the purpose of explanation or clarification.
+
+Analysis: A detailed examination of the elements or structure of something.
+
+Analyst: A person who examines elementally the constituent parts of something.
+
+Analytic: Relating to or using analysis or logical reasoning.
+
+Analytics: The systematic computational analysis of data or statistics.
+
+Analyze: To examine methodically and in detail the constitution or structure of something.
+
+Ancestor: A person, typically one more remote than a grandparent, from whom one is descended.
+
+
+Angle: The space between two intersecting lines or surfaces at or close to the point where they meet.
+
+Angular: Having angles or sharp corners.
+
+Animation: The state of being full of life or vigor; also, the technique of photographing successive drawings to create an illusion of movement.
+
+Annex: To add as an extra or subordinate part, especially to a document or territory.
+
+Annotation: A note of explanation or comment added to a text or diagram.
+
+Announce: To make a formal public statement about a fact, occurrence, or intention.
+
+Announcement: A formal public statement about a fact, occurrence, or intention.
+
+Anomaly: Something that deviates from what is standard, normal, or expected.
+
+Anonymous: Of a person not identified by name; of unknown authorship.
+
+Answer: A thing said, written, or done to deal with or as a reaction to a question, statement, or situation.
+
+
+Anticipation: The action of anticipating something; expectation or prediction.
+
+Antiquity: The ancient past, especially the period before the Middle Ages.
+
+
+Aperture: An opening, hole, or gap.
+
+
+
+Apparatus: The technical equipment or machinery needed for a particular activity or purpose.
+
+
+Apparent: Clearly visible or understood; obvious.
+
+Appeal: To make a serious or urgent request, typically to the public.
+
+Appearance: The way that someone or something looks.
+
+
+Appendix: A section or table of additional matter at the end of a book or document.
+
+
+
+Applicant: A person who makes a formal application for something, typically a job.
+
+Application: A formal request to an authority for something.
+
+
+Apply: To make a formal application or request; to put to use.
+
+
+Appointment: An arrangement to meet someone at a particular time and place.
+
+Appraisal: An act of assessing something or someone.
+
+
+Appreciation: The recognition and enjoyment of the good qualities of someone or something.
+
+Apprentice: A person who is learning a trade from a skilled employer.
+
+Approach: To come near or nearer to in distance or time.
+
+
+Approval: The action of approving something; a formal agreement.
+
+
+
+Approximation: A value or quantity that is nearly but not exactly correct.
+
+
+Aquarium: A transparent tank of water in which fish and other water creatures and plants are kept.
+
+Aquatic: Relating to water.
+
+Aqueous: Of or containing water, typically as a solvent or medium.
+Definitions
+
+Arbitrary: Based on random choice or personal whim, rather than any reason or system.
+
+Arbitration: The use of an arbitrator to settle a dispute.
+
+Arbitrator: An independent person or body officially appointed to settle a dispute.
+
+Arc: A part of a curve, especially a part of the circumference of a circle.
+
+Arcade: A covered passage with arches along one or both sides; also a place with coin-operated games.
+
+
+Architecture: The complex or carefully designed structure of something; the art of designing buildings.
+
+Archive: A collection of historical documents or records providing information about a place, institution, or group.
+
+Archival: Relating to or constituting archives.
+
+Area: A region or part of a town, a country, or the world; the measurement of a surface.
+
+
+Argument: A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.
+
+Argumentation: The action or process of reasoning in support of an idea, action, or theory.
+
+
+
+
+
+Array: An impressive display or range of a particular type of thing; in computing, an ordered series of elements.
+
+
+Arrive: To reach a destination.
+
+Arrow: A shaft sharpened at the front and with feathers or vanes at the back, shot from a bow.
+
+
+
+
+
+
+
+
+
+Artistic: Having or revealing natural creative skill.
+
+Artistry: Creative skill or ability.
+
+
+Ascertain: To find something out for certain; make sure of.
+
+
+
+Aspirant: A person who has ambitions to achieve something.
+
+
+Aspire: To direct one's hopes or ambitions toward achieving something.
+
+
+Assemble: To gather together in one place for a common purpose; to fit together the separate parts of an object.
+
+Assembler: A person or thing that assembles; a program that translates assembly language into machine code.
+
+Assembly: A group of people gathered together in one place for a common purpose.
+
+
+
+Assertion: A confident and forceful statement of fact or belief.
+
+
+Assessment: The evaluation or estimation of the nature, quality, or ability of someone or something.
+
+
+
+Assignment: A task or piece of work assigned to someone as part of a job or course of study.
+
+
+Assistance: The action of helping someone with a job or task.
+
+Assistant: A person who ranks below a senior person and whose job is to help them.
+
+
+Association: A group of people organized for a joint purpose.
+
+Associative: Relating to association; in math, giving the same result regardless of grouping.
+
+
+
+Assumption: A thing that is accepted as true or as certain to happen, without proof.
+
+Assurance: A positive declaration intended to give confidence.
+
+
+
+
+
+
+Astonishment: Great surprise.
+
+
+
+Astronaut: A person who is trained to travel in a spacecraft.
+
+Astronomy: The branch of science that deals with celestial objects, space, and the physical universe as a whole.
+
+
+
+
+Asymmetry: Lack of equality or equivalence between parts or aspects of something.
+
+Asynchronous: Not occurring at the same time.
+
+
+Atheism: Disbelief or lack of belief in the existence of God or gods.
+
+Athlete: A person who is proficient in sports and other forms of physical exercise.
+
+Athletic: Physically strong, fit, and active.
+
+
+Atmosphere: The envelope of gases surrounding the earth or another planet.
+
+Atmospheric: Relating to the atmosphere of the earth or another planet.
+
+Atom: The basic unit of a chemical element.
+
+Atomic: Relating to an atom or atoms.
+
+Atomize: To convert a substance into very fine particles or droplets.
+
+Attach: To join or fasten something to something else.
+
+Attachment: An extra part or extension that is or can be attached to something to perform a particular function.
+
+Attack: To take aggressive military action against a place or enemy forces with weapons or armed force.
+
+Attain: To succeed in achieving something that one desires and has worked for.
+
+Attainment: The action or fact of achieving a goal towards which one has worked.
+
+Attempt: To make an effort to achieve or complete something difficult.
+
+Attend: To be present at an event, meeting, or function.
+
+Attendance: The action or state of going regularly to or being present at a place or event.
+
+Attendant: A person employed to provide a service to the public in a particular place.
+
+Attention: Notice taken of someone or something; the regarding of someone or something as interesting or important.
+Attentive: Paying close attention to something.
+
+Attenuate: To reduce the force, effect, or value of something.
+
+Attenuation: The reduction of the force, effect, or value of something.
+
+Attest: To provide or serve as clear evidence of something.
+
+Attic: A space or room inside or partly inside the roof of a house.
+
+Attitude: A settled way of thinking or feeling about someone or something.
+
+Attorney: A person, typically a lawyer, appointed to act for another in business or legal matters.
+
+Attract: To cause to come to a place or participate in a venture by offering something of interest.
+
+Attraction: A quality or feature of something or someone that evokes interest, liking, or desire.
+
+Attractive: Pleasing or appealing to the senses.
+
+Attribute: A quality or feature regarded as a characteristic or inherent part of someone or something.
+
+Attribution: The action of regarding something as being caused by a person or thing.
+
+Auction: A public sale in which goods or property are sold to the highest bidder.
+
+Audible: Able to be heard.
+
+Audience: The assembled spectators or listeners at a public event.
+
+Audio: Sound, especially when recorded, transmitted, or reproduced.
+
+Audit: An official inspection of an individual's or organization's accounts.
+
+Audition: An interview for a role or job as a singer, actor, dancer, or musician.
+
+Auditor: A person who conducts an official inspection of accounts.
+
+Auditorium: The part of a theater, concert hall, or other public building in which the audience sits.
+
+Augment: To make something greater by adding to it; increase.
+
+Augmentation: The action or process of making or becoming greater in size or amount.
+
+Augur: To portend a good or bad outcome.
+
+August: Respected and impressive.
+
+Aunt: The sister of one's father or mother or the wife of one's uncle.
+
+Aura: The distinctive atmosphere or quality that seems to surround and be generated by a person, thing, or place.
+
+Auricle: A structure resembling an ear or earlobe.
+
+Aurora: A natural electrical phenomenon characterized by appearance of streamers of reddish or greenish light in the sky.
+
+Authentic: Of undisputed origin; genuine.
+
+Authenticate: To prove or show something to be true, genuine, or valid.
+
+Authentication: The process or action of proving or showing something to be true, genuine, or valid.
+
+Author: A writer of a book, article, or report.
+
+Authoritative: Able to be trusted as being accurate or true; reliable.
+
+Authority: The power or right to give orders, make decisions, and enforce obedience.
+
+Authorize: To give official permission for or approval to.
+
+Authorship: The state or fact of being the writer of a book or the creator of a work.
+
+Auto: Relating to a car or automobile; often used as a prefix meaning "self."
+
+Automate: To convert a process or facility to largely automatic operation.
+
+Automatic: Working by itself with little or no direct human control.
+
+Automation: The use of largely automatic equipment in a system of manufacturing or other production process.
+
+Automaton: A moving mechanical device made in imitation of a human being.
+
+Automobile: A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor.
+
+Autonomous: Having the freedom to govern itself or control its own affairs.
+
+Autonomy: The right or condition of self-government.
+
+Autopsy: A post-mortem examination to discover the cause of death or the extent of disease.
+
+Autumn: The season after summer and before winter.
+
+Auxiliary: Providing supplementary or additional help and support.
+
+Avail: To use or take advantage of an opportunity or available resource.
+
+Availability: The quality of being able to be used or obtained.
+
+Available: Able to be used or obtained; at hand.
+
+Avalanche: A mass of snow, ice, and rocks falling rapidly down a mountainside.
+
+Avenue: A broad road in a town or city, typically having trees at intervals along its sides.
+
+Average: A number expressing the central or typical value in a set of data.
+
+Averse: Having a strong dislike of or opposition to something.
+
+Aversion: A strong dislike or disinclination.
+
+Avert: To turn away one's eyes or thoughts; to prevent or ward off an undesirable occurrence.
+
+Aviary: A large cage, building, or enclosure for keeping birds in.
+
+Aviation: The flying or operating of aircraft.
+
+Aviator: A pilot of an aircraft.
+
+Avid: Having or showing a keen interest in or enthusiasm for something.
+
+Avoid: To keep away from or stop oneself from doing something.
+
+Avoidance: The action of keeping away from or not doing something.
+
+Await: To wait for an event or a person.
+
+Awake: Not asleep.
+
+Award: A prize or other mark of recognition given in honor of an achievement.
+
+Aware: Having knowledge or perception of a situation or fact.
+
+Awareness: Knowledge or perception of a situation or fact.
+
+Away: To or at a distance from a particular place, person, or thing.
+
+Awe: A feeling of reverential respect mixed with fear or wonder.
+
+Awesome: Extremely impressive or daunting; inspiring great admiration, apprehension, or fear.
+
+Awful: Very bad or unpleasant.
+
+Awkward: Causing or feeling embarrassment or inconvenience.
+
+Awning: A sheet of canvas or other material stretched on a frame and used to keep the sun or rain off a storefront, window, or deck.
+
+Awry: Away from the appropriate, planned, or expected course; amiss.
+
+Axe: A tool used for chopping wood, typically of iron with a steel edge and wooden handle.
+
+Axial: Relating to or forming an axis.
+
+Axiom: A statement or proposition which is regarded as being established, accepted, or self-evidently true.
+
+Axis: An imaginary line about which a body rotates.
+
+Axle: A rod or spindle passing through the center of a wheel or group of wheels.
+
+Azimuth: The direction of a celestial object from the observer, expressed as the angular distance from the north or south point of the horizon.
+
+Azure: Bright blue in color, like a cloudless sky.
+Aardvark: A nocturnal, burrowing African mammal that feeds on ants and termites.
+
+Abacus: An ancient counting tool consisting of beads on rods.
+
+Abbey: A building or complex occupied by a community of monks or nuns.
+
+Abbot: The man who is the head of an abbey of monks.
+
+Abdomen: The part of the body between the chest and the pelvis; the belly.
+
+Ability: The possession of the means or skill to do something.
+
+Abode: A place of residence; a house or home.
+
+Abortion: The deliberate termination of a human pregnancy.
+
+Abrasion: An area damaged by scraping or wearing away.
+
+Absence: The state of being away from a place or person.
+
+
+Abundance: A very large quantity of something.
+
+Abuse: The habitual cruelty or violence toward another person; or the improper use of something.
+
+Abyss: A deep or seemingly bottomless chasm.
+
+Academy: A place of study or training in a special field.
+
+Accent: A distinctive mode of pronunciation of a language.
+
+Acceptance: The action of consenting to receive or undertake something offered.
+
+Accessory: A thing which can be added to something else in order to make it more useful, versatile, or attractive.
+
+
+Acclaim: Enthusiastic and public praise.
+
+Accolade: An award or privilege granted as a special honor or as an acknowledgment of merit.
+
+Accommodation: A room, group of rooms, or building in which someone may live or stay.
+
+Accompaniment: A musical part which supports or partners a solo instrument, voice, or group.
+
+Accomplice: A person who helps another commit a crime.
+
+Accomplishment: Something that has been achieved successfully.
+
+Accord: An official agreement or treaty.
+
+Accordion: A portable musical instrument with metal reeds, a keyboard, and bellows.
+
+
+Accountant: A person whose job is to keep or inspect financial accounts.
+
+
+Accusation: A charge or claim that someone has done something illegal or wrong.
+
+Ace: A playing card with a single symbol on it; or a person who excels at a particular sport or other activity.
+
+Acetate: A salt or ester of acetic acid; or a synthetic fiber made from cellulose.
+
+Achievement: A thing done successfully, typically by effort, courage, or skill.
+
+Acid: A chemical substance that neutralizes alkalis and turns litmus paper red.
+
+Acidity: The level of acid in a substance.
+
+Acorn: The fruit of the oak tree, consisting of a smooth nut in a cup-like base.
+
+
+Acquaintance: A person one knows slightly, but who is not a close friend.
+
+Acre: A unit of land area equal to 4,840 square yards.
+
+Acreage: An area of land, typically when used for agricultural purposes.
+
+Acrobat: An entertainer who performs spectacular gymnastic feats.
+
+Acronym: An abbreviation formed from the initial letters of other words and pronounced as a word (e.g., NASA).
+
+Acrylic: A synthetic resin or fiber; often used to describe types of paint.
+
+
+
+
+Actress: A female actor.
+
+Acuity: Sharpness or keenness of thought, vision, or hearing.
+
+Acupuncture: A system of complementary medicine that involves pricking the skin or tissues with needles.
+
+Adage: A proverb or short statement expressing a general truth.
+
+Adamant: Refusing to be persuaded or to change one's mind.
+
+Adaptation: The process of change by which an organism or species becomes better suited to its environment.
+
+
+Addict: A person who is physically and mentally dependent on a particular substance or activity.
+
+Addiction: The fact or condition of being addicted to a particular substance, thing, or activity.
+
+
+
+Adenoid: A patch of tissue that is high up in the throat, just behind the nose.
+
+Adept: Very skilled or proficient at something.
+
+Adequacy: The state or quality of being functional or acceptable in quality or quantity.
+
+Adhesion: The action or process of adhering to a surface or object.
+
+Adhesive: Able to stick fast to a surface or object; sticky.
+
+Adjacent: Next to or adjoining something else.
+
+Adjective: A word or phrase naming an attribute, added to or grammatically related to a noun.
+
+Adieu: Another word for goodbye.
+
+Adjustment: A small alteration or movement made to achieve a desired fit, appearance, or result.
+
+Administration: The process or activity of running a business, organization, or government.
+
+Admiral: A commander of a fleet or a naval officer of very high rank.
+
+Admiration: Respect and warm approval.
+
+Admission: The process or fact of entering or being allowed to enter a place, organization, or institution.
+
+
+Adolescent: A young person who is developing into an adult.
+
+Adoption: The action or fact of legally taking another's child and bringing it up as one's own.
+
+Adoration: Deep love and respect.
+
+Adrenalin: A hormone secreted by the adrenal glands, especially in conditions of stress.
+
+Adult: A person who is fully grown or developed.
+
+
+Advantage: A condition or circumstance that puts one in a favorable or superior position.
+
+Advent: The arrival of a notable person, thing, or event.
+
+
+Adverb: A word or phrase that modifies or qualifies an adjective, verb, or other adverb.
+
+Adversary: One's opponent in a contest, conflict, or dispute.
+
+Adversity: Difficulties; misfortune.
+
+Advertisement: A notice or announcement in a public medium promoting a product, service, or event.
+
+
+Advocacy: Public support for or recommendation of a particular cause or policy.
+
+
+Aerie: A large nest of a bird of prey, especially an eagle, typically built on a high cliff.
+
+Aerobics: Vigorous exercises, such as swimming or walking, designed to strengthen the heart and lungs.
+
+Aeronautics: The science or practice of travel through the air.
+
+Aerosol: A substance enclosed under pressure and able to be released as a fine spray.
+
+Aerospace: The branch of technology and industry concerned with flight and space flight.
+
+Aesthetic: Concerned with beauty or the appreciation of beauty.
+
+Afar: At, to, or from a great distance.
+
+Affair: An event or sequence of events of a specified kind.
+
+Affection: A gentle feeling of fondness or liking.
+
+Affidavit: A written statement confirmed by oath or affirmation, for use as evidence in court.
+
+Affiliate: Officially attach or connect to an organization.
+
+Affinity: A spontaneous or natural liking or sympathy for someone or something.
+
+Affirmation: The action or process of affirming something or being affirmed.
+
+Affirmative: Agreeing with a statement or to a request.
+
+Affix: To stick, attach, or fasten something to something else.
+
+Affliction: Something that causes pain or suffering.
+
+Affluence: The state of having a great deal of money; wealth.
+
+Affront: An action or remark that causes outrage or offense.
+
+Afghan: A person from Afghanistan; or a woolen blanket or shawl.
+
+Afield: To or at a distance.
+
+Afire: Burning; on fire.
+
+Afloat: Floating in water; or free of debt or financial difficulty.
+
+Afraid: Feeling fear or anxiety; frightened.
+
+Afresh: In a new or different way.
+
+African: Relating to Africa or its people.
+
+After: In the time following an event or another period of time.
+
+Afterglow: Light or radiance remaining after the sun has set.
+
+Afterlife: (In some religions) life after death.
+
+Aftermath: The consequences or aftereffects of a significant unpleasant event.
+
+Afternoon: The time from noon or lunchtime to evening.
+
+Afterthought: An item or thing that is thought of or added later.
+
+Afterward: At a later or future time; subsequently.
+
+Again: Another time; once more.
+
+Against: In opposition to.
+
+Agate: An ornamental stone consisting of a hard variety of chalcedony.
+
+Agave: A succulent plant with narrow spiny leaves.
+
+Age: The length of time that a person or thing has existed.
+
+Agency: A business or organization established to provide a particular service.
+
+Agenda: A list of items to be discussed at a formal meeting.
+
+Agent: A person who acts on behalf of another person or group.
+
+Aggravate: Make a problem or injury worse or more serious.
+
+
+Aggression: Feelings of anger or antipathy resulting in hostile or violent behavior.
+
+Aggressor: A person or country that attacks another first.
+
+Aggrieved: Feeling resentment at having been unfairly treated.
+
+Aghast: Filled with horror or shock.
+
+
+
+Aglow: Shining with a quiet but steady light.
+
+Agnostic: A person who believes that nothing is known or can be known of the existence or nature of God.
+
+Agony: Extreme physical or mental suffering.
+
+Agrarian: Relating to cultivated land or the cultivation of land.
+
+
+
+Agriculture: The science or practice of farming.
+
+Aground: (Of a ship) with the bottom touching the ground in shallow water.
+
+Ague: Malaria or some other illness involving fever and shivering.
+
+
+Aide: An assistant to an important person, especially a political leader.
+
+Ailment: An illness, typically a minor one.
+
+Aim: A purpose or intention; a desired outcome.
+
+Air: The invisible gaseous substance surrounding the earth.
+
+Airborne: Transported by air.
+
+Aircraft: An airplane, helicopter, or other machine capable of flight.
+
+Airfield: An area of land from which aircraft take off and land.
+
+Airline: An organization providing a regular public service of air transport on specified routes.
+
+Aliner: A large passenger aircraft.
+
+Airmail: A system of transporting mail by aircraft.
+
+Airplane: A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.
+
+Airport: A complex of runways and buildings for the takeoff, landing, and maintenance of civil aircraft.
+
+Airspeed: The speed of an aircraft relative to the air through which it is moving.
+
+Airstrip: A strip of ground for the takeoff and landing of aircraft.
+
+Airtight: Not allowing air to escape or pass through.
+
+Airway: The passage by which air reaches a person's lungs; or a regular route for aircraft.
+
+Aisle: A passage between rows of seats.
+
+Ajar: (Of a door or other opening) slightly open.
+
+Akimbo: With hands on the hips and elbows turned outward.
+
+Akin: Of similar character.
+
+Alabaster: A translucent form of gypsum or calcite, typically white, often carved into ornaments.
+
+Alarm: An anxious awareness of danger.
+
+Alarmist: A person who tends to raise alarms unnecessarily.
+
+Alas: Used to express grief, pity, or regret.
+
+Albatross: A very large oceanic bird with long narrow wings; or a source of emotional burden.
+
+Albeit: Although.
+
+Album: A blank book for the insertion of photographs, stamps, or pictures; or a collection of musical recordings.
+
+Albumen: Egg white, or the protein contained in it.
+
+Alchemy: The medieval forerunner of chemistry, based on the supposed transformation of matter.
+
+Alcohol: A colorless volatile flammable liquid which is the intoxicating constituent of wine, beer, and spirits.
+
+Alcoholic: A person suffering from alcoholism.
+
+Alcoholism: Addiction to the consumption of alcoholic liquor or the mental illness and compulsive behavior resulting from alcohol dependency.
+
+Alcove: A recess in the wall of a room or garden.
+
+Alder: A tree of the birch family, which has catkins and produces small cones.
+
+Alderman: An elected member of a municipal council.
+
+Ale: A type of beer with a bitter flavor and higher alcoholic content.
+
+
+Alfalfa: A leguminous plant with clover-like leaves and bluish flowers, native to southwestern Asia.
+
+Algae: A simple nonflowering plant of a large group that includes the seaweeds and many single-celled forms.
+
+
+
+Alibi: A claim or piece of evidence that one was elsewhere when an act is alleged to have taken place.
+
+Alien: Belonging to a foreign country or nation; or a hypothetical being from another world.
+
+Alienate: Cause someone to feel isolated or estranged.
+
+Alienation: The state or experience of being isolated from a group or an activity to which one should belong or in which one should be involved.
+
+Alight: (Of a bird) descend from the air and settle.
+
+
+
+Alike: (Of two or more people or things) similar to each other.
+
+Alimentary: Relating to nourishment or sustenance.
+
+Alimony: A husband's or wife's court-ordered provision for a spouse after separation or divorce.
+
+Alive: (Of a person, animal, or plant) living, not dead.
+
+Alkali: A compound with particular chemical properties including turning litmus blue and neutralizing or effervescing with acids.
+
+Alkaline: Having the properties of an alkali, or containing alkali; having a pH greater than 7.
+
+Alkalinity: The capacity of water to resist changes in pH that would make the water more acidic.
+
+All: Used to refer to the whole quantity or extent of a particular group or thing.
+
+Allay: Diminish or put at rest (fear, suspicion, or worry).
+
+Allegation: A claim or assertion that someone has done something illegal or wrong, typically one made without proof.
+
+Allege: Claim or assert that someone has done something illegal or wrong, typically without proof.
+
+Allegiance: Loyalty or commitment of a subordinate to a superior or of an individual to a group or cause.
+
+Allegory: A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one.
+
+Allergic: Caused by or relating to an allergy.
+
+Allergy: A damaging immune response by the body to a substance.
+
+Alleviate: Make (suffering, deficiency, or a problem) less severe.
+
+Alley: A narrow passage between or behind buildings.
+
+Alliance: A union or association formed for mutual benefit, especially between countries or organizations.
+
+Allied: Joined by or relating to members of an alliance.
+
+Alligator: A large semi-aquatic reptile similar to a crocodile but with a broader and shorter head.
+
+Alliteration: The occurrence of the same letter or sound at the beginning of adjacent or closely connected words.
+
+
+
+Allot: Give or apportion (something) to someone as a share or task.
+
+Allotment: A plot of land rented by an individual for growing vegetables or flowers.
+
+Allow: Give (someone) permission to do something.
+
+Allowance: The amount of something that is permitted, as within a set of regulations.
+
+Alloy: A metal made by combining two or more metallic elements.
+
+Allude: Suggest or call attention to indirectly; hint at.
+
+Allure: The quality of being powerfully and mysteriously attractive or fascinating.
+
+Allusion: An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.
+
+Alluvial: Relating to or derived from alluvium (soil or sediment deposited by a river).
+
+Ally: A state formally cooperating with another for a military or other purpose.
+
+Almanac: An annual calendar containing important dates and statistical information such as astronomical data and tide tables.
+
+Almighty: (Of God) having complete power; omnipotent.
+
+Almond: The oval edible nut-like kernel of an egg-shaped fruit, with a woody shell and a green fibrous husk.
+
+Almost: Very nearly but not quite.
+
+Alms: Money or food given to poor people.
+
+Aloft: Up in or into the air; overhead.
+
+Alone: Having no one else present.
+
+Along: Moving in a constant direction on a path or any more or less horizontal surface.
+
+Alongside: Close to the side of; next to.
+
+Aloof: Not friendly or forthcoming; cool and distant.
+
+Aloud: Audibly; not silently or in a whisper.
+
+Alpaca: A long-haired domesticated South American mammal related to the llama.
+
+
+
+Alpine: Relating to high mountains.
+
+Already: Before or by now or the time in question.
+
+Also: In addition; too.
+
+Altar: A table or flat-topped block used as the focus for a religious ritual.
+
+Alter: Change or cause to change in character or composition.
+
+Alteration: The action or process of altering or being altered.
+
+Altercation: A noisy argument or disagreement, especially in public.
+
+Alternate: Occur in turn repeatedly.
+
+Alternative: (Of one or more things) available as another possibility.
+
+Although: In spite of the fact that; even though.
+
+Altitude: The height of an object or point in relation to sea level or ground level.
+
+Alto: The highest adult male singing voice; or the lowest female voice.
+
+Altogether: Completely; totally.
+
+Altruism: The belief in or practice of disinterested and selfless concern for the well-being of others.
+
+Alum: A colorless astringent compound which is a hydrated double sulfate of aluminum and potassium.
+
+Aluminum: A light silvery-gray metal.
+
+Alumna: A female graduate or former student of a particular school, college, or university.
+
+Alumnus: A graduate or former student of a particular school, college, or university.
+
+Always: At all times; on all occasions.
+
+Amalgam: A mixture or blend.
+
+Amass: Gather together or accumulate (a large amount or number of valuable material or things) over a period of time.
+
+Amateur: A person who engages in a pursuit, especially a sport, on an unpaid rather than a professional basis.
+
+Amaze: Surprise (someone) greatly; fill with astonishment.
+
+Amazement: A feeling of great surprise or wonder.
+
+Amazon: A member of a legendary race of female warriors.
+
+Ambassador: An accredited diplomat sent by a country as its official representative to a foreign country.
+
+Amber: Hard translucent fossilized resin, typically yellowish in color.
+
+Ambiance: The character and atmosphere of a place.
+
+Ambidextrous: Able to use the right and left hands equally well.
+
+
+
+Ambition: A strong desire to do or to achieve something, typically requiring determination and hard work.
+
+Ambitious: Having or showing a strong desire and determination to succeed.
+
+Amble: Walk or move at a slow, relaxed pace.
+
+Ambulance: A vehicle equipped for taking sick or injured people to and from hospital.
+
+Ambush: A surprise attack by people lying in wait in a concealed position.
+
+Ameliorate: Make (something bad or unsatisfactory) better.
+
+Amen: Uttered at the end of a prayer or hymn, meaning "so be it."
+
+Amenable: (Of a person) open and responsive to suggestion; easily persuaded or controlled.
+
+Amend: Make minor changes in (a text) in order to make it fairer, more accurate, or more up-to-date.
+
+
+
+America: A continent in the Western Hemisphere; often used to refer to the United States.
+
+American: Relating to the United States of America or its people.
+
+Amethyst: A precious stone consisting of a violet or purple variety of quartz.
+
+Amiable: Having or displaying a friendly and pleasant manner.
+
+Amicable: (Of relations between people) having a spirit of friendliness; without serious disagreement or rancor.
+
+Amid: In the middle of; among.
+
+Amidst: Another word for amid.
+
+Amiss: Not quite right; inappropriate or out of place.
+
+Amity: A friendly relationship.
+
+Ammonia: A colorless gas with a characteristic pungent smell.
+
+Ammunition: A supply of bullets and shells.
+
+Amnesia: A partial or total loss of memory.
+
+Amnesty: An official pardon for people who have been convicted of political offenses.
+
+Amoeba: A single-celled animal that catches food and moves about by extending fingerlike projections of protoplasm.
+
+Amok: Behave uncontrollably and disruptively.
+
+Among: In the middle of; surrounded by.
+
+Amongst: Another word for among.
+
+Amoral: Lacking a moral sense; unconcerned with the rightness or wrongness of something.
+
+Amorous: Showing, feeling, or relating to sexual desire.
+
+
+Ampere: A unit of electric current.
+
+Ampersand: The sign & (standing for and).
+
+Amphibian: A cold-blooded vertebrate animal that is born in water and breathes with gills, but as an adult lives on land and breathes with lungs.
+
+Amphibious: Relating to, living in, or suited for both land and water.
+
+Amphitheater: A round or oval building, typically unroofed, with a central space for the presentation of dramatic or sporting events.
+
+Ample: Enough or more than enough; plentiful.
+
+Amplify: Make (something) more intense or stronger.
+
+
+Amply: In a generous or more than adequate way; plentifully.
+
+Amputate: Cut off (a limb), typically by surgical operation.
+
+Amputation: The action of surgically cutting off a limb.
+
+Amulet: An ornament or small piece of jewelry thought to give protection against evil, danger, or disease.
+
+Amuse: Cause (someone) to find something funny; entertain.
+
+Amusement: The state or experience of finding something funny.
+
+Anachronism: A thing belonging or appropriate to a period other than that in which it exists.
+
+Anagram: A word, phrase, or name formed by rearranging the letters of another.
+
+Anal: Relating to the anus.
+
+Analogies: Plural of analogy.
+
+
+
+
+
+
+Anarchy: A state of disorder due to absence or nonrecognition of authority.
+
+Anarchist: A person who believes in or tries to bring about anarchy.
+
+Anatomy: The branch of science concerned with the bodily structure of humans, animals, and other living organisms.
+
+
+Ancestral: Of, belonging to, or inherited from an ancestor or ancestors.
+
+Ancestry: One's family or ethnic descent.
+
+
+Anchorage: An area that is suitable for a ship to anchor in.
+
+Anchovy: A small, silver-colored forage fish of the family Engraulidae.
+
+Ancient: Belonging to the very distant past and no longer in existence.
+
+Andante: (In music) at a moderately slow tempo.
+
+Anecdote: A short amusing or interesting story about a real incident or person.
+
+Anemia: A condition marked by a deficiency of red blood cells or of hemoglobin in the blood.
+
+Anemometer: An instrument for measuring the speed of the wind.
+
+Anemone: A plant of the buttercup family, which typically has brightly colored flowers.
+
+Anesthesia: Insensitivity to pain, especially as artificially induced by the administration of gases or the injection of drugs.
+
+Anew: In a new or different and typically positive way.
+
+Angel: A spiritual being believed to act as an attendant, agent, or messenger of God.
+
+Angelic: Relating to angels.
+
+Anger: A strong feeling of annoyance, displeasure, or hostility.
+
+
+Angler: A person who fishes with a rod and line.
+
+Anglican: Relating to the Church of England or any of the churches in communion with it.
+
+Anglo: A prefix meaning English or British.
+
+Angora: A fabric or yarn made from the hair of the Angora goat or rabbit.
+
+Angry: Feeling or showing strong annoyance, displeasure, or hostility.
+
+Angst: A feeling of deep anxiety or dread, typically an unfocused one about the human condition.
+
+Anguish: Severe mental or physical pain or suffering.
+
+
+Animal: A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.
+
+Animate: Bring to life.
+
+
+Animosity: Strong hostility.
+
+Animus: Hostility or ill feeling.
+
+Anion: A negatively charged ion.
+
+Anise: A Mediterranean plant of the parsley family, cultivated for its aromatic seeds which are used in cooking and herbal medicine.
+
+Ankle: The joint connecting the foot with the leg.
+
+Annals: A record of events year by year.
+
+
+Annexation: The action of annexing something, especially territory.
+
+Annihilate: Destroy utterly; obliterate.
+
+Anniversary: The date on which an event took place in a previous year.
+
+
+
+Announcer: A person who introduces television or radio programs and makes announcements.
+
+Annoy: Make (someone) a little angry; irritate.
+
+Annoyance: The feeling or state of being annoyed; irritation.
+
+Annual: Occurring once every year.
+
+Annuity: A fixed sum of money paid to someone each year, typically for the rest of their life.
+
+Annul: Declare invalid (an official agreement, decision, or marriage).
+
+Annular: Ring-shaped.
+
+Anode: The positively charged electrode by which the electrons leave a device.
+
+Anoint: Smear or rub with oil, typically as part of a religious ceremony.
+
+
+Anon: Soon; shortly.
+
+Anonymity: The condition of being anonymous.
+
+
+Another: Used to refer to an additional person or thing of the same type.
+
+
+Ant: A small insect, typically having a sting and living in a complex social colony.
+
+Antagonism: Active hostility or opposition.
+
+Antagonist: A person who actively opposes or is hostile to someone or something; an adversary.
+
+Antarctic: Relating to the south polar region or its archipelago.
+
+Anteater: A mammal that feeds on ants and termites, having a long snout and tongue.
+
+Antecedent: A thing or event that existed before or logically precedes another.
+
+Antelope: A swift-running deer-like ruminant with smooth hair and upward-pointing horns.
+
+
+Anthem: A rousing or uplifting song identified with a particular group, body, or cause and levied on special occasions.
+
+Anthology: A published collection of poems or other pieces of writing.
+
+Anthracite: Coal of a hard variety that contains relatively pure carbon and burns with little flame and smoke.
+
+Anthrax: A serious infectious disease caused by gram-positive, rod-shaped bacteria.
+
+Anthropology: The study of human societies and cultures and their development.
+
+Antibiotic: A medicine that inhibits the growth of or destroys microorganisms.
+
+Antibody: A blood protein produced in response to and counteracting a specific antigen.
+
+Antics: Foolish, outrageous, or amusing behavior.
+
+Anticipate: Regard as probable; expect or predict.
+
+
+Anticlimax: A disappointing end to an exciting or impressive series of events.
+
+Antidote: A medicine taken or given to counteract a particular poison.
+
+Antigen: A toxin or other foreign substance which induces an immune response in the body.
+
+Antimony: A brittle silvery-white metalloid.
+
+Antipathy: A deep-seated feeling of dislike; aversion.
+
+Antiquarian: Relating to or dealing in antiques or rare books.
+
+Antiquated: Old-fashioned or outdated.
+
+Antique: A collectible object such as a piece of furniture or work of art that has a high value because of its considerable age.
+
+
+Antiseptic: Relating to or denoting substances that prevent the growth of disease-causing microorganisms.
+
+Antithesis: A person or thing that is the direct opposite of someone or something else.
+
+Antler: Each of the branched horns of a stag or other deer.
+
+Antonym: A word opposite in meaning to another.
+
+Anus: The opening at the end of the alimentary canal through which solid waste matter leaves the body.
+
+Anvil: A heavy iron block with a flat top and a pointed end, on which metal can be hammered and shaped.
+
+Anxiety: A feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome.
+
+Anxious: Experiencing worry, unease, or nervousness.
+
+Any: Used to refer to one or some of a thing or number of things, no matter how much or many.
+
+Anybody: Anyone.
+
+Anyhow: In any way or manner whatever.
+
+Anyone: Any person at all.
+
+Anything: A thing of any kind.
+
+Anyway: Used to confirm or support a point or idea just mentioned.
+
+Anywhere: In or to any place.
+
+Aorta: The main artery of the body, supplying oxygenated blood to the circulatory system.
+
+
+Shutterstock
+Explore
+Apace: Quickly.
+
+Apart: (Of two or more people or things) separated by a distance; at a specified distance from each other in time or space.
+
+Apartment: A suite of rooms forming one residence, typically in a building containing a number of these.
+
+Apathy: Lack of interest, enthusiasm, or concern.
+
+Ape: A large primate that lacks a tail, including the gorilla, chimpanzees, orangutan, and gibbons.
+
+Aperure: An opening, hole, or gap.
+
+
+Aphasia: Loss of ability to understand or express speech, caused by brain damage.
+
+Aphid: A small bug which feeds by sucking sap from plants.
+
+Aphorism: A pithy observation that contains a general truth, such as, “if it ain't broke, don't fix it.”
+
+Apiece: To, for, or by each one of a group.
+
+Aplomb: Self-confidence or assurance, especially when in a demanding situation.
+
+Apocalypse: The complete final destruction of the world, especially as described in the biblical Book of Revelation.
+
+Apocryphal: (Of a story or statement) of doubtful authenticity, although widely circulated as being true.
+
+Apogee: The highest point in the development of something; a climax or culmination.
+
+
+Apologetic: Offering or expressing an apology.
+
+Apoplectic: Overcome with anger; extremely indignant.
+
+Apostasy: The abandonment or renunciation of a religious or political belief.
+
+Apostle: Each of the twelve chief disciples of Jesus Christ.
+
+Apostolic: Relating to the apostles.
+
+Apostrophe: A punctuation mark (’) used to indicate either possession or the omission of letters or numbers.
+
+Apothecary: A person who prepared and sold medicines and drugs (historical term).
+
+Apotheosis: The highest point in the development of something; culmination or climax.
+
+Appall: Greatly dismay or horrify.
+
+
+
+
+Apparition: A ghost or ghostlike image of a person.
+
+
+Appear: Come into sight; become visible or noticeable, typically without visible agent or apparent cause.
+
+
+Appease: Pacify or placate (someone) by acceding to their demands.
+
+Appellant: A person who applies to a higher court for a reversal of the decision of a lower court.
+
+Appellate: (Especially of a court) concerned with or dealing with applications for decisions to be reversed.
+
+Appendage: A thing that is added or attached to something larger or more important.
+
+
+
+Appetizer: A small dish of food or a drink taken before a meal or the main course of a meal to stimulate one's appetite.
+
+Applaud: Show strong approval of (a person or action); clap one's hands.
+
+Applause: Approval or praise expressed by clapping.
+
+Apple: The round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.
+
+
+Applicable: Relevant or appropriate.
+
+
+
+
+
+
+
+Apportion: Divide and allocate.
+
+
+Appraise: Assess the value or quality of.
+
+Appreciable: Large or important enough to be noticed.
+
+
+
+Apprehend: Arrest (someone) for a crime.
+
+Apprehension: Anxiety or fear that something bad will happen.
+
+
+Apprise: Inform or tell (someone).
+
+
+
+Appropriation: The action of taking something for one's own use, typically without the owner's permission.
+
+
+
+
+Apricot: An orange-yellow fruit resembling a small peach.
+
+April: The fourth month of the year.
+
+Apron: A protective garment worn over the front of one's clothes and tied at the back.
+
+Apropos: With reference to; concerning.
+
+
+Aqua: A light bluish-green color.
+
+Aqualung: A portable breathing apparatus for divers.
+
+
+Aquarius: The eleventh sign of the zodiac.
+
+
+Aqueduct: An artificial channel for conveying water, typically in the form of a bridge across a valley.
+
+
+Aquifer: A body of permeable rock which can contain or transmit groundwater.
+
+Aquiline: Like an eagle; (of a person's nose) curved like an eagle's beak.
+
+Arab: A member of a Semitic people, originally from the Arabian Peninsula and neighboring territories.
+
+Arabesque: A posture in which the body is supported on one leg, with the other leg extended horizontally backward and arms outstretched.
+
+Arable: (Of land) used or suitable for growing crops.
+
+
+
+Arbitrate: (Of an independent person or body) reach an authoritative judgment or settlement.
+
+
+
+Arbor: A shady garden alcove with sides and a roof formed by trees or climbing plants.
+
+Arboreal: Living in trees.
+
+Arboretum: A botanical garden devoted to trees.
+
+
+
+Arcane: Understood by few; mysterious or secret.
+
+Arch: A curved symmetrical structure spanning an opening and typically supporting the weight of a bridge, roof, or wall above it.
+
+Archaeology: The study of human history and prehistory through the excavation of sites and the analysis of artifacts.
+
+
+Archaism: A thing that is very old or old-fashioned, especially an archaic word or expression.
+
+Archangel: An angel of high rank.
+
+Archbishop: The chief bishop responsible for an archdiocese.
+
+Archdiocese: The district for which an archbishop is responsible.
+
+Archer: A person who shoots with a bow and arrows.
+
+Archery: The sport or skill of shooting with a bow and arrows.
+
+Archetype: A very typical example of a certain person or thing.
+
+Archipelago: A group of islands.
+
+Architect: A person who designs buildings and in many cases also supervises their construction.
+
+
+
+Arctic: Relating to the regions around the North Pole.
+
+Ardent: Enthusiastic or passionate.
+
+Ardor: Enthusiasm or passion.
+
+Arduous: Involving or requiring strenuous effort; difficult and tiring.
+
+Are: Second person singular present and first, second, third person plural present of be.
+
+
+
+Argon: A colorless, odorless, inert gaseous element.
+
+Argosy: A large merchant ship, originally from Ragusa (now Dubrovnik) or Venice.
+
+Argue: Give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view.
+
+
+Arid: (Of land or a climate) having little or no rain; too dry or barren to support vegetation.
+
+Arise: (Of a problem, opportunity, or situation) emerge; become apparent.
+
+Aristocracy: The highest class in certain societies, especially those holding hereditary titles or offices.
+
+Aristocrat: A member of the aristocracy.
+
+
+Ark: (In the Bible) the ship built by Noah to save his family and two of every kind of animal from the Flood.
+
+Arm: Each of the two upper limbs of the human body from the shoulder to the hand.
+
+
+Armadillo: A nocturnal omnivorous mammal with large claws and a body covered in bony plates.
+
+Armament: Military weapons and equipment.
+
+
+Armchair: A comfortable chair with side supports for a person's arms.
+
+Armistice: An agreement made by opposing sides in a war to stop fighting for a certain time; a truce.
+
+
+Armory: A place where weapons are kept.
+
+Armpit: A hollow under the arm at the shoulder.
+
+Arms: Weapons and ammunition; armaments.
+
+Army: An organized military force equipped for fighting on land.
+
+Aroma: A distinctive, typically pleasant smell.
+
+Aromatic: Having a pleasant and distinctive smell.
+
+Arose: Past of arise.
+
+Around: On every side of.
+
+Arouse: Evoke or awaken (a feeling, emotion, or response).
+
+Arraign: Call or bring (someone) before a court to answer a criminal charge.
+
+Arrange: Put (things) in a neat, attractive, or required order.
+
+Arrangement: The action, process, or result of arranging or being arranged.
+
+
+Arrears: Money that is owed and should have been paid earlier.
+
+Arrest: Seize (someone) by legal authority and take into custody.
+
+
+
+Arrogant: Having or revealing an exaggerated sense of one's own importance or abilities.
+
+Arrogate: Take or claim (something) without justification.
+
+
+Arrowhead: The pointed end of an arrow.
+
+
+
+
+Art: The expression or application of human creative skill and imagination.
+
+Artery: Any of the muscular-walled tubes forming part of the circulation system by which blood is conveyed from the heart to all parts of the body.
+
+Artful: Clever or skillful, typically in a crafty or cunning way.
+
+Arthritis: Painful inflammation and stiffness of the joints.
+
+Artichoke: A European plant of the thistle family, with a thistle-like flower head.
+
+
+Articulate: (Of a person or a person's words) having or showing the ability to speak fluently and coherently.
+
+
+Artifice: Clever or cunning devices or expedients, especially as used to deceive others.
+
+
+
+Artisan: A worker in a skilled trade, especially one that involves making things by hand.
+
+
+
+
+Artless: Without effort or pretentiousness; natural and simple.
+
+Artsy: Making a strong, sometimes affected, display of being artistic or interested in the arts.
+
+Artwork: A painting, sculpture, photograph, or other product of the creative arts.
+
+Asbestos: A heat-resistant fibrous silicate mineral that can be woven into fabrics.
+
+Ascend: Go up or climb.
+
+Ascendancy: Occupation of a position of dominant power or influence.
+
+
+
+Ascetic: Characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence.
+
+Ascribe: Attribute something to (a cause).
+
+Aseptic: Free from contamination caused by harmful bacteria, viruses, or other microorganisms.
+
+Asexual: Without sexual feelings or associations.
+
+Ash: The powdery residue left after the burning of a substance.
+
+Ashamed: Embarrassed or guilty because of one's actions, characteristics, or associations.
+
+Ashen: (Of a person's face) very pale with shock, fear, or illness.
+
+Ashore: To or on the shore or land from the direction of the sea.
+
+Aside: To one side; out of the way.
+
+Asinine: Extremely stupid or foolish.
+
+Ask: Say something in order to obtain information or a reply.
+
+Askance: With an attitude or look of suspicion or disapproval.
+
+Askew: Not in a straight or level position.
+
+Asleep: In a state of sleep.
+
+Asparagus: A tall plant of the lily family with fine feathery foliage, cultivated for its edible young shoots.
+
+
+Aspen: A poplar tree with small leaves that flutter in the lightest wind.
+
+Asperity: Harshness of tone or manner.
+
+Aspersion: An attack on the reputation or integrity of someone or something.
+
+
+Asphyxia: A condition arising when the body is deprived of oxygen.
+
+
+Aspirate: Pronounce (a sound) with an exhalation of breath.
+
+
+
+
+Ass: A donkey; or a foolish or stupid person.
+
+Assail: Make a concerted and violent attack on.
+
+Assailant: A person who physically attacks another.
+
+Assassin: A person who murders an important person for political or religious motives.
+
+Assassinate: Murder (an important person) in a surprise attack for political or religious reasons.
+
+Assault: A concerted and violent attack, typically physical.
+
+Assay: The testing of a metal or ore to determine its ingredients and quality.
+
+Assemblage: A collection or gathering of things or people.
+
+
+
+
+
+
+Assertive: Having or showing a confident and forceful personality.
+
+
+
+Assessor: A person who evaluates the quality or a value of something.
+
+
+Assiduous: Showing great care and perseverance.
+
+
+
+Simulate: Take in (information, ideas, or culture) and understand fully.
+
+
+
+
+
+
+Assonance: In poetry, the repetition of the sound of a vowel or diphthong in nonrhyming stressed syllables.
+
+Assort: Categorize or arrange into groups of a similar kind.
+
+
+Assuage: Make (an unpleasant feeling) less intense.
+
+
+
+
+
+Assuredly: Used to express confidence or certainty in what one is saying.
+
+Aster: A composite plant with white, pink, or blue daisy-like flowers.
+
+
+
+
+Asthmatic: Relating to or suffering from asthma.
+
+Astir: In a state of excited movement.
+
+
+
+Astound: Shock or greatly surprise.
+
+
+Astray: Away from the correct path or direction.
+
+Astride: With a leg on each side of.
+
+Astringent: Causing the contraction of skin cells and other body tissues.
+
+
+
+
+
+Asunder: Apart; divided.
+
+
+
+
+Asymptomatic: (Of a condition or a person) producing or showing no symptoms.
+
+Asymptotic: Relating to or denoting an asymptote.
+
+
+
+Atheist: A person who disbelieves or lacks belief in the existence of God or gods.
+
+
+
+Athletics: Physical games or sports.
+
+Athwart: From side to side of.
+
+
+
+
+Atoll: A ring-shaped reef, island, or chain of islands formed of coral.
+
+
+
+
+Atonal: Not written in any key or mode.
+
+Atone: Make amends or reparation.
+
+Atonement: The action of making amends or reparation for a wrong or injury.
+
+Atop: On the top of.
+
+Atrium: An open-roofed entrance hall or central court in a building.
+
+Atrocious: Horrifyingly wicked.
+
+Atrocity: An extremely wicked or cruel act, typically one involving physical violence or injury.
+
+Atrophy: (Of body tissue or an organ) waste away, typically due to the degeneration of cells.
+
+
+Attache: A person on the staff of an ambassador.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attire: Clothes, especially fine or formal ones.
+
+
+
+
+
+
+
+Attrition: The action or process of gradually reducing the strength or effectiveness of someone or something through sustained attack or pressure.
+
+Attune: Make receptive or aware.
+
+Auburn: (Of hair) of a reddish-brown color.
+
+
+Audacious: Showing a willingness to take surprisingly bold risks.
+
+Audacity: A willingness to take bold risks.
+
+
+
+
+
+
+
+
+Auditory: Relating to the sense of hearing.
+
+Auger: A tool with a helical bit for boring holes in wood or ground.
+
+
+
+
+Augury: A sign of what will happen in the future; an omen.
+
+
+
+
+Aural: Relating to the ear or the sense of hearing.
+
+Aureole: A circle of light or brightness surrounding something, especially as depicted in art around the head or body of a holy person.
+
+
+Auspices: With the help, support, or protection of.
+
+Auspicious: Conducive to success; favorable.
+
+Austere: Severe or strict in manner, attitude, or appearance.
+
+Austerity: Sternness or severity of manner or attitude.
+
+Austral: Of or relating to the south, especially the Southern Hemisphere.
+
+
+Authenticity: The quality of being authentic.
+
+
+
+
+
+
+Autism: A developmental disorder of variable severity that is characterized by difficulty in social interaction and communication and by restricted or repetitive patterns of thought and behavior.
+
+Autistic: Relating to or affected by autism.
+
+
+Autobiography: An account of a person's life written by that person.
+
+Autocracy: A system of government by one person with absolute power.
+
+Autocrat: A ruler who has absolute power.
+
+Autograph: A signature, especially that of a celebrity written as a memento for an admirer.
+
+
+
+
+
+
+Automotive: Relating to motor vehicles.
+
+
+
+
+
+
+
+
+
+Avant-garde: New and unusual or experimental ideas, especially in the arts, or the people introducing them.
+
+Avarice: Extreme greed for wealth or material gain.
+
+Avatar: An icon or figure representing a particular person in video games, internet forums, etc.
+
+Avaunt: Go away.
+
+Avenge: Inflict harm in return for (an injury or wrong done to oneself or another).
+
+
+Aver: State or assert to be the case.
+
+
+
+
+
+
+
+
+
+Avidity: Extreme eagerness or enthusiasm.
+
+Avocado: A pear-shaped fruit with a rough leathery skin, smooth edible flesh, and a large stone.
+
+Avocation: A hobby or minor occupation.
+
+
+
+Avow: Assert or confess openly.
+
+Avowal: An open declaration or acknowledgment.
+
+Avuncular: Relating to an uncle.
+
+
+
+Awaken: Rouse from sleep; cause to stop sleeping.
+
+
+
+
+Awash: Covered or flooded with water, especially seawater or rain.
+
+
+
+
+
+Awfully: Very; extremely.
+
+
+Awl: A small pointed tool used for piercing holes, especially in leather.
+
+
+Awoke: Past of awake.
+
+
+
+
+
+
+
+Ay: Yes.
+
+Ayah: A native maid or nursemaid employed by Europeans in India.
+
+Aye: Yes.
+
+Azalea: A deciduous flowering shrub of the heath family with clusters of brightly colored, sometimes fragrant flowers.
+
+# ── New Entries (researched & added) ──────────────────────
+
+Backbone : The central or most important part of an organisation or structure.
+
+Balance : A situation in which different elements are equal or in correct proportions.
+
+Beacon : A light or signal serving as a warning or guide.
+
+Benign : Gentle and kindly; (of a condition) not harmful.
+
+Blueprint : A design plan or technical drawing; a model or template for something.
+
+Calibrate : To carefully measure and adjust an instrument to ensure accurate results.
+
+Cascade : A small waterfall; a series of stages forming a process.
+
+Catalyst : A substance or person that causes or accelerates change without being consumed.
+
+Chronicle : A factual written account of important events in the order they occurred.
+
+Cognition : The mental process of acquiring knowledge through thought, experience, and the senses.
+
+Consensus : General agreement among a group of people.
+
+Corridor : A long passage in a building from which doors lead into rooms.
+
+Debris : Scattered pieces of waste or remains left after damage or destruction.
+
+Delegate : A person authorised to represent others; to assign a task to someone else.
+
+Diligence : Careful and persistent work or effort.
+
+Diverge : To separate from a route or path and move in a different direction.
+
+Ecosystem : A biological community of organisms interacting with their physical environment.
+
+Eloquence : Fluency and persuasiveness in speaking or writing.
+
+Empirical : Based on observation or experience rather than theory or pure logic.
+
+Flourish : To grow or develop in a healthy or vigorous way; a bold or extravagant gesture.
+
+Fossil : The preserved remains or trace of a prehistoric organism embedded in rock.
+
+Gradient : The degree of steepness of a slope; a rate of change in a quantity.
+
+Gravity : The force that attracts objects with mass toward each other; also seriousness.
+
+Heritage : Valued traditions or property passed down through generations.
+
+Hibernate : To spend the winter in a dormant state to conserve energy.
+
+Ignite : To catch fire or cause to catch fire; to arouse a feeling.
+
+Impetus : A force or energy that makes something happen or happen more quickly.
+
+Labyrinth : A complicated irregular network of passages; a confusing complex situation.
+
+Legacy : Something handed down by a predecessor; a long-lasting impact.
+
+Luminous : Emitting or reflecting bright light; clearly expressed and inspiring.
+
+Narrative : A spoken or written account of connected events; a story.
+
+Nucleus : The central and most important part of a group; the core of an atom.
+
+Oblivion : The state of being unaware or forgotten; total obscurity.
+
+Panorama : An unobstructed wide view of an extensive area in all directions.
+
+Persevere : To continue in a course of action despite difficulty or delay in achieving success.
+
+Pinnacle : The most successful or exciting point; the highest peak of something.
+
+Plausible : Seeming reasonable or probable; apparently valid or acceptable.
+
+Prodigy : A person, especially a young one, with exceptional talent or ability.
+
+Resilient : Able to recover quickly from difficulties; tough and flexible.
+
+Scrutiny : Critical observation or examination of something in great detail.
+
+Serene : Calm, peaceful, and untroubled.
+
+Spectrum : A band of colours, or a wide range of related ideas or qualities.
+
+Synthesis : The combination of components or elements to form a new whole.
+
+Tenacious : Tending to keep a firm hold; not giving up easily; persistent.
+
+Threshold : The level at which something begins; the bottom of a doorway.
+
+Turbulent : Moving in a chaotic way; emotionally disturbed or politically unstable.
+
+Ubiquity : The fact of appearing everywhere or of being very widespread.
+
+Velocity : The speed of something in a given direction; rapidity of action.
+
+Vigour : Physical strength and good health; great energy or enthusiasm.
+
+Vivid : Producing powerful feelings or strong, clear images in the mind.
+
+Watershed : An event marking a turning point; a ridge dividing river drainage areas.
+
+Zenith : The highest point reached by a star; the peak of success or power.
