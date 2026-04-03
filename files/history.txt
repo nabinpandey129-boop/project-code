@@ -1,3 +1,0 @@
-[SEARCH        ] 1
-[SEARCH        ] ephermal
-[SEARCH        ] 1

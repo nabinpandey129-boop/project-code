@@ -3,9 +3,8 @@
  *  AXIX - Word Search & Dictionary
  *  (Simplified + Original Output Format Preserved)
  *
- *  Removed Feature:
- *    - Manual file input (user cannot add files anymore)
- *    - Only default file(s) are used
+ *  Added Feature:
+ *    - Stores search history silently (search_history.txt)
  *
  * ============================================================
  */
@@ -23,6 +22,7 @@
 #define MAX_PATH 260
 
 #define DICT_FILE "dictionary.txt"
+#define HISTORY_FILE "search_history.txt"   //  NEW
 
 #define CLR_RESET   "\033[0m"
 #define CLR_BOLD    "\033[1m"
@@ -76,6 +76,16 @@ char* findSubstring(const char *text, const char *word) {
 void printLine(char ch) {
     for (int i = 0; i < 44; i++) putchar(ch);
     printf("\n");
+}
+
+/* ================= SEARCH HISTORY ================= */
+
+void saveSearchHistory(const char *query) {
+    FILE *fp = fopen(HISTORY_FILE, "a"); // append
+    if (!fp) return; // no output change
+
+    fprintf(fp, "%s\n", query);
+    fclose(fp);
 }
 
 /* ================= FILE ================= */
@@ -215,6 +225,8 @@ void runSearch() {
     query[strcspn(query, "\n")] = 0;
     trim(query);
 
+    saveSearchHistory(query);   // ✅ NEW LINE
+
     printf(CLR_CYAN "\n  SEARCHING FILES FOR: \"%s\"\n" CLR_RESET, query);
     printLine('=');
 
@@ -236,9 +248,7 @@ void runSearch() {
     printLine('=');
 }
 
-/* ============================================================
-   VIEW FILE
-   ============================================================ */
+/* ================= VIEW FILE ================= */
 
 void viewFile() {
     if (!fileCount) {
@@ -270,9 +280,7 @@ void viewFile() {
     fclose(fp);
 }
 
-/* ============================================================
-   MENU
-   ============================================================ */
+/* ================= MENU ================= */
 
 void printMenu() {
     printf(CLR_CYAN
