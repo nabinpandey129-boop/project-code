@@ -3,11 +3,10 @@
  *  AXIX - Word Search & Dictionary
  *  (Simplified + Original Output Format Preserved)
  *
- *  Concepts used:
- *    - structs
- *    - arrays
- *    - file handling
- *    - string processing
+ *  Removed Feature:
+ *    - Manual file input (user cannot add files anymore)
+ *    - Only default file(s) are used
+ *
  * ============================================================
  */
 
@@ -16,22 +15,15 @@
 #include <string.h>
 #include <ctype.h>
 
-/* ============================================================
-   CONSTANTS
-   ============================================================ */
 #define MAX_ENTRIES 2000
 #define MAX_WORD 100
 #define MAX_MEANING 512
-#define MAX_SENTENCE 512
 #define MAX_LINE 1024
 #define MAX_FILES 10
 #define MAX_PATH 260
 
 #define DICT_FILE "dictionary.txt"
 
-/* ============================================================
-   COLORS (same as original)
-   ============================================================ */
 #define CLR_RESET   "\033[0m"
 #define CLR_BOLD    "\033[1m"
 #define CLR_RED     "\033[31m"
@@ -39,56 +31,41 @@
 #define CLR_YELLOW  "\033[33m"
 #define CLR_CYAN    "\033[36m"
 
-/* ============================================================
-   STRUCT
-   ============================================================ */
 typedef struct {
     char word[MAX_WORD];
     char meaning[MAX_MEANING];
-    char sentence[MAX_SENTENCE];
 } Entry;
 
-/* ============================================================
-   GLOBALS
-   ============================================================ */
 Entry dict[MAX_ENTRIES];
 int dictSize = 0;
 
 char fileList[MAX_FILES][MAX_PATH];
 int fileCount = 0;
 
-/* ============================================================
-   HELPER FUNCTIONS
-   ============================================================ */
+/* ================= HELPER ================= */
 
-/* Convert string to lowercase */
 void toLowerStr(char *s) {
     for (int i = 0; s[i]; i++)
         s[i] = tolower(s[i]);
 }
 
-/* Trim spaces */
 void trim(char *s) {
     int start = 0, end = strlen(s) - 1;
-
     while (isspace(s[start])) start++;
     while (end >= start && isspace(s[end])) end--;
 
     int j = 0;
     for (int i = start; i <= end; i++)
         s[j++] = s[i];
-
     s[j] = '\0';
 }
 
-/* Flush input */
 void flushInput() {
     while (getchar() != '\n');
 }
 
-/* Case-insensitive substring search */
 char* findSubstring(const char *text, const char *word) {
-    char t[MAX_LINE], w[MAX_WORD];
+    static char t[MAX_LINE], w[MAX_WORD];
     strcpy(t, text);
     strcpy(w, word);
     toLowerStr(t);
@@ -96,17 +73,13 @@ char* findSubstring(const char *text, const char *word) {
     return strstr(t, w);
 }
 
-/* Print line */
 void printLine(char ch) {
     for (int i = 0; i < 44; i++) putchar(ch);
     printf("\n");
 }
 
-/* ============================================================
-   FILE MANAGEMENT
-   ============================================================ */
+/* ================= FILE ================= */
 
-/* Add file (avoid duplicates) */
 void addFile(const char *path) {
     if (fileCount >= MAX_FILES) return;
 
@@ -116,29 +89,6 @@ void addFile(const char *path) {
     strcpy(fileList[fileCount++], path);
 }
 
-/* Add file from user */
-void addFileFromInput() {
-    char path[MAX_PATH];
-
-    printf("\n  Enter file path: ");
-    flushInput();
-    fgets(path, sizeof(path), stdin);
-
-    path[strcspn(path, "\n")] = 0;
-    trim(path);
-
-    FILE *fp = fopen(path, "r");
-    if (!fp) {
-        printf(CLR_RED "  File not found!\n" CLR_RESET);
-        return;
-    }
-    fclose(fp);
-
-    addFile(path);
-    printf(CLR_GREEN "  Added: %s\n" CLR_RESET, path);
-}
-
-/* Create default file */
 void createIfMissing(const char *path) {
     FILE *fp = fopen(path, "r");
     if (fp) { fclose(fp); return; }
@@ -148,9 +98,7 @@ void createIfMissing(const char *path) {
     fclose(fp);
 }
 
-/* ============================================================
-   DICTIONARY
-   ============================================================ */
+/* ================= DICTIONARY ================= */
 
 void loadDictionary() {
     FILE *fp = fopen(DICT_FILE, "r");
@@ -162,18 +110,15 @@ void loadDictionary() {
     char line[MAX_LINE];
 
     while (fgets(line, sizeof(line), fp)) {
-
         char *colon = strchr(line, ':');
         if (!colon) continue;
 
         *colon = '\0';
-
         trim(line);
         trim(colon + 1);
 
         strcpy(dict[dictSize].word, line);
         strcpy(dict[dictSize].meaning, colon + 1);
-
         dictSize++;
     }
 
@@ -182,15 +127,12 @@ void loadDictionary() {
     printf(CLR_GREEN "  Dictionary: %d words loaded.\n" CLR_RESET, dictSize);
 }
 
-/* ============================================================
-   FILE SEARCH
-   ============================================================ */
+/* ================= SEARCH ================= */
 
 int searchFiles(const char *query) {
     int total = 0;
 
     for (int i = 0; i < fileCount; i++) {
-
         FILE *fp = fopen(fileList[i], "r");
         if (!fp) continue;
 
@@ -201,7 +143,6 @@ int searchFiles(const char *query) {
             lineNum++;
 
             if (findSubstring(line, query)) {
-
                 if (hits == 0) {
                     printf(CLR_CYAN "\n  File: %s\n" CLR_RESET, fileList[i]);
                     printLine('-');
@@ -224,9 +165,7 @@ int searchFiles(const char *query) {
     return total;
 }
 
-/* ============================================================
-   DICTIONARY LOOKUP
-   ============================================================ */
+/* ================= DICTIONARY LOOKUP ================= */
 
 int lookupExact(const char *query) {
     char q[MAX_WORD];
@@ -264,9 +203,7 @@ void lookupPartial(const char *query) {
         printf("  No related words found.\n");
 }
 
-/* ============================================================
-   SEARCH DRIVER
-   ============================================================ */
+/* ================= DRIVER ================= */
 
 void runSearch() {
     char query[MAX_WORD];
@@ -350,16 +287,13 @@ void printMenu() {
     "  +------------------------------------------+\n"
     "  |  1. Search word or phrase                |\n"
     "  |  2. View file contents                   |\n"
-    "  |  3. Add file                             |\n"
     "  |  0. Exit                                 |\n"
     "  +------------------------------------------+\n" CLR_RESET);
 
     printf("  Choice: ");
 }
 
-/* ============================================================
-   MAIN
-   ============================================================ */
+/* ================= MAIN ================= */
 
 int main() {
 
@@ -386,7 +320,6 @@ int main() {
         switch (choice) {
             case 1: runSearch(); break;
             case 2: viewFile(); break;
-            case 3: addFileFromInput(); break;
             case 0:
                 printf(CLR_GREEN "\n  Goodbye!\n\n" CLR_RESET);
                 return 0;

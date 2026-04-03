@@ -56,3 +56,1645 @@ Vigour | Physical strength and good health; great energy or enthusiasm. | He att
 Vivid | Producing powerful feelings or strong, clear images in the mind. | She had such vivid memories of childhood that she could still smell the sea air.
 Watershed | An event marking a turning point; a ridge dividing river drainage areas. | The 2008 financial crisis proved to be a watershed moment for global banking regulation.
 Zenith | The highest point reached by a star; the peak of success or power. | At the zenith of her career, the author had written over thirty acclaimed novels.
+Back-end: The back-end server processes all the data requests.
+Backbone: The spine acts as the backbone of the skeletal system.
+Background: She has a background in computer science.
+Backslash: Use a backslash to escape special characters in code.
+Backup: Always keep a backup of your important files.
+Backward: He walked backward slowly.
+Balance: She maintained perfect balance on the beam.
+Band: The band played beautiful music at the concert.
+Bandwidth: The network has limited bandwidth during peak hours.
+Bank: He deposited money at the local bank.
+Banner: The banner hung across the street advertising the event.
+Bar: We met at a quiet bar downtown.
+Barcode: Scan the barcode to check the product price.
+Base: The military base is located outside the city.
+Baseband: The baseband processor handles signal transmission.
+Baseline: The baseline measurements were taken at the start.
+Bash: He gave his opponent a bash on the shoulder.
+Basic: These are the basic principles of mathematics.
+Batch: A batch of cookies was baking in the oven.
+Battery: The battery in my phone is running low.
+Baud: The baud rate determines communication speed.
+Bayes: Bayes' theorem is important in probability theory.
+Beacon: The lighthouse beacon guided ships safely to shore.
+Beam: A beam of sunlight entered the dark room.
+Behavior: Good behavior is expected in the classroom.
+Benchmark: This car set a new benchmark for fuel efficiency.
+Beta: The software is still in beta testing phase.
+Bias: She tried to overcome her personal bias.
+Bidirectional: The bidirectional street allows traffic in both directions.
+Big-endian: Big-endian systems store the most significant byte first.
+Binary: Computers operate using binary code of 1s and 0s.
+Bind: Bind the pages together with a spiral binding.
+Binding: The binding on the book was torn and needed repair.
+Bioinformatics: Bioinformatics combines biology with computer science.
+BIOS: The BIOS settings control hardware initialization.
+Bit: A single bit of data is either 0 or 1.
+Bitmap: The bitmap image was created using graphics software.
+Bitwise: Bitwise operations work on individual bits in numbers.
+Block: A large block of stone was used for the monument.
+Blocking: Blocking unwanted calls is easy with modern phones.
+Blog: She started a blog to share her travel experiences.
+Bluetooth: Connect your headphones using Bluetooth wireless technology.
+Board: The board of directors met to discuss strategy.
+Body: She has a healthy and strong body.
+Bold: He made a bold decision to change careers.
+Boolean: Boolean values are either true or false.
+Boot: Put on your boot before going outside.
+Bootloader: The bootloader initializes the operating system.
+Bootstrap: He used the bootstrap method to start his business.
+Borrow: Can I borrow your pen for a moment?
+Bot: The chat bot answered customer service questions.
+Bottom: The submarine descended to the bottom of the ocean.
+Bounce: The ball will bounce high on this surface.
+Bound: The books were bound in leather covers.
+Boundary: The boundary between the two countries is the river.
+Box: She put her jewelry in a small wooden box.
+Bracket: The shelf bracket is securely attached to the wall.
+Branch: The branch of the tree extended over the fence.
+Bridge: The bridge crosses the river connecting both towns.
+Broadcast: The radio station will broadcast the game live.
+Browse: I like to browse through the bookstore on weekends.
+Browser: Open the web browser to search for information.
+Brute-force: A brute-force attack tries all possible combinations.
+Bubble: A bubble floated up from the bottom of the pool.
+Bucket: Fill the bucket with water from the hose.
+Buffer: The buffer zone between the armies prevented conflict.
+Bug: A bug in the software caused the system to crash.
+Build: They will build a new school in the neighborhood.
+Built-in: The oven has a built-in timer.
+Bulk: Buying in bulk is more economical.
+Bullet: The bullet was lodged in the wall.
+Bundle: She wrapped a bundle of newspapers for recycling.
+Bus: I take the bus to work every morning.
+Business: Her business is growing rapidly this year.
+Busy: He is too busy to attend the meeting.
+Byte: One byte equals eight bits of data.
+
+---
+
+**B SECTION (CONTINUED) - COMMON WORDS:**
+
+Baboon: A baboon swung from tree to tree in the jungle.
+Baby: The baby cried throughout the night.
+Bachelor: He remained a bachelor his entire life.
+Back: She patted him on the back encouragingly.
+Bacon: Crispy bacon is perfect for breakfast.
+Bacteria: Bacteria can cause serious infections if not treated.
+Badge: The officer wore his badge with pride.
+Badger: Don't badger me with too many questions.
+Baffle: The magician's trick will baffle the audience.
+Bag: She carried a large bag of groceries.
+Baggage: Travelers must pay extra for excess baggage.
+Baggy: His baggy pants dragged on the ground.
+Bagel: A bagel with cream cheese is a popular breakfast.
+Bail: He paid bail to get out of jail.
+Bait: Fish bait should be fresh and smelly.
+Bake: I will bake cookies in the oven.
+Baker: The baker prepared fresh bread every morning.
+Bakery: The bakery on Main Street makes excellent pastries.
+Balance: She balanced the book on her head.
+Balcony: The couple enjoyed drinks on their balcony.
+Bald: He became bald after chemotherapy treatment.
+Ball: The child kicked the ball across the yard.
+Ballad: The ballad told a romantic love story.
+Ballast: Ballast weights stabilized the ship.
+Ballet: She performed gracefully in the ballet.
+Balloon: A balloon floated into the sky.
+Ballot: Each citizen cast their ballot on election day.
+Ballroom: The ballroom was decorated beautifully for the gala.
+Bamboo: Bamboo grows rapidly in tropical climates.
+Ban: The government issued a ban on smoking.
+Banal: The movie had a banal and predictable plot.
+Banana: She peeled the banana and ate it.
+Band: A band of musicians played at the festival.
+Bandage: The nurse applied a bandage to the wound.
+Bandana: He tied a bandana around his neck.
+Bandit: The bandit stole money from the train.
+Bandy: Their bandy conversation was full of jokes.
+Bang: The door slammed with a loud bang.
+Bangle: She wore a golden bangle on her wrist.
+Banish: The king decided to banish the traitor.
+Banjo: He played a lively tune on his banjo.
+Bank: Money is stored safely in a bank.
+Banker: The banker helped him secure a mortgage.
+Bankrupt: The company went bankrupt after bad decisions.
+Banner: A banner announced the opening of the store.
+Banquet: The banquet was an elegant dinner party.
+Banter: Friends engaged in friendly banter at the table.
+Banyan: The ancient banyan tree provided shade.
+Baptism: The baptism ceremony was held at the church.
+Bar: She sat at the bar ordering a drink.
+Barb: The fence had a sharp barb that scratched him.
+Barbarian: The barbarian tribes invaded the Roman empire.
+Barbaric: The treatment was barbaric and inhumane.
+Barbecue: We had a barbecue with friends on Sunday.
+Barber: The barber gave him a fresh haircut.
+Bare: His bare feet were cold on the floor.
+Barely: He barely passed the difficult exam.
+Bargain: She found a bargain at the clearance sale.
+Barge: The barge transported cargo down the river.
+Baritone: His baritone voice was deep and rich.
+Bark: The dog's bark alerted us to the visitor.
+Barley: Barley is a common ingredient in beer.
+Barn: The farmer stored hay in the barn.
+Barometer: The barometer predicted rain was coming.
+Baron: The baron owned vast lands and estates.
+Barracks: The soldiers lived in military barracks.
+Barrel: An oil barrel was stored in the warehouse.
+Barren: The barren desert had no vegetation.
+Barricade: Police set up a barricade on the street.
+Barrier: The barrier prevented unauthorized access.
+Barrister: The barrister presented the case in court.
+Barter: They decided to barter goods instead of using money.
+Basalt: Basalt is a type of volcanic rock.
+Base: The military base housed thousands of soldiers.
+Baseball: The baseball game lasted three hours.
+Basement: The basement flooded during the heavy rain.
+Bashful: The bashful girl hid behind her mother.
+Basin: A basin of water was used for washing.
+Basis: The basis for his argument was weak.
+Bask: Cats love to bask in the warm sun.
+Basket: She carried her groceries in a basket.
+Basketball: He played basketball in college.
+Bass: The bass guitar provided the low tones.
+Bassoon: The bassoon played a solo in the orchestra.
+Bast: Bast fiber is used to make rope.
+Bastard: The bastard child was rejected by society.
+Baste: Baste the turkey with butter while cooking.
+Bastion: The fortress was a bastion of strength.
+Bat: The bat flew silently through the night.
+Batch: The batch of emails arrived all at once.
+Bath: A hot bath relaxes tired muscles.
+Bathe: She will bathe the baby in warm water.
+Bathrobe: He put on his bathrobe after showering.
+Bathroom: The bathroom needs to be renovated.
+Bathtub: The bathtub is filled with hot water.
+Baton: The conductor held the baton while leading the orchestra.
+Battalion: A battalion of soldiers marched in formation.
+Batter: The batter stepped up to home plate.
+Battery: The battery powers the mobile device.
+Battle: The battle lasted for several days.
+Battlefield: The battlefield was littered with debris.
+Battleship: The battleship was the largest naval vessel.
+Bauble: She wore a beautiful bauble as a pendant.
+Bauxite: Bauxite is the primary ore of aluminum.
+Bawd: The bawd ran a brothel in town.
+Bawl: The baby began to bawl loudly.
+Bay: The bay was sheltered from the storm.
+Bayonet: The soldier attached a bayonet to his rifle.
+Bazaar: The bazaar was crowded with vendors and shoppers.
+Beach: We spent the day at the sandy beach.
+Beacon: The beacon light guided ships to safety.
+Bead: She strung beads to make a necklace.
+Beagle: The beagle is a popular hunting dog.
+Beak: The bird's sharp beak pecked at seeds.
+Beaker: The beaker contained a chemical solution.
+Beam: A wooden beam supported the roof.
+Bean: She cooked beans with rice for dinner.
+Bear: The bear stood on its hind legs.
+Beard: He grew a thick beard over the winter.
+Bearer: The pallbearer carried the coffin solemnly.
+Beast: The beast roared ferociously in the jungle.
+Beat: She beat the eggs to prepare the cake.
+Beater: The beater mixed the batter thoroughly.
+Beautiful: She wore a beautiful dress to the party.
+Beauty: Her natural beauty was admired by many.
+Beaver: The beaver built a dam across the stream.
+Became: She became a doctor after many years of study.
+Because: He couldn't attend because he was sick.
+Beckon: She would beckon him with her hand.
+Become: What will she become when she grows up?
+Bed: He lay in bed feeling under the weather.
+Bedding: Clean bedding was fresh and comfortable.
+Bedlam: The bedlam of voices created chaos.
+Bedraggled: Her bedraggled appearance showed she had been through much.
+Bedrock: The bedrock beneath the soil was solid stone.
+Bedroom: The bedroom was painted a soft blue color.
+Bedside: She sat by his bedside through the night.
+Bedtime: Children go to bedtime at eight o'clock.
+Bee: A bee collected pollen from the flowers.
+Beech: The beech tree provided shade in summer.
+Beef: Ground beef is used in many recipes.
+Beefy: His beefy arms showed his strength.
+Beehive: The beehive contained thousands of honeybees.
+Beer: He ordered a cold beer at the pub.
+Beet: A beet is a nutritious root vegetable.
+Beetle: The beetle crawled along the ground.
+Befall: Disaster may befall those who are unprepared.
+Before: Call me before you leave the house.
+Beforehand: We arranged the meeting beforehand.
+Befriend: She decided to befriend the lonely new student.
+Beg: He had to beg for forgiveness.
+Beggar: The beggar sat on the corner asking for money.
+Begin: The movie will begin at eight o'clock.
+Beginner: As a beginner, he needed guidance.
+Beginning: The beginning of the book was exciting.
+Begonia: The begonia flowers were a deep red color.
+Beguile: Her charm would beguile even the hardest hearts.
+Behalf: He spoke on behalf of the organization.
+Behave: Children must behave in class.
+Behavior: Her behavior was inappropriate and rude.
+Behead: They would behead criminals as punishment.
+Beheld: She beheld the beautiful sunset.
+Behind: He stood behind her protectively.
+Behold: Behold the magnificent view from the mountain.
+Beige: The beige walls were neutral and calming.
+Being: A human being deserves respect.
+Belated: His belated birthday gift finally arrived.
+Belch: He let out a loud belch at dinner.
+Belfry: The bells hung in the church belfry.
+Belief: Her belief in honesty was unwavering.
+Believe: I believe the story is true.
+Believer: She is a strong believer in education.
+Belittle: Don't belittle his efforts and achievements.
+Bell: The bell rang signaling the end of class.
+Bella: Bella was an Italian name meaning beautiful.
+Bellow: The angry man began to bellow at the crowd.
+Bellows: The blacksmith used bellows to fan the fire.
+Belly: He rubbed his belly after the meal.
+Belong: These books belong in the library.
+Beloved: She was the beloved daughter of her parents.
+Below: The temperature fell below freezing.
+Belt: He tightened his belt after eating too much.
+Bemoan: He would bemoan his bad fortune constantly.
+Bench: She sat on a bench in the park.
+Bend: Don't bend the paper or it will crease.
+Beneath: The treasure was hidden beneath the floorboards.
+Benefactor: The benefactor donated money to the school.
+Beneficial: Exercise is beneficial for your health.
+Beneficiary: She was the beneficiary of the large inheritance.
+Benefit: The benefit of exercise includes weight loss.
+Benevolence: His benevolence toward the poor was admirable.
+Benevolent: A benevolent leader cares for their people.
+Benign: The tumor was benign and not cancerous.
+Bent: The bent metal could not be straightened.
+Bequest: In his will, he made a bequest to charity.
+Berate: She would berate herself for small mistakes.
+Bereaved: The bereaved family gathered for the funeral.
+Berry: A berry picked from the bush was sweet.
+Berth: The ship pulled into its berth at the dock.
+Beryl: Beryl is a precious gemstone.
+Beseech: He would beseech the king for mercy.
+Beset: Problems beset the failing company.
+Beside: She sat beside him on the bench.
+Besides: Besides that, I have nothing else to say.
+Besiege: The army would besiege the castle.
+Besmirch: The scandal would besmirch his reputation.
+Best: She did her best work on this project.
+Bestow: The king would bestow honors on the knight.
+Bestseller: Her book became a bestseller overnight.
+Bet: He made a bet that he would win.
+Betrayal: The betrayal by his friend hurt deeply.
+Better: She is better at sports than I am.
+Beverage: What beverage would you like with dinner?
+Bevy: A bevy of beautiful women entered the room.
+Bewail: They would bewail the loss of their loved one.
+Beware: Beware of the dog, it bites.
+Bewilder: The complex instructions would bewilder anyone.
+Bewitch: Her beauty would bewitch all who saw her.
+Beyond: The beyond is unknown to us.
+Bias: His bias against the group was obvious.
+Bib: The baby wore a bib to catch food.
+Bible: She reads from the Bible every morning.
+Bibliography: The bibliography listed all sources used.
+Bicentennial: The town celebrated its bicentennial.
+Biceps: His biceps were large and muscular.
+Bicker: The children would bicker about silly things.
+Bicycle: She rode her bicycle to school.
+Bid: He placed a bid on the house at auction.
+Bidder: The highest bidder won the item.
+Bidding: The bidding continued for several minutes.
+Bide: He would bide his time waiting.
+Biennial: This event happens every two years biennial.
+Bier: The coffin rested on a bier.
+Bifurcate: The road will bifurcate ahead.
+Big: The big elephant was majestic.
+Bigamy: Bigamy is being married to two people.
+Bighorn: The bighorn sheep climbed steep cliffs.
+Bigot: A bigot refuses to accept different viewpoints.
+Bigotry: Bigotry and prejudice create division.
+Bike: He rode his bike down the street.
+Bikini: She wore a bikini to the beach.
+Bile: Bile helps digest fats in food.
+Bilingual: She is bilingual, speaking two languages.
+Bill: The restaurant bill was expensive.
+Billboard: A large billboard advertised the movie.
+Billet: Soldiers were billeted in the town.
+Billiards: They played billiards at the bar.
+Billion: A billion dollars is a huge amount.
+Billow: Smoke would billow from the chimney.
+Bin: Trash was placed in the bin.
+Binary: Binary code consists of 0s and 1s.
+Bind: Bind the books together with string.
+Binder: The binder held all her notes.
+Bindery: The bindery bound the books together.
+Binding: The binding on the book was torn.
+Binge: He went on a eating binge.
+Bingo: Grandma plays bingo every Tuesday.
+Binoculars: He looked through binoculars at the birds.
+Binomial: A binomial expression has two terms.
+Biochemistry: Biochemistry studies chemical processes in living things.
+Biography: Her biography revealed many secrets.
+Biology: Biology is the study of living organisms.
+Biopsy: The biopsy confirmed cancer diagnosis.
+Biped: Humans are bipeds walking on two legs.
+Biplane: The old biplane had two wings.
+Birch: The birch tree has white bark.
+Bird: The bird sang beautifully in the morning.
+Birth: The birth of her child was difficult.
+Birthday: We celebrated his birthday with a party.
+Birthplace: The birthplace of the nation was marked.
+Biscuit: A biscuit was served with tea.
+Bisect: The line will bisect the angle.
+Bishop: The bishop led the religious ceremony.
+Bison: The bison roamed the prairie.
+Bit: A bit of sugar improved the taste.
+Bitch: The female dog was in heat.
+Bite: The dog's bite was painful.
+Biting: The biting cold made us shiver.
+Bitten: He was bitten by a mosquito.
+Bitter: The bitter medicine was hard to swallow.
+Bitumen: Bitumen is used in road construction.
+Bivalve: A bivalve shell has two parts.
+Bivouac: The soldiers made a bivouac in the field.
+Bizarre: His bizarre behavior confused everyone.
+Black: The night was black as coal.
+Blackberry: A blackberry is a dark fruit.
+Blackboard: The teacher wrote on the blackboard.
+Blacken: Soot would blacken the wall.
+Blackguard: The blackguard was dishonest and cruel.
+Blackjack: They played blackjack at the casino.
+Blacklist: His name was added to the blacklist.
+Blackmail: Criminals tried to blackmail him.
+Blacksmith: The blacksmith forged iron tools.
+Bladder: The bladder stores urine.
+Blade: The blade of the knife was sharp.
+Blame: Don't blame me for your mistakes.
+Blameless: He was blameless in the matter.
+Blanch: Blanch the vegetables before cooking.
+Bland: The bland food had no flavor.
+Blandishment: Flattery and blandishment were used to persuade.
+Blank: The blank page was intimidating.
+Blanket: A warm blanket covered the bed.
+Blare: The blare of horns filled the street.
+Blarney: His blarney charm won them over.
+Blasphemy: Speaking blasphemy was considered a serious crime.
+Blast: The blast from the explosion was powerful.
+Blatant: A blatant lie is obviously untrue.
+Blaze: The blaze from the fire was intense.
+Blazer: She wore a blue blazer to the meeting.
+Bleach: Bleach will whiten stained clothes.
+Bleachers: Fans sat in the bleachers watching the game.
+Bleak: The bleak landscape was desolate.
+Bleat: The sheep made a bleating sound.
+Bleed: The cut will bleed if not bandaged.
+Blemish: A small blemish marred her perfect skin.
+Blend: Blend the ingredients in a mixer.
+Blender: Use a blender to make smoothies.
+Bless: Bless you when you sneeze.
+Blessing: It was a blessing in disguise.
+Blew: The wind blew hard last night.
+Blight: The blight destroyed the crops.
+Blimp: The blimp floated slowly overhead.
+Blind: The blind man used a cane.
+Blindfold: She wore a blindfold during the game.
+Blink: Blink your eyes if you understand.
+Bliss: The bliss of happiness was short-lived.
+Blissful: A blissful day at the beach.
+Blister: The blister on her foot was painful.
+Blithe: Her blithe spirit made everyone smile.
+Blitz: The blitz attack caught everyone off guard.
+Blizzard: A blizzard left two feet of snow.
+Bloat: Too much water will bloat your stomach.
+Blob: A blob of paint dripped on the canvas.
+Block: A block of wood was used.
+Blockade: A blockade surrounded the city.
+Blockage: A blockage in the pipe needed cleaning.
+Blond: Her blond hair shone in the sunlight.
+Blood: Blood flows through our veins.
+Bloodhound: The bloodhound tracked the scent.
+Bloodshed: The bloodshed from the battle was terrible.
+Bloodshot: His bloodshot eyes showed lack of sleep.
+Bloom: The flowers begin to bloom in spring.
+Bloomer: A bloomer is a type of short pants.
+Blossom: Cherry blossoms are beautiful in spring.
+Blot: A blot of ink stained the paper.
+Blotch: A red blotch appeared on his skin.
+Blouse: She wore a silk blouse with her skirt.
+Blow: A blow to the head knocked him down.
+Blower: The blower moved leaves across the yard.
+Blowout: A blowout tire caused the accident.
+Blubber: Whale blubber provided oil for lamps.
+Bludgeon: He threatened to bludgeon anyone in his way.
+Blue: The blue sky was cloudless.
+Blueberry: A blueberry pie is delicious.
+Bluebird: A bluebird sang on the branch.
+Blueprint: The blueprint showed the building design.
+Bluff: His bluff about having cards failed.
+Blunder: A blunder in judgment cost him.
+Blunt: A blunt knife cannot cut well.
+Blur: The fast motion created a blur.
+Blurb: The blurb on the book praised the story.
+Blush: She began to blush at the compliment.
+Bluster: His bluster was all talk and no action.
+Boa: The boa constrictor squeezed its prey.
+Boar: The wild boar was dangerous.
+Board: The board of directors made decisions.
+Boarding: Boarding school provided housing for students.
+Boardroom: They met in the boardroom for discussion.
+Boast: Don't boast about your accomplishments.
+Boat: The boat sailed across the lake.
+Boathouse: The boathouse stored rowboats.
+Bob: His head would bob up and down.
+Bobbin: Thread wound around a bobbin.
+Bobby: Bobby was a popular nickname.
+Bobcat: The bobcat hunted small animals.
+Bode: Dark clouds bode ill for the picnic.
+Bodice: The bodice of the dress was tight.
+Body: Her body was strong and healthy.
+Bodyguard: The celebrity had a bodyguard for protection.
+Bog: The bog was wet and muddy.
+Bogey: A bogey in golf is one over par.
+Boggle: The question would boggle your mind.
+Bogus: The bogus check was discovered.
+Boil: Boil the water for tea.
+Boiler: The boiler heated the house.
+Boisterous: The boisterous crowd was loud.
+Bold: A bold decision changed everything.
+Boll: The cotton boll opened in the fall.
+Bolster: Bolster your courage before the speech.
+Bolt: A bolt of lightning struck nearby.
+Bomb: The bomb was deactivated safely.
+Bombard: They would bombard him with questions.
+Bombardment: The bombardment lasted all night.
+Bombast: His speech was full of bombast.
+Bomber: The bomber flew overhead.
+Bombshell: The news was a bombshell.
+Bona: Bona fide means genuine and real.
+Bond: A bond between them formed.
+Bondage: Slavery was a form of bondage.
+Bone: A bone was found at the dig.
+Bonfire: A bonfire lit up the night.
+Bongo: Bongo drums created rhythmic beats.
+Bonnet: She wore a bonnet on her head.
+Bonus: The bonus was a pleasant surprise.
+Bony: His bony fingers were thin.
+Boo: The audience would boo the villain.
+Booby: A booby trap was set for intruders.
+Book: She read a good book all day.
+Bookcase: The bookcase held hundreds of books.
+Bookie: The bookie took bets on the race.
+Booking: The booking for the hotel was confirmed.
+Booklet: A booklet with instructions was provided.
+Bookmark: She used a bookmark to save her place.
+Bookseller: The bookseller recommended a novel.
+Bookshelf: The bookshelf was organized by author.
+Boom: The boom of thunder shook the house.
+Boomerang: The boomerang returned to the thrower.
+Boon: The rain was a boon to the farmers.
+Boor: The boor had bad manners.
+Boost: A boost of confidence helped him.
+Boot: She wore a boot on her injured foot.
+Booth: They sat in a booth at the diner.
+Bootleg: Bootleg alcohol was sold illegally.
+Booty: The pirates divided the booty equally.
+Booze: Booze was served at the party.
+Border: The border between countries was guarded.
+Borderline: Her performance was borderline acceptable.
+Bore: He would bore everyone with his stories.
+Boredom: Boredom set in during the lecture.
+Borough: The borough was part of the city.
+Borrow: Can I borrow your car for the day?
+Bosom: The bosom is the chest area.
+Boss: The boss gave him a raise.
+Bossy: Her bossy attitude annoyed people.
+Botanical: Botanical gardens display exotic plants.
+Botany: Botany is the study of plants.
+Botch: Don't botch the job by rushing.
+Both: Both children wanted candy.
+Bother: Don't bother me while I'm working.
+Bottle: A glass bottle held the wine.
+Bottleneck: Traffic became a bottleneck.
+Bottom: The bottom of the ocean is deep.
+Boudoir: The boudoir was her private room.
+Bough: A bough of the tree hung low.
+Bought: She bought groceries at the store.
+Boulder: A large boulder blocked the path.
+Boulevard: The boulevard was lined with trees.
+Bounce: The ball will bounce high.
+Bound: He was bound by his promise.
+Boundary: The boundary was clearly marked.
+Boundless: His boundless energy was impressive.
+Bounty: A bounty was offered for capture.
+Bouquet: A bouquet of flowers was given.
+Bourbon: Bourbon whiskey was his favorite.
+Bourgeois: Bourgeois attitudes frustrated the rebels.
+Bourgeoisie: The bourgeoisie controlled the economy.
+Boutique: The boutique sold expensive clothing.
+Bovine: The bovine animals grazed peacefully.
+Bow: He took a bow after the performance.
+Bowel: The bowel is part of the digestive system.
+Bower: The bower provided shade and privacy.
+Bowl: A bowl of soup was served.
+Bowline: The bowline knot was used on ships.
+Bowling: Bowling is a fun game.
+Bowman: The bowman shot arrows at the target.
+Box: Put the items in a box.
+Boxer: The boxer trained hard for the fight.
+Boxing: Boxing is a competitive sport.
+Boycott: They decided to boycott the company.
+Boyfriend: Her boyfriend gave her flowers.
+Brace: Brace yourself for impact.
+Bracelet: She wore a silver bracelet.
+Bracket: The bracket held the shelf firmly.
+Brackish: The brackish water was salty.
+Brag: Don't brag about your success.
+Braid: She wore her hair in a braid.
+Braille: Braille allows blind people to read.
+Brain: The brain controls the body.
+Brainy: She is brainy and intelligent.
+Brake: Apply the brake to stop the car.
+Bramble: Brambles covered the old fence.
+Bran: Bran is good dietary fiber.
+Branch: A branch fell from the tree.
+Brand: The brand was well-known.
+Brandy: Brandy is an alcoholic drink.
+Brass: Brass is an alloy of copper and zinc.
+Brassiere: A brassiere is intimate apparel.
+Brat: The brat threw a tantrum.
+Bravado: His bravado was just an act.
+Brave: Be brave and face your fears.
+Bravery: Bravery was shown by the firefighters.
+Bravo: The audience shouted bravo.
+Brawl: A brawl broke out at the bar.
+Brawn: The brawn of the team was strength.
+Bray: The donkey's bray was loud.
+Brazier: Coals glowed in the brazier.
+Breach: A breach in the wall was found.
+Bread: Bread was baking in the oven.
+Breadth: The breadth of knowledge was impressive.
+Break: Take a break from work.
+Breakage: The breakage of dishes cost money.
+Breakdown: A breakdown of the system occurred.
+Breakfast: Breakfast is eaten in the morning.
+Breast: Chicken breast is lean meat.
+Breath: Take a deep breath.
+Breathe: Breathe deeply to relax.
+Breathless: She was breathless from running.
+Breeches: Breeches are knee-length pants.
+Breed: Breed the dogs together.
+Breeding: Breeding ground for excellence.
+Breeze: A gentle breeze blew through.
+Breezy: A breezy attitude was refreshing.
+Brethren: The brethren gathered for prayer.
+Brevity: Brevity is the soul of wit.
+Brew: Brew a pot of coffee.
+Brewery: The brewery made excellent beer.
+Bribe: A bribe was offered for help.
+Bribery: Bribery is a serious crime.
+Brick: A brick was used in construction.
+Bricklayer: The bricklayer built the wall.
+Bridal: The bridal party was beautiful.
+Bride: The bride wore white.
+Bridegroom: The bridegroom waited nervously.
+Bridesmaid: The bridesmaid stood beside the bride.
+Bridge: The bridge spanned the gorge.
+Bridle: A bridle controlled the horse.
+Brief: A brief explanation was sufficient.
+Briefcase: He carried a leather briefcase.
+Brier: Brier thorns were sharp.
+Brigade: A brigade of soldiers marched.
+Brigadier: The brigadier commanded the troops.
+Brigand: The brigand robbed travelers.
+Bright: The bright light hurt his eyes.
+Brighten: Brighten your home with paint.
+Brilliance: Her brilliance was recognized.
+Brilliant: A brilliant solution was found.
+Brim: The brim of the hat was wide.
+Brimstone: Brimstone is sulfur.
+Brine: Brine is salty water.
+Bring: Bring the package to me.
+Brink: He stood on the brink of success.
+Brisk: A brisk walk is good exercise.
+Bristle: The bristle brush was stiff.
+Brittle: Brittle bones break easily.
+Broach: Broach the topic carefully.
+Broad: A broad mind accepts differences.
+Broadcast: Broadcast the message to all.
+Broaden: Broaden your perspective.
+Broadside: The broadside attack was devastating.
+Brocade: Brocade is a fancy fabric.
+Broccoli: Broccoli is a healthy vegetable.
+Brochure: A brochure advertised the vacation.
+Brogue: His brogue showed his Irish heritage.
+Broil: Broil the fish in the oven.
+Broke: He was broke and had no money.
+Broken: The broken window was replaced.
+Broker: The broker sold the house.
+Brokerage: The brokerage charged a fee.
+Bromide: A bromide is a chemical compound.
+Bromine: Bromine is a chemical element.
+Bronchus: The bronchus carries air to lungs.
+Bronze: Bronze is a metal alloy.
+Brooch: She wore a brooch on her lapel.
+Brood: A brood of chicks huddled together.
+Brook: A small brook ran through the woods.
+Broom: Use a broom to sweep the floor.
+Broth: Broth is a soup made from meat.
+Brothel: A brothel is a disreputable house.
+Brother: His brother was his best friend.
+Brotherhood: Brotherhood united them as one.
+Brought: He brought flowers to the hospital.
+Brow: Sweat formed on his brow.
+Browbeat: Don't browbeat someone into submission.
+Brown: The brown dog was friendly.
+Brownie: A brownie is a chocolate dessert.
+Browse: Browse through the magazine.
+Bruise: A bruise formed on his arm.
+Brunette: The brunette woman had dark hair.
+Brunt: The brunt of the attack was fierce.
+Brush: Use a brush for painting.
+Brusque: His brusque manner was rude.
+Brute: A brute force approach was used.
+Brutal: The treatment was brutal and cruel.
+Brutality: Brutality was not tolerated.
+Bubble: A bubble floated through the air.
+Buccaneer: The buccaneer sailed the seas.
+Buck: A buck is a male deer.
+Bucket: A bucket holds water.
+Buckle: Buckle your seatbelt for safety.
+Buckwheat: Buckwheat is a grain crop.
+Bud: The flower bud will open soon.
+Buddha: Buddha is a spiritual teacher.
+Buddy: My buddy helped me move.
+Budge: He refused to budge from his position.
+Budget: The budget was carefully planned.
+Buff: A buff color is light tan.
+Buffalo: The buffalo roamed the plains.
+Buffer: The buffer reduced the impact.
+Buffet: A buffet offered many food choices.
+Buffoon: The buffoon entertained the crowd.
+Bug: A bug crawled across the floor.
+Buggy: The buggy was pulled by horses.
+Bugle: The bugle sounded the charge.
+Build: Build the house with quality materials.
+Builder: The builder constructed the home.
+Building: The building was ten stories tall.
+Bulb: A light bulb illuminated the room.
+Bulge: The bulge in his pocket was his wallet.
+Bulk: Buy in bulk to save money.
+Bulky: The bulky package was hard to carry.
+Bull: The bull was strong and powerful.
+Bulldog: The bulldog was friendly despite its appearance.
+Bulldozer: The bulldozer cleared the land.
+Bullet: A bullet was fired from the gun.
+Bulletin: The bulletin announced the news.
+Bullpen: The bullpen held relief pitchers.
+Bulletproof: The bulletproof vest protected him.
+Bully: The bully picked on younger children.
+Bulwark: The bulwark protected the city.
+Bumble: Bumble through the task carelessly.
+Bumblebee: The bumblebee buzzed around flowers.
+Bump: A bump on the road jolted the car.
+Bumper: The bumper protected the car.
+Bumpkin: A country bumpkin visited the city.
+Bun: She wore her hair in a bun.
+Bunch: A bunch of grapes was eaten.
+Bundle: A bundle of sticks was gathered.
+Bungalow: The bungalow was a small house.
+Bungle: Don't bungle the assignment.
+Bunk: He slept in a bunk bed.
+Bunker: The bunker provided protection.
+Bunny: The white bunny hopped away.
+Bunting: Bunting decorated the room.
+Buoy: A buoy marked the channel.
+Buoyancy: Buoyancy kept the boat afloat.
+Buoyant: A buoyant mood lifted spirits.
+Burden: The burden was heavy to carry.
+Bureau: The bureau was a furniture piece.
+Bureaucracy: Bureaucracy slowed the process.
+Bureaucrat: The bureaucrat followed the rules.
+Burg: The burg was a small town.
+Burger: A burger was ordered for lunch.
+Burglar: The burglar stole valuables.
+Burglary: Burglary is a serious crime.
+Burial: The burial ceremony was solemn.
+Burlap: Burlap is a coarse fabric.
+Burlesque: A burlesque show entertained.
+Burly: The burly man was strong.
+Burn: Don't burn your hand on the stove.
+Burner: The burner on the stove was hot.
+Burnish: Burnish the metal to a shine.
+Burrow: The rabbit dug a burrow.
+Bursar: The bursar managed the finances.
+Burst: A burst of energy propelled him.
+Bury: Bury the treasure for safekeeping.
+Bus: The bus transported passengers.
+Bush: A bush grew near the fence.
+Bushel: A bushel of apples was harvested.
+Business: Business is booming.
+Businessman: The businessman wore a suit.
+Bust: A bust of the statue was made.
+Bustle: Bustle and activity filled the market.
+Busy: She was busy with work.
+Busybody: A busybody gossips about others.
+Butcher: The butcher sold meat.
+Butler: The butler served dinner.
+Butt: The butt of the joke was him.
+Butter: Spread butter on the bread.
+Butterfly: A butterfly landed on the flower.
+Buttermilk: Buttermilk was used in the batter.
+Butternut: Butternut squash is nutritious.
+Button: Button your coat before leaving.
+Buttress: The buttress supported the wall.
+Buxom: Her buxom figure turned heads.
+Buy: Buy milk from the store.
+Buyer: The buyer paid a fair price.
+Buzz: A buzz of excitement filled the room.
+Buzzard: The buzzard circled overhead.
+Buzzer: The buzzer signaled the end.
+Bypass: Bypass the traffic using the detour.
+Bygone: Bygone days were nostalgic.
+Bylaw: The bylaw was enforced strictly.
+Byproduct: A byproduct of oil refining is plastic.
+Bystander: A bystander witnessed the accident.
+Byte: A byte contains eight bits.
+Byway: The byway was a quiet route.
+
+---
+
+**R SECTION PHRASES:**
+
+Race: Win the race by running fast.
+Rack: Hang your coat on the rack.
+Radar: Radar detected the aircraft.
+Radial: The radial pattern expanded outward.
+Radiant: Her radiant smile was infectious.
+Radiate: Heat would radiate from the fire.
+Radiator: The radiator cooled the engine.
+Radical: A radical change was needed.
+Radio: Listen to the radio for music.
+Radius: The radius of the circle is five inches.
+Raft: The raft drifted down the river.
+Rag: A rag wiped up the spill.
+Rage: His rage was uncontrollable.
+Raid: The raid was conducted at dawn.
+Rail: The rail was made of steel.
+Railroad: Travel by railroad across the country.
+Rain: Rain fell steadily all day.
+Rainbow: A rainbow appeared after the storm.
+Raise: Raise your hand to ask a question.
+Rake: Use a rake to gather leaves.
+Rally: The rally brought supporters together.
+Ram: The ram charged with its horns.
+Ramp: The ramp provided wheelchair access.
+Ran: She ran fast in the race.
+Ranch: The ranch raised cattle.
+Random: A random selection was made.
+Range: The range of options was wide.
+Rank: He achieved the rank of captain.
+Rapid: Rapid changes occurred.
+Rare: A rare gem was discovered.
+Rascal: The rascal caused mischief.
+Rash: A rash decision was regretted.
+Rat: A rat scurried across the floor.
+Rate: The rate was two dollars per hour.
+Rather: I would rather go there today.
+Ratio: The ratio of boys to girls was even.
+Rational: A rational decision was made.
+Rattle: The rattle made noise for baby.
+Raw: Raw vegetables are healthy.
+Ray: A ray of light entered the room.
+Razor: A sharp razor was used to shave.
+Reach: Reach as high as you can.
+React: React quickly to the situation.
+Reactor: The reactor produced electricity.
+Read: Read the book carefully.
+Reader: A reader enjoys books.
+Ready: Be ready to leave soon.
+Real: Is this real or fake?
+Reality: Reality was harsher than expected.
+Realize: Realize your potential through effort.
+Realm: The realm was vast and prosperous.
+Rear: The rear of the car was damaged.
+Reason: The reason was obvious to everyone.
+Rebel: The rebel fought against the government.
+Recall: Recall the memory from childhood.
+Receipt: Keep your receipt for the purchase.
+Receive: Receive the package at the door.
+Recent: Recent events were disturbing.
+Recipe: Follow the recipe carefully.
+Record: Record the information accurately.
+Recover: Recover from the illness completely.
+Recruit: Recruit new team members.
+Rectangle: A rectangle has four right angles.
+Rectify: Rectify the mistake immediately.
+Recur: Problems recur without a solution.
+Red: The red car was fast.
+Reduce: Reduce the size of the file.
+Reed: A reed grows by the water.
+Reef: The reef was beautiful to explore.
+Reel: Reel in the fish slowly.
+Refer: Refer to the manual for help.
+Refine: Refine the process for better results.
+Reflect: Reflect on your actions.
+Reform: Reform the system completely.
+Refuge: Take refuge in the shelter.
+Refund: Request a refund for defective goods.
+Refuse: Refuse to accept poor treatment.
+Regard: Regard his opinion as valuable.
+Regent: The regent ruled during the king's absence.
+Regime: The regime was oppressive.
+Region: The region was mountainous.
+Register: Register to vote in elections.
+Regret: Regret your careless words.
+Regular: Regular exercise is essential.
+Reject: Reject the faulty product.
+Rejoice: Rejoice at the good news.
+Relate: Relate the events in order.
+Relax: Relax by the pool.
+Relay: Relay the message to others.
+Release: Release the prisoner immediately.
+Relic: The relic was thousands of years old.
+Relief: Relief washed over him.
+Relieve: Relieve the pain with medicine.
+Religion: Religion provided comfort.
+Rely: Rely on friends for support.
+Remain: Remain calm in emergencies.
+Remark: Remark about the situation.
+Remedy: The remedy cured the disease.
+Remember: Remember the important date.
+Remind: Remind me of the appointment.
+Remnant: A remnant of fabric remained.
+Remote: A remote location was chosen.
+Remove: Remove the obstacle blocking the path.
+Render: Render the decision fairly.
+Renew: Renew the subscription for another year.
+Renounce: Renounce all claims to the throne.
+Renown: His renown spread far and wide.
+Rent: Rent an apartment in the city.
+Repair: Repair the broken window.
+Repeal: Repeal the unfair law.
+Repeat: Repeat the instructions clearly.
+Repel: Repel the attack with force.
+Repent: Repent of past wrongdoings.
+Replace: Replace the worn-out tire.
+Reply: Reply to the email promptly.
+Report: Report the accident to police.
+Repose: The body was in repose.
+Represent: Represent the company abroad.
+Repress: Repress the urge to speak.
+Reprieve: A reprieve delayed the execution.
+Reproach: Reproach yourself for the mistake.
+Reproduce: Reproduce the document exactly.
+Reptile: A reptile is cold-blooded.
+Republic: The republic was democratic.
+Repulse: Repulse the enemy attack.
+Reputation: His reputation was spotless.
+Request: Request assistance from others.
+Require: Require strict adherence to rules.
+Rescue: Rescue the trapped animal.
+Research: Research the topic thoroughly.
+Resemble: Resemble your parent's appearance.
+Resent: Resent unfair treatment.
+Reserve: Reserve a table for dinner.
+Reservoir: The reservoir supplied water.
+Reside: Reside in the countryside.
+Residual: Residual effects remained.
+Residue: Residue covered the surface.
+Resign: Resign from the position.
+Resin: Resin dripped from the tree.
+Resist: Resist temptation successfully.
+Resolute: Remain resolute in beliefs.
+Resolve: Resolve the conflict peacefully.
+Resonance: Resonance vibrated the speakers.
+Resort: Resort to drastic measures.
+Resource: A resource provided great value.
+Respect: Respect your elders.
+Respond: Respond to the question.
+Response: The response was immediate.
+Rest: Rest after hard work.
+Restaurant: The restaurant served excellent food.
+Restore: Restore the antique furniture.
+Restrict: Restrict access to the area.
+Result: The result was successful.
+Resume: Resume work after the break.
+Retail: Retail stores sell to consumers.
+Retain: Retain all important documents.
+Retard: Retard the progress temporarily.
+Retina: The retina detects light.
+Retire: Retire from work at sixty-five.
+Retort: Retort with a witty response.
+Retract: Retract the false statement.
+Retreat: Retreat from the advancing army.
+Retrieve: Retrieve the lost items.
+Return: Return the borrowed item.
+Reveal: Reveal the secret slowly.
+Revenge: Revenge is never satisfying.
+Revenue: Revenue increased this quarter.
+Reverse: Reverse the car carefully.
+Review: Review the material before testing.
+Revise: Revise the essay thoroughly.
+Revive: Revive the dying plant.
+Revoke: Revoke the license immediately.
+Revolt: Revolt against unjust rule.
+Reward: Reward good behavior.
+Rhythm: The rhythm of the music was steady.
+Rib: A rib bone was broken.
+Ribbon: A ribbon tied the package.
+Rice: Rice is a staple food.
+Rich: The rich family owned mansions.
+Rid: Rid yourself of bad habits.
+Riddle: Solve the riddle correctly.
+Ride: Ride the horse carefully.
+Ridge: A ridge ran along the mountain.
+Rifle: A rifle was used for hunting.
+Rift: A rift formed between friends.
+Right: The right answer was obvious.
+Rigid: Rigid rules were enforced.
+Rigor: Rigor was required for success.
+Rim: The rim of the cup was chipped.
+Ring: The ring was beautiful and expensive.
+Rinse: Rinse the dishes thoroughly.
+Riot: A riot broke out downtown.
+Rip: Rip the paper in half.
+Ripe: The ripe fruit was sweet.
+Ripple: A ripple spread across the water.
+Rise: Rise early in the morning.
+Risk: Risk everything for the goal.
+Rite: The rite was sacred and meaningful.
+Ritual: The ritual was performed daily.
+Rival: A rival competed fiercely.
+River: The river flowed to the sea.
+Road: The road was long and winding.
+Roar: The roar of the lion was frightening.
+Roast: Roast the turkey for dinner.
+Rob: Rob the bank was a crime.
+Robe: A robe hung by the door.
+Robin: A robin sang outside.
+Robot: The robot performed tasks automatically.
+Robust: A robust design lasted long.
+Rock: A rock was thrown in the lake.
+Rocket: The rocket launched into space.
+Rod: A rod supported the structure.
+Rode: She rode her bike to school.
+Rogue: The rogue stole from others.
+Role: The role was challenging.
+Roll: Roll the dice for luck.
+Roman: Roman history was fascinating.
+Romance: Their romance was whirlwind.
+Roof: The roof needed repairs.
+Room: The room was spacious.
+Root: The root grew deep.
+Rope: Tie a knot in the rope.
+Rose: The rose was red and fragrant.
+Roster: The roster listed all members.
+Rotary: The rotary motion was smooth.
+Rotate: Rotate the wheel clockwise.
+Rotor: The rotor spun rapidly.
+Rough: The rough surface was textured.
+Round: The round shape was perfect.
+Rouse: Rouse yourself from sleep.
+Route: The route was the shortest path.
+Routine: A routine provided structure.
+Row: A row of trees lined the street.
+Royal: Royal treatment was received.
+Rub: Rub the area gently.
+Rubber: Rubber tires gripped the road.
+Rubbish: Rubbish was collected daily.
+Ruby: A ruby was precious.
+Rude: Rude behavior was unacceptable.
+Rug: A rug warmed the floor.
+Rugby: Rugby is a contact sport.
+Ruin: Ruin of the castle remained.
+Rule: Rule the kingdom fairly.
+Ruler: A ruler measured the distance.
+Rumble: The rumble of thunder approached.
+Rumor: A rumor spread throughout town.
+Run: Run as fast as you can.
+Rung: The bell rung loudly.
+Rural: The rural area was peaceful.
+Rush: Rush to complete the task.
+Rust: Rust formed on the metal.
+Rustic: Rustic charm attracted visitors.
+Ruth: Ruth felt compassion for others.
+Rye: Rye bread was baked.
+
+---
+
+**V SECTION PHRASES:**
+
+Vacant: A vacant apartment was rented.
+Vacation: Take a vacation to relax.
+Vaccine: A vaccine prevents disease.
+Vacuum: Vacuum the carpet thoroughly.
+Vague: A vague answer was unhelpful.
+Vain: Vain efforts proved futile.
+Valentine: Send a valentine to your love.
+Valid: A valid excuse was accepted.
+Valley: A valley lay between mountains.
+Valor: Valor was shown in battle.
+Value: Value the friendships you have.
+Valve: The valve controlled the flow.
+Vampire: A vampire story was frightening.
+Van: A van transported cargo.
+Vandal: A vandal damaged property.
+Vanilla: Vanilla flavoring was used.
+Vanish: Vanish into thin air.
+Vanity: Vanity led to her downfall.
+Vapor: Vapor rose from the water.
+Variable: A variable in math can change.
+Variation: A variation was introduced.
+Variety: A variety of colors was offered.
+Various: Various options were available.
+Varnish: Varnish protected the wood.
+Vary: Vary the routine occasionally.
+Vase: A vase held the flowers.
+Vast: The vast landscape was beautiful.
+Vault: The vault contained treasures.
+Vector: A vector had direction and magnitude.
+Veer: Veer left at the sign.
+Vegetable: A vegetable provides nutrition.
+Vehicle: A vehicle transported people.
+Veil: A veil covered her face.
+Vein: A vein carried blood.
+Velocity: The velocity of the ball was high.
+Velvet: Velvet fabric was soft.
+Vendor: A vendor sold merchandise.
+Veneer: A veneer covered the wood.
+Venerable: A venerable elder was respected.
+Venereal: Venereal disease was serious.
+Vengeance: Vengeance was sought for the crime.
+Venom: Venom was injected by the snake.
+Vent: Vent your frustrations safely.
+Ventilate: Ventilate the room with fresh air.
+Venture: Venture into new territory.
+Venue: The venue was perfect for the event.
+Veranda: A veranda overlooked the garden.
+Verb: A verb expresses action.
+Verbal: Verbal communication was clear.
+Verbatim: Quote verbatim from the source.
+Verdant: Verdant grass covered the field.
+Verdict: The verdict was guilty.
+Verge: The verge of success was near.
+Verify: Verify the information carefully.
+Vermilion: Vermilion paint was bright red.
+Vernacular: The vernacular language was understood.
+Versatile: Versatile skills were valuable.
+Verse: A verse of poetry was written.
+Version: A version was made available.
+Versus: Team A versus Team B.
+Vertex: The vertex of the angle pointed up.
+Vertical: A vertical line went straight up.
+Very: Very good work was done.
+Vessel: A vessel sailed the sea.
+Vest: A vest kept him warm.
+Veteran: A veteran had military experience.
+Veterinary: Veterinary medicine heals animals.
+Veto: Veto the proposal firmly.
+Vex: Vex others intentionally.
+Via: Travel via the main highway.
+Viable: A viable solution was found.
+Vial: A vial contained medicine.
+Vibrant: A vibrant color stood out.
+Vibrate: Vibrate at high frequency.
+Vicar: A vicar led the church.
+Vice: Vice was condemned in society.
+Vicinity: In the vicinity of the city.
+Victim: The victim required help.
+Victor: The victor celebrated victory.
+Victory: Victory was celebrated widely.
+Video: A video recorded the event.
+View: A view from the mountain was spectacular.
+Vigil: A vigil was held throughout the night.
+Vigor: Vigor showed in his actions.
+Vile: Vile behavior was despicable.
+Villa: A villa was luxurious.
+Village: A village was small and quiet.
+Villain: The villain was evil.
+Vine: A vine climbed the wall.
+Vinegar: Vinegar was used in cooking.
+Vineyard: A vineyard grew grapes.
+Vintage: Vintage wine was expensive.
+Vinyl: Vinyl records played music.
+Violate: Violate the rules at your peril.
+Violence: Violence erupted on the street.
+Violet: A violet flower was pretty.
+Violin: A violin produced beautiful sounds.
+Viper: A viper was dangerous.
+Virtual: Virtual reality was immersive.
+Virtue: Virtue was admired greatly.
+Virus: A virus caused illness.
+Visa: A visa allowed entry.
+Visible: A visible change was noticed.
+Vision: A vision guided him forward.
+Visit: Visit friends regularly.
+Visor: A visor shielded the eyes.
+Vista: A vista of the valley spread before them.
+Visual: Visual art was displayed.
+Vital: Vital information was shared.
+Vitamin: A vitamin supplement was taken.
+Vivid: A vivid description painted a picture.
+Vocal: A vocal performance was excellent.
+Vocation: A vocation provided purpose.
+Vodka: Vodka was served cold.
+Vogue: In vogue was the fashion trend.
+Voice: A voice called out.
+Void: A void was created.
+Volatile: Volatile conditions were unstable.
+Volcano: A volcano erupted dramatically.
+Volt: A volt measured electricity.
+Voltage: Voltage powered the device.
+Volume: The volume was increased.
+Voluntary: Voluntary participation was encouraged.
+Volunteer: Volunteer your time for charity.
+Vomit: Vomit showed illness.
+Vortex: A vortex swirled the water.
+Vote: Vote in the election.
+Voter: A voter cast their ballot.
+Vouch: Vouch for someone's character.
+Vow: A vow was spoken solemnly.
+Vowel: A vowel is a speech sound.
+Voyage: A voyage across the sea.
+Vulgar: Vulgar language was inappropriate.
+Vulnerable: Vulnerable to attack.
+Vulture: A vulture circled overhead.
+
+---
+
+**W SECTION PHRASES:**
+
+Wad: A wad of cash was found.
+Wade: Wade through the shallow water.
+Wafer: A wafer cookie was thin and crisp.
+Waffle: Waffle with syrup for breakfast.
+Waft: Waft the aroma through the air.
+Wag: The dog's tail would wag.
+Wage: The wage was paid weekly.
+Wager: A wager was made on the race.
+Wagon: A wagon carried hay.
+Waif: A waif child was rescued.
+Wail: A wail of sorrow was heard.
+Waist: The waist of the dress was tight.
+Waistcoat: A waistcoat covered the shirt.
+Wait: Wait for your turn patiently.
+Waiter: A waiter served the meal.
+Waitress: A waitress brought the menu.
+Waive: Waive the requirement this time.
+Waiver: A waiver released liability.
+Wake: Wake up early in the morning.
+Waken: Waken from deep sleep.
+Walk: Walk along the path slowly.
+Walker: A walker helps mobility.
+Walkway: A walkway connected the buildings.
+Wall: A wall enclosed the property.
+Wallaby: A wallaby is small.
+Wallet: A wallet held money.
+Wallflower: A wallflower sat alone.
+Wallop: Wallop the ball hard.
+Wallow: Wallow in the mud.
+Wallpaper: Wallpaper decorated the walls.
+Walnut: A walnut was cracked open.
+Walrus: A walrus had long tusks.
+Waltz: Waltz gracefully to the music.
+Wan: A wan complexion showed illness.
+Wand: A wand waved magic.
+Wander: Wander aimlessly through town.
+Wane: The moon will wane.
+Want: Want something deeply.
+Wanton: Wanton destruction was seen.
+War: War brought suffering.
+Warble: Warble a beautiful tune.
+Ward: A ward received care.
+Warden: A warden guarded the prison.
+Wardrobe: A wardrobe held clothing.
+Ware: Ware was displayed for sale.
+Warehouse: A warehouse stored goods.
+Warfare: Warfare was devastating.
+Warlike: Warlike nations prepared.
+Warm: Warm by the fire.
+Warmth: Warmth filled the home.
+Warn: Warn of the danger ahead.
+Warning: A warning was ignored.
+Warp: Warp the fabric slightly.
+Warrant: A warrant was issued.
+Warranty: A warranty covered defects.
+Warren: A warren of rabbits lived here.
+Warrior: A warrior fought bravely.
+Wart: A wart was removed.
+Wary: Wary of strangers approached.
+Was: She was happy.
+Wash: Wash your hands thoroughly.
+Washer: A washer cleaned the clothes.
+Washing: Washing dishes took time.
+Wasp: A wasp stung him.
+Wastage: Wastage was reduced.
+Waste: Waste not, want not.
+Wastebasket: A wastebasket held trash.
+Wasteful: Wasteful spending was reduced.
+Wasteland: A wasteland lay barren.
+Watch: Watch the show carefully.
+Watchdog: A watchdog guarded property.
+Watcher: A watcher observed closely.
+Watchful: Watchful eyes saw everything.
+Watchmaker: A watchmaker fixed timepieces.
+Watchman: A watchman guarded the premises.
+Watchword: A watchword guided the group.
+Water: Water quenched thirst.
+Watercolor: Watercolor paintings were lovely.
+Waterfall: A waterfall cascaded down.
+Waterfowl: Waterfowl swam in the lake.
+Waterman: A waterman guided boats.
+Watermelon: Watermelon was refreshing.
+Waterproof: Waterproof gear was needed.
+Watertight: Watertight seals prevented leaks.
+Waterway: A waterway connected the cities.
+Watery: Watery eyes showed emotion.
+Watt: A watt measured power.
+Wave: A wave crashed on shore.
+Wavelength: The wavelength was measured.
+Waver: Waver in your resolve.
+Wavy: Wavy hair was beautiful.
+Wax: Wax sealed the envelope.
+Way: The way was clear.
+Wayfarer: A wayfarer traveled the road.
+Waylay: Waylay the traveler.
+Wayside: Wayside flowers grew wild.
+Wayward: Wayward children misbehaved.
+We: We walked together.
+Weak: Weak muscles needed exercise.
+Weaken: Weaken your defenses carefully.
+Weakling: A weakling lacked strength.
+Weakness: Weakness was his greatest fault.
+Wealth: Wealth brought privilege.
+Wealthy: Wealthy people had advantages.
+Wean: Wean the baby gradually.
+Weapon: A weapon was carried.
+Wear: Wear your best clothes.
+Weary: Weary travelers rested.
+Weasel: A weasel was clever.
+Weather: Weather the storm safely.
+Weave: Weave the basket carefully.
+Weaver: A weaver created cloth.
+Web: A web trapped the fly.
+Wed: Wed in a ceremony.
+Wedding: A wedding celebration was joyful.
+Wedge: A wedge split the log.
+Wedlock: Wedlock bound them together.
+Wednesday: Wednesday was halfway through.
+Wee: Wee hours of morning.
+Weed: Weed the garden carefully.
+Week: A week passed quickly.
+Weekday: Weekday work was scheduled.
+Weekend: Weekend plans were made.
+Weekly: Weekly meetings were held.
+Weep: Weep tears of joy.
+Weevil: A weevil damaged crops.
+Weft: The weft crossed the warp.
+Weigh: Weigh the ingredients precisely.
+Weight: Weight carried burden.
+Weighty: A weighty decision was made.
+Weir: A weir controlled water flow.
+Weird: Weird happenings occurred.
+Welcome: Welcome guests warmly.
+Weld: Weld the metal firmly.
+Welder: A welder joined metals.
+Welfare: Welfare provided assistance.
+Well: Well done on the project.
+Well-being: Well-being was prioritized.
+Welter: Welter in confusion.
+Wench: A wench served drinks.
+Went: She went to the store.
+Wept: She wept with joy.
+Were: They were happy together.
+West: West of the river.
+Western: Western movies entertained.
+Westward: Westward ho the pioneers went.
+Wet: Wet paint was wet.
+Whale: A whale swam in the ocean.
+Wharf: A wharf extended into the water.
+What: What do you want?
+Whatever: Whatever works is fine.
+Whatsoever: No doubt whatsoever remained.
+Wheat: Wheat was harvested in fall.
+Wheel: A wheel turned smoothly.
+Wheelbarrow: A wheelbarrow held soil.
+Wheelbase: The wheelbase was long.
+Wheelchair: A wheelchair provided mobility.
+Wheeze: Wheeze from exertion.
+Whelp: A whelp was a young dog.
+When: When will you arrive?
+Whence: Whence did you come?
+Whenever: Whenever you're ready.
+Where: Where are you going?
+Whereabouts: Whereabouts were unknown.
+Whereas: Whereas before was different.
+Whereby: Whereby agreement was reached.
+Wherefore: Wherefore art thou?
+Wherein: Wherein lies the issue.
+Whereupon: Whereupon the crisis began.
+Wherever: Wherever you go I'll follow.
+Whet: Whet the blade sharp.
+Whether: Whether you like it or not.
+Whetstone: A whetstone sharpened knives.
+Whey: Whey separated from curds.
+Which: Which one will you choose?
+Whichever: Whichever you prefer.
+Whiff: A whiff of perfume.
+While: While you were gone.
+Whilst: Whilst we waited.
+Whim: A whim changed plans.
+Whimper: Whimper in fear.
+Whimsical: Whimsical behavior entertained.
+Whine: Whine about the situation.
+Whinny: The horse's whinny was loud.
+Whip: Whip the cream until stiff.
+Whippet: A whippet was fast.
+Whir: Whir of the blades.
+Whirl: Whirl around in circles.
+Whirlpool: A whirlpool formed.
+Whirlwind: A whirlwind swept through.
+Whirlybird: A whirlybird flew overhead.
+Whisk: Whisk the eggs rapidly.
+Whisker: A whisker tickled.
+Whiskey: Whiskey was aged.
+Whisper: Whisper the secret softly.
+Whist: Whist was a card game.
+Whistle: Whistle a happy tune.
+Whit: Not a whit of difference.
+White: White snow fell.
+Whiten: Whiten the fabric.
+Whitewash: Whitewash covered truth.
+Whither: Whither are you bound?
+Whiting: Whiting was a fish.
+Whittle: Whittle the wood down.
+Whiz: Whiz past at speed.
+Who: Who is at the door?
+Whoever: Whoever arrives first.
+Whole: The whole package arrived.
+Wholesale: Wholesale prices were cheaper.
+Wholesome: Wholesome food nourished.
+Wholly: Wholly committed to success.
+Whom: Whom do you trust?
+Whomever: Whomever you choose.
+Whoop: Whoop with excitement.
+Whooping: Whooping and cheering.
+Whore: A whore charged money.
+Whorl: A whorl pattern swirled.
+Whose: Whose book is this?
+Why: Why did you leave?
+Wick: A wick burned inside.
+Wicked: Wicked ways were evil.
+Wicker: Wicker furniture was woven.
+Wicket: A wicket blocked passage.
+Wide: Wide open spaces stretched.
+Widen: Widen the hole larger.
+Widespread: Widespread acceptance was achieved.
+Widow: A widow mourned her husband.
+Widower: A widower was lonely.
+Width: The width was narrow.
+Wield: Wield the sword expertly.
+Wife: A wife supports her husband.
+Wig: A wig covered baldness.
+Wiggle: Wiggle your toes playfully.
+Wigwam: A wigwam was a tent.
+Wild: Wild animals roamed free.
+Wildcat: A wildcat prowled.
+Wilderness: Wilderness stretched before them.
+Wildfire: Wildfire spread rapidly.
+Wildlife: Wildlife was protected.
+Wile: Wile away the hours.
+Will: Will you help me?
+Willful: Willful disobedience was wrong.
+Willing: Willing hands helped.
+Willow: A willow tree drooped.
+Willowy: Willowy grace was admired.
+Wilt: Wilt in the heat.
+Wily: Wily tricks were employed.
+Win: Win the competition.
+Wince: Wince at the pain.
+Winch: Winch up the load.
+Wind: Wind twisted through trees.
+Windfall: A windfall of money arrived.
+Windlass: A windlass hauled up.
+Windmill: A windmill ground grain.
+Window: A window showed outside.
+Windowpane: A windowpane reflected light.
+Windowsill: A windowsill held flowers.
+Windpipe: The windpipe carried air.
+Windshield: A windshield protected.
+Windstorm: A windstorm caused damage.
+Windward: Windward was toward wind.
+Windy: Windy weather scattered leaves.
+Wine: Wine was poured into glasses.
+Wing: A wing broke in flight.
+Wink: Wink at the joke.
+Winner: A winner celebrated victory.
+Winning: Winning ways were contagious.
+Winnow: Winnow the grain from chaff.
+Winsome: Winsome charm captured hearts.
+Winter: Winter brought snow.
+Wintry: Wintry weather arrived.
+Wipe: Wipe your hands clean.
+Wiper: A wiper cleared water.
+Wire: Wire held the structure.
+Wireless: Wireless connection worked well.
+Wiry: Wiry muscles were strong.
+Wisdom: Wisdom comes with age.
+Wise: A wise decision was made.
+Wish: Wish upon a star.
+Wishbone: A wishbone was snapped.
+Wishful: Wishful thinking fooled him.
+Wisp: A wisp of smoke drifted.
+Wistful: Wistful gazing showed longing.
+Wit: Wit entertained the audience.
+Witch: A witch cast spells.
+Witchcraft: Witchcraft was forbidden.
+Witchery: Witchery enchanted all.
+With: With great care taken.
+Withdraw: Withdraw the money now.
+Withdrawal: Withdrawal symptoms appeared.
+Withdrawn: Withdrawn behavior was noticed.
+Wither: Wither on the vine.
+Withers: The withers showed height.
+Withhold: Withhold information carefully.
+Within: Within the structure.
+Without: Without warning arrived.
+Withstand: Withstand the pressure.
+Witness: Witness the event yourself.
+Witticism: A witticism made people laugh.
+Witty: Witty comments amused.
+Wizard: A wizard cast spells.
+Wizened: Wizened skin showed age.
+Woad: Woad dyed blue.
+Wobble: Wobble unsteadily.
+Woe: Woe followed him everywhere.
+Woebegone: Woebegone expression showed sadness.
+Woeful: Woeful mistakes occurred.
+Wolf: A wolf howled.
+Woman: A woman entered.
+Womanhood: Womanhood brought maturity.
+Womb: The womb nourished life.
+Won: He won the competition.
+Wonder: Wonder at the beauty.
+Wonderful: Wonderful times were had.
+Wonderland: Wonderland was magical.
+Wondrous: Wondrous sights appeared.
+Wont: As is his wont.
+Woo: Woo the maiden romantically.
+Wood: Wood burned in the fireplace.
+Woodbine: Woodbine climbed the fence.
+Woodchuck: A woodchuck burrowed.
+Woodcock: A woodcock nested.
+Woodcut: A woodcut print was made.
+Wooden: A wooden door stood.
+Woodland: Woodland trails were shady.
+Woodman: A woodman chopped trees.
+Woodpecker: A woodpecker tapped.
+Woodwind: A woodwind instrument played.
+Woodwork: Woodwork decorated the room.
+Woodworm: A woodworm damaged furniture.
+Woody: Woody plants grew.
+Woof: The woof crossed the warp.
+Wool: Wool was spun into yarn.
+Woolen: A woolen sweater kept warm.
+Woolly: Woolly clouds drifted.
+Word: A word was spoken.
+Wording: The wording was clear.
+Wordplay: Wordplay made jokes.
+Wordsmith: A wordsmith crafted words.
+Wordy: Wordy explanations bored.
+Work: Work was completed.
+Workaday: Workaday routine set in.
+Workbench: A workbench held tools.
+Workbook: A workbook contained exercises.
+Workday: Workday ended at five.
+Worker: A worker earned wages.
+Workhouse: A workhouse provided labor.
+Working: Working hours were long.
+Workman: A workman was skilled.
+Workmanship: Workmanship was excellent.
+Workout: A workout strengthened muscles.
+Workshop: A workshop taught skills.
+World: The world was vast.
+Worldly: Worldly possessions accumulated.
+Worm: A worm crawled.
+Worn: Worn shoes needed replacing.
+Worry: Worry consumed her thoughts.
+Worse: Worse than before.
+Worship: Worship together faithfully.
+Worst: The worst part occurred.
+Worsted: Worsted wool was used.
+Worth: Worth the money spent.
+Worthless: Worthless promises were broken.
+Worthwhile: Worthwhile efforts succeeded.
+Worthy: A worthy cause was supported.
+Would: Would you help me?
+Wound: A wound needed bandaging.
+Wove: Wove the basket.
+Woven: Woven fabric was beautiful.
+Wrack: Wrack and ruin appeared.
+Wraith: A wraith appeared ghostly.
+Wrangle: Wrangle cattle together.
+Wrap: Wrap the gift carefully.
+Wrapper: A wrapper covered the candy.
+Wrath: Wrath erupted suddenly.
+Wreak: Wreak destruction everywhere.
+Wreath: A wreath decorated the door.
+Wreathe: Wreathe the child in fabric.
+Wreck: Wreck of the ship remained.
+Wreckage: Wreckage littered the coast.
+Wrecker: A wrecker removed cars.
+Wren: A wren sang sweetly.
+Wrench: Wrench the bolt loose.
+Wrest: Wrest control from someone.
+Wrestle: Wrestle with the problem.
+Wrestler: A wrestler competed.
+Wretch: A wretch begged for help.
+Wretched: Wretched conditions prevailed.
+Wriggle: Wriggle through the opening.
+Wring: Wring out the water.
+Wrinkle: A wrinkle appeared on skin.
+Wrist: The wrist supported the hand.
+Wristwatch: A wristwatch showed time.
+Writ: A writ was issued.
+Write: Write your name here.
+Writer: A writer penned stories.
+Writhe: Writhe in agony.
+Writing: Writing was clear.
+Wrong: Wrong information was given.
+Wrongful: Wrongful actions were punished.
+Wrote: Wrote a letter home.
+Wroth: Wroth anger consumed him.
+Wrought: Wrought iron was decorative.
+Wrung: Wrung out the cloth.
+Wry: Wry humor entertained.
+
+---
+
+**X-Y-Z SECTION PHRASES:**
+
+X-ray: An x-ray showed the fracture.
+Xenon: Xenon gas filled the lamp.
+Xerox: Xerox the documents please.
+Xylem: Xylem transported water in plants.
+Xylophone: A xylophone created melody.
+
+Yacht: A yacht sailed leisurely.
+Yak: A yak roamed the mountains.
+Yam: A yam was roasted.
+Yard: A yard measured three feet.
+Yarn: Yarn was knitted into sweaters.
+Yawn: Yawn from fatigue.
+Ye: Ye shall overcome.
+Yea: Yea or nay was asked.
+Year: A year contained twelve months.
+Yearn: Yearn for adventure.
+Yeast: Yeast leavened the bread.
+Yell: Yell loudly for help.
+Yellow: Yellow sunshine warmed.
+Yelp: Yelp in pain.
+Yen: Yen was Japanese currency.
+Yeoman: A yeoman owned land.
+Yesterday: Yesterday was history.
+Yet: Yet to be determined.
+Yew: A yew tree was ancient.
+Yield: Yield to the other car.
+Yoga: Yoga stretched muscles.
+Yoke: A yoke connected oxen.
+Yokel: A yokel visited the city.
+Yolk: The yolk was yellow.
+Yon: Yon castle was visible.
+Yonder: Yonder lies the treasure.
+You: You are welcome.
+Young: Young children played.
+Youngster: A youngster grew up.
+Your: Your book was found.
+Yours: The house was yours.
+Yourself: Yourself must decide.
+Youth: Youth was carefree.
+Youthful: Youthful energy shone.
+Yucca: A yucca plant grew.
+Yule: Yule celebrated Christmas.
+Zeal: Zeal for success was strong.
+Zealot: A zealot believed firmly.
+Zealous: Zealous supporters campaigned.
+Zebra: A zebra had stripes.
+Zenith: The zenith of success arrived.
+Zephyr: A zephyr breeze blew.
+Zero: Zero possibilities remained.
+Zest: Zest for life was evident.
+Zigzag: A zigzag pattern formed.
+Zinc: Zinc was a metal.
+Zinnea: A zinnea flower bloomed.
+Zip: Zip your jacket closed.
+Zipper: A zipper fastened clothing.
+Zircon: A zircon gemstone sparkled.
+Zone: A zone was designated.
+Zoo: A zoo housed animals.
+Zoology: Zoology studied animal life.
+Zoom: Zoom in for detail.
+

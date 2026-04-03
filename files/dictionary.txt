@@ -1993,13 +1993,6 @@ Awl: A small pointed tool used for piercing holes, especially in leather.
 
 
 Awoke: Past of awake.
-
-
-
-
-
-
-
 Ay: Yes.
 
 Ayah: A native maid or nursemaid employed by Europeans in India.
@@ -2007,8 +2000,6 @@ Ayah: A native maid or nursemaid employed by Europeans in India.
 Aye: Yes.
 
 Azalea: A deciduous flowering shrub of the heath family with clusters of brightly colored, sometimes fragrant flowers.
-
-# ── New Entries (researched & added) ──────────────────────
 
 Backbone : The central or most important part of an organisation or structure.
 
@@ -2113,3 +2104,954 @@ Vivid : Producing powerful feelings or strong, clear images in the mind.
 Watershed : An event marking a turning point; a ridge dividing river drainage areas.
 
 Zenith : The highest point reached by a star; the peak of success or power.
+Back-end: The part of a system or application not directly visible to users
+Backbone: The main support structure or the central part of a network or system
+Background: The setting or circumstances behind something; information about someone's past
+Backslash: The character (\) used in computing and file paths
+Backup: A copy of data made for security or recovery purposes
+Backward: Directed or moving towards the rear; reversed
+Balance: A state of equilibrium; to distribute weight evenly
+Band: A group of people; a strip of material
+Bandwidth: The amount of data that can be transmitted over a connection
+Bank: A financial institution; the side of a river or slope
+Banner: A large piece of cloth with a design or message
+Bar: A counter where drinks are served; a rigid rod or beam
+Barcode: A pattern of lines representing data readable by a scanner
+Base: The bottom or foundation; a starting point
+Baseband: The original frequency band of a signal
+Baseline: A starting point for comparison or measurement
+Bash: A hard hit or strike; also a Unix shell
+Basic: Fundamental or elementary
+Batch: A group of items processed together
+Battery: A device providing electrical energy; a group of guns
+Baud: A unit measuring signal transmission speed
+Bayes: Related to Bayesian probability theory
+Beacon: A guiding light or signal
+Beam: A ray of light; a long sturdy piece of material
+Behavior: The way someone acts or conducts themselves
+Benchmark: A standard used for comparison; a reference point
+Beta: The second letter of the Greek alphabet; a test version
+Bias: A preference or prejudice; a systematic deviation
+Bidirectional: Moving or operating in two directions
+Big-endian: A data format storing most significant bytes first
+Binary: Using or composed of two elements; base-2 number system
+Bind: To tie or fasten together; to commit
+Binding: Fastening or holding together; a covering for pages
+Bioinformatics: Application of computer science to biological data
+BIOS: Basic Input/Output System in computers
+Bit: The smallest unit of data (0 or 1); a small piece
+Bitmap: A digital image composed of pixels
+Bitwise: Operating on individual bits in binary numbers
+Block: A solid mass or chunk; to obstruct
+Blocking: Preventing movement or action; obstructing
+Blog: A regularly updated website of personal views
+Bluetooth: A wireless technology for short-range communication
+Board: A flat piece of material; a group of directors
+Body: The physical structure of a person or object
+Bold: Brave or courageous; dark or heavy text style
+Boolean: Relating to logic with true/false values
+Boot: To start up a computer; a type of footwear
+Bootloader: Software that initiates the operating system
+Bootstrap: A technique for loading a program; pulling oneself up
+Borrow: To take temporarily with intent to return
+Bot: A software program performing automated tasks
+Bottom: The lowest point or surface
+Bounce: To spring back; to rebound
+Bound: A limit or boundary; obligated
+Boundary: A dividing line separating two areas
+Box: A container with sides; to fight with fists
+Bracket: A support structure; punctuation marks [ ]
+Branch: A limb of a tree; a division or division of an organization
+Bridge: A structure spanning over something; to connect
+Broadcast: To transmit to a wide audience
+Browse: To look through casually; to search the web
+Browser: A software application for viewing websites
+Brute-force: A method using overwhelming force or trial and error
+Bubble: A sphere of liquid containing gas; a financial overvaluation
+Bucket: A container; a division of data storage
+Buffer: A temporary storage area; something that absorbs impact
+Bug: An insect; an error in software
+Build: To construct or assemble
+Built-in: Incorporated as integral part
+Bulk: Large mass or quantity; major portion
+Bullet: A projectile from a gun; a dot in a list
+Bundle: A collection of items tied together
+Bus: A vehicle for passengers; a communication pathway in computing
+Business: A commercial enterprise or trade
+Busy: Occupied with activity
+Byte: A unit of data comprising 8 bits
+
+---
+
+**R SECTION:**
+
+Race: A competition; a group of people with shared ancestry
+Rack: A frame or shelf for storage; to cause pain
+Radar: System using radio waves to detect objects
+Radial: Relating to or extending from a central point
+Radiant: Shining brightly; emitting light or heat
+Radiate: To emit rays; to spread from a center
+Radiator: A device that radiates heat
+Radical: Fundamental; advocating extreme change
+Radio: Wireless transmission of audio; a receiver
+Radius: Distance from center to edge of a circle
+Raft: A flat floating platform
+Rag: A torn piece of cloth
+Rage: Intense anger; to become extremely angry
+Raid: A sudden attack or incursion
+Rail: A bar or track; to complain bitterly
+Railroad: A track and system for trains
+Rain: Water falling from clouds; precipitation
+Rainbow: An arc of colors in the sky
+Raise: To move upward; to collect or gather
+Rake: A tool for gathering; to gather or search
+Rally: To recover or regain strength; a gathering
+Ram: A male sheep; to push forcefully
+Ramp: An inclined surface; to increase
+Ran: Past tense of run
+Ranch: A large farm; an establishment
+Random: Occurring without order or pattern
+Range: A series or variety; a mountain chain
+Rank: A position or level; having a strong smell
+Rapid: Moving or happening quickly
+Rare: Seldom occurring; thinly distributed (meat)
+Rascal: A mischievous person
+Rash: A skin irritation; acting without caution
+Rat: A rodent; to betray or inform on
+Rate: A measure or speed; a price or charge
+Rather: To a certain extent; preferably
+Ratio: A mathematical relationship between quantities
+Rational: Reasonable; based on logic
+Rattle: To make a series of clicks; to disturb
+Raw: Uncooked; in natural state; sensitive
+Ray: A beam of light; a type of fish
+Razor: A sharp instrument for shaving
+Reach: To extend to; to arrive at
+React: To respond to a stimulus
+Reactor: A device for nuclear reactions
+Read: To look at and understand written words
+Reader: One who reads; a device that reads
+Ready: Prepared or willing
+Real: Actually existing; genuine
+Reality: The state of being actual; truth
+Realize: To achieve; to understand
+Realm: A kingdom; an area of activity
+Rear: The back part; to raise
+Reason: A cause or explanation; the ability to think
+Rebel: One who resists authority; to resist
+Recall: To remember; to summon back
+Receipt: A proof of purchase
+Receive: To take or accept
+Recent: Belonging to a time not long past
+Recipe: Instructions for preparing food
+Record: Data or information preserved; to document
+Recover: To regain or return to normal
+Recruit: To enroll; a new member
+Rectangle: A four-sided shape with right angles
+Rectify: To correct or make right
+Recur: To happen again repeatedly
+Red: The color; related to communism
+Reduce: To make smaller or lower
+Reed: A tall grass-like plant
+Reef: A ridge of rocks in the sea
+Reel: A spool; to wind up
+Refer: To mention or direct attention
+Refine: To purify; to improve
+Reflect: To throw back light; to ponder
+Reform: To change for improvement; correction
+Refuge: A place of safety or shelter
+Refund: To return money
+Refuse: To reject or decline; garbage
+Regard: To look at or consider; respect
+Regent: A person ruling in place of another
+Regime: A system of government or rule
+Region: An area or district
+Register: A record or list; a cash register
+Regret: To feel sorrow; something regretted
+Regular: Occurring at fixed intervals; ordinary
+Reject: To refuse to accept
+Rejoice: To feel or show great joy
+Relate: To tell; to have connection
+Relax: To become less tense; to ease restrictions
+Relay: To pass along; a fresh set of horses
+Release: To set free; to allow public access
+Relic: An object from the past
+Relief: Comfort or alleviation; sculptured figures
+Relieve: To reduce suffering; to ease burden
+Religion: A system of faith and worship
+Rely: To depend upon
+Remain: To stay or continue; leftover
+Remark: A comment or observation
+Remedy: A solution or cure
+Remember: To recall; to keep in mind
+Remind: To cause to remember
+Remnant: A remaining part; leftover
+Remote: Distant or isolated; operated from distance
+Remove: To take away; to eliminate
+Render: To provide or give; to represent
+Renew: To make new again; to extend
+Renounce: To reject or disown
+Renown: Fame or reputation
+Rent: Payment for use of property; a tear
+Repair: To fix or mend
+Repeal: To revoke or cancel
+Repeat: To do again; an encore
+Repel: To drive back; to disgust
+Repent: To feel regret; to turn from sin
+Replace: To put back; to substitute
+Reply: A response or answer
+Report: An account or statement
+Repose: A state of rest; to lie at rest
+Represent: To stand for; to depict
+Repress: To hold back; to suppress
+Reprieve: A delay of punishment; relief
+Reproach: To express disappointment; shame
+Reproduce: To create again; to make copies
+Reptile: A cold-blooded vertebrate
+Republic: A state ruled by elected representatives
+Repulse: To drive back; to disgust
+Reputation: General estimation of character
+Request: An asking for; to ask for
+Require: To need or demand
+Rescue: To save from danger
+Research: Careful investigation or study
+Resemble: To look like; to be similar to
+Resent: To feel displeasure at
+Reserve: To set aside; a kept back supply
+Reservoir: A large natural or artificial lake
+Reside: To dwell or live in
+Residual: Remaining after removal of other parts
+Residue: What remains after removal
+Resign: To quit; to accept reluctantly
+Resin: A sticky substance from plants
+Resist: To oppose or withstand
+Resolute: Admirably purposeful and determined
+Resolve: To decide firmly; to solve
+Resonance: The quality of resounding
+Resort: A place of recreation; to turn to
+Resource: A supply of available material
+Respect: To have high regard; to consider
+Respond: To answer; to react
+Response: An answer or reaction
+Rest: A period of inactivity; remainder
+Restaurant: An establishment serving food
+Restore: To return to original state
+Restrict: To confine or limit
+Result: An outcome; to end in
+Resume: To continue after interruption; curriculum vitae
+Retail: Sale of goods to consumer; to sell
+Retain: To keep or maintain
+Retard: To slow or delay
+Retina: The light-sensitive lining of the eye
+Retire: To stop working; to withdraw
+Retort: A sharp reply; a vessel for distilling
+Retract: To draw back; to take back
+Retreat: To move backward; a place of refuge
+Retrieve: To get back; to recover
+Return: To come back; reversion
+Reveal: To make known; to uncover
+Revenge: Retaliation for injury
+Revenue: Income from tax or business
+Reverse: To move backward; opposite
+Review: To look at again; a critical appraisal
+Revise: To examine and correct
+Revive: To bring back to life
+Revoke: To cancel or repeal
+Revolt: To rebel; a rebellion
+Reward: A gift for service; to give reward
+Rhythm: A regular pattern of beats or sounds
+Rib: A bone in the chest; to tease
+Ribbon: A long narrow strip of material
+Rice: A grain used as food
+Rich: Having much money; abundant
+Rid: To free from; to eliminate
+Riddle: A puzzling question; to perforate
+Ride: To sit on and control; a journey
+Ridge: A long narrow elevation
+Rifle: A gun; to search through hastily
+Rift: A crack or split; disagreement
+Right: Correct; a moral or legal claim
+Rigid: Stiff and inflexible
+Rigor: Strictness or severity
+Rim: The edge or border
+Ring: A circular band; a sound
+Rinse: To wash lightly
+Riot: Violent disorder; to engage in rioting
+Rip: To tear; to cut
+Ripe: Fully developed; ready to eat
+Ripple: A small wave or undulation
+Rise: To move upward; to get up
+Risk: A possibility of harm; to take risk
+Rite: A ceremonial act
+Ritual: A set ceremony or procedure
+Rival: A competitor; competing
+River: A large natural stream of water
+Road: A way or route for travel
+Roar: A loud sound; to make loud noise
+Roast: To cook with heat; to criticize
+Rob: To steal from
+Robe: A long loose outer garment
+Robin: A bird; a robber
+Robot: An automatic machine
+Robust: Strong and healthy
+Rock: A stone; to move back and forth
+Rocket: A projectile; to move rapidly
+Rod: A thin stick or bar
+Rode: Past tense of ride
+Rogue: A dishonest person; a wild animal
+Role: A part played; a function
+Roll: To turn over; a bread item
+Roman: Relating to Rome; a type style
+Romance: A love story; to court
+Roof: The top covering of building
+Room: A space inside building; space
+Root: The part of plant below ground
+Rope: A thick cord
+Rose: A flower; past tense of rise
+Roster: A list or roll
+Rotary: Rotating or revolving
+Rotate: To turn around axis
+Rotor: The rotating part of machinery
+Rough: Not smooth; approximate
+Round: Circular; to go around
+Rouse: To wake up; to stir
+Route: A way or path
+Routine: A regular procedure or habit
+Row: A line; a quarrel
+Royal: Relating to royalty; magnificent
+Rub: To apply pressure with friction
+Rubber: An elastic material; one who rubs
+Rubbish: Waste or garbage
+Ruby: A precious red gemstone
+Rude: Impolite or offensive
+Rug: A floor covering
+Rugby: A sport similar to football
+Ruin: Destruction; to destroy
+Rule: A principle or regulation; to govern
+Ruler: One who rules; measuring device
+Rumble: A deep rolling sound
+Rumor: Unverified information
+Run: To move quickly; a continuous course
+Rung: A step of a ladder; past of ring
+Rural: Relating to countryside
+Rush: To move hurriedly; a plant
+Rust: Oxidation of metal; colored stain
+Rustic: Simple and country-like
+Ruth: Compassion; pity
+Rye: A grain used for bread
+
+---
+
+**V SECTION:**
+
+Vacant: Empty or unoccupied
+Vacation: A period away from work
+Vaccine: A substance for immunity
+Vacuum: Space devoid of matter
+Vague: Unclear or indefinite
+Vain: Conceited; futile
+Valentine: A greeting sent on Valentine's Day
+Valid: Well-founded or acceptable
+Valley: A low area between hills
+Valor: Courage or bravery
+Value: Worth or importance; to estimate worth
+Valve: A device controlling flow
+Vampire: A mythical creature living on blood
+Van: A vehicle for cargo
+Vandal: One who destroys property
+Vanilla: A flavoring from an orchid
+Vanish: To disappear
+Vanity: Excessive pride; a dressing table
+Vapor: Gas or mist
+Variable: Able to change; a quantity that varies
+Variation: A change or modification
+Variety: A number of different kinds
+Various: Of different kinds; several
+Varnish: A protective coating; to coat
+Vary: To change; to differ
+Vase: A container for flowers
+Vast: Of very great extent
+Vault: An arched ceiling; a chamber; to jump over
+Vector: A quantity with direction and magnitude
+Veer: To change direction
+Vegetable: A plant food
+Vehicle: A conveyance or means of transport
+Veil: A piece of cloth; to cover
+Vein: A blood vessel; a layer of ore
+Velocity: The speed of something
+Velvet: A smooth fabric with pile
+Vendor: A seller or merchant
+Veneer: A thin surface layer; false appearance
+Venerable: Worthy of respect; aged
+Venereal: Relating to sexual desire
+Vengeance: Punishment for injury
+Venom: Poisonous fluid; malice
+Vent: An opening for air; to express
+Ventilate: To provide fresh air
+Venture: An undertaking; to dare
+Venue: A location or place of event
+Veranda: A roofed porch
+Verb: A word expressing action
+Verbal: Relating to words; oral
+Verbatim: In exactly the same words
+Verdant: Green with vegetation
+Verdict: A judgment or decision
+Verge: The edge or brink
+Verify: To confirm as true
+Vermilion: A bright red color
+Vernacular: The everyday language of region
+Versatile: Able to do many things
+Verse: A line of poetry; a stanza
+Version: A particular form or variant
+Versus: Against or in comparison to
+Vertex: The highest point; the apex
+Vertical: Perpendicular to the ground
+Very: In a high degree; extremely
+Vessel: A container; a ship
+Vest: To clothe; to give authority
+Veteran: A person of experience; former soldier
+Veterinary: Relating to animal medicine
+Veto: A rejection or prohibition; to reject
+Vex: To annoy or irritate
+Via: By way of; through
+Viable: Capable of living or succeeding
+Vial: A small bottle
+Vibrant: Pulsating with energy; vivid
+Vibrate: To move back and forth
+Vicar: A clergyman; a substitute
+Vice: Immoral behavior; a clamping tool
+Vicinity: The nearby area
+Victim: One who is harmed
+Victor: A winner; a conqueror
+Victory: A success or win
+Video: Recording and display of moving images
+View: What is seen; an opinion; to look at
+Vigil: A period of alert watchfulness
+Vigor: Physical strength and energy
+Vile: Extremely unpleasant or evil
+Villa: A house in the country
+Village: A small town
+Villain: A wicked person; the antagonist
+Vine: A climbing plant
+Vinegar: An acidic liquid
+Vineyard: A plantation of grape vines
+Vintage: Wine of particular year; past events
+Vinyl: A type of plastic material
+Violate: To break or infringe; to dishonor
+Violence: Physical force intended to hurt
+Violet: A purple color; a small flower
+Violin: A stringed musical instrument
+Viper: A venomous snake; a treacherous person
+Virtual: Existing in essence though not actual
+Virtue: Moral excellence; a good quality
+Virus: A microscopic infectious agent
+Visa: A document permitting entry
+Visible: Able to be seen
+Vision: The power of sight; a mental image
+Visit: To call on; a stay with
+Visor: A front brim on a helmet
+Vista: A view or prospect
+Visual: Relating to sight; visible
+Vital: Essential to life; critical
+Vitamin: A nutrient essential for health
+Vivid: Bright and striking; lively
+Vocal: Relating to voice; expressed
+Vocation: One's occupation or career
+Vodka: A colorless spirit
+Vogue: A fashion or trend
+Voice: The sound of speech; to express
+Void: Empty or vacant; to nullify
+Volatile: Liable to change; explosive
+Volcano: A mountain with lava eruptions
+Volt: A unit of electrical potential
+Voltage: The electrical potential difference
+Volume: The amount of space; a book
+Voluntary: Done by choice
+Volunteer: One who offers to help
+Vomit: To expel stomach contents
+Vortex: A whirling or spinning motion
+Vote: A choice in an election; to cast ballot
+Voter: One who votes
+Vouch: To bear witness; to guarantee
+Vow: A solemn promise; to pledge
+Vowel: A speech sound (a, e, i, o, u)
+Voyage: A journey by sea or space
+Vulgar: Crude and offensive; common
+Vulnerable: Liable to physical or emotional injury
+Vulture: A large scavenging bird
+
+---
+
+**W SECTION:**
+
+Wad: A lump or bundle
+Wade: To walk through water
+Wafer: A thin crisp cookie
+Waffle: A batter cake; to be indecisive
+Waft: To carry through air
+Wag: To move back and forth
+Wage: Payment for work; to conduct
+Wager: A bet or gamble
+Wagon: A four-wheeled vehicle
+Waif: A thin or undernourished person
+Wail: To cry loudly
+Waist: The part of body between ribs and hips
+Waistcoat: A sleeveless vest
+Wait: To stay or pause; a period of waiting
+Waiter: A server in restaurant
+Waitress: A female server
+Waive: To refrain from enforcing
+Waiver: A relinquishment of right
+Wake: To awaken; a funeral vigil
+Waken: To awaken; to rouse
+Walk: To move on foot; a path
+Walker: One who walks; a mobility aid
+Walkway: A path for pedestrians
+Wall: A vertical structure; to enclose
+Wallaby: A small kangaroo-like animal
+Wallet: A small bag for money
+Wallflower: A plant; a person at social event
+Wallop: A heavy blow; to hit hard
+Wallow: To roll in mud; to revel
+Wallpaper: A decorative wall covering
+Walnut: A nut or its tree
+Walrus: A large marine mammal
+Waltz: A dance in triple time; to dance
+Wan: Pale or sickly looking
+Wand: A slender stick or rod
+Wander: To walk aimlessly
+Wane: To decrease; to decline
+Want: A lack or need; to desire
+Wanton: Deliberate and unprovoked; unrestrained
+War: Armed conflict; to engage in battle
+Warble: To sing with trills
+Ward: A division of hospital; a person under care
+Warden: A supervisor of prison or park
+Wardrobe: A collection of clothes
+Ware: Manufactured goods
+Warehouse: A large storage building
+Warfare: Engagement in war
+Warlike: Threatening war; militaristic
+Warm: Having heat; showing affection
+Warmth: The quality of being warm
+Warn: To alert to danger
+Warning: A caution or alert
+Warp: To bend; to distort; to prepare weaving
+Warrant: A legal authorization; to justify
+Warranty: A guarantee of quality
+Warren: A rabbit burrow; a maze
+Warrior: A fighter or soldier
+Wart: A small hard growth on skin
+Wary: Cautious and suspicious
+Was: Past tense of "is"
+Wash: To clean with water; a laundry batch
+Washer: A device for washing; a disk under bolt
+Washing: The act of cleaning; clothes to wash
+Wasp: A stinging insect
+Wastage: Waste material
+Waste: Discarded material; to use inefficiently
+Wastebasket: A trash container
+Wasteful: Squandering; extravagant
+Wasteland: A barren desolate area
+Watch: To observe; a portable timepiece
+Watchdog: A dog that guards; an overseer
+Watcher: One who watches
+Watchful: Carefully observant
+Watchmaker: One who makes watches
+Watchman: A guard or sentinel
+Watchword: A motto or password
+Water: A clear liquid; to irrigate
+Watercolor: A painting technique
+Waterfall: A cascade of water
+Waterfowl: Water birds
+Waterman: A boatman
+Watermelon: A large seeded fruit
+Waterproof: Impervious to water
+Watertight: Closely sealed; airtight
+Waterway: A channel for water transport
+Watery: Containing water; thin
+Watt: A unit of power
+Wave: A ridge of water; to move back and forth
+Wavelength: The distance between wave crests
+Waver: To hesitate; to fluctuate
+Wavy: Forming waves; undulating
+Wax: A solid substance; to coat; to increase
+Way: A path or route; manner
+Wayfarer: A traveler on foot
+Waylay: To intercept; to ambush
+Wayside: The edge of a road
+Wayward: Uncontrollable; eccentric
+We: The pronoun for group including speaker
+Weak: Lacking strength; feeble
+Weaken: To make weak; to reduce strength
+Weakling: A weak person
+Weakness: Lack of strength; a fault
+Wealth: Riches or prosperity
+Wealthy: Rich; well-off
+Wean: To accustom child to food other than milk
+Weapon: An implement used in combat
+Wear: To have on body; to erode
+Weary: Tired or exhausted
+Weasel: A small carnivorous animal; a person
+Weather: Atmospheric conditions; to endure
+Weave: To interlace threads; a pattern
+Weaver: One who weaves
+Web: A network of threads; the internet
+Wed: To marry
+Wedding: A marriage ceremony
+Wedge: A triangular device; to squeeze in
+Wedlock: The state of marriage
+Wednesday: The fourth day of the week
+Wee: Very small; to urinate
+Weed: An unwanted plant; to remove weeds
+Week: Seven consecutive days
+Weekday: A day other than weekend
+Weekend: Saturday and Sunday
+Weekly: Occurring once a week
+Weep: To shed tears; to cry
+Weevil: A small beetle
+Weft: Crosswise threads in weaving
+Weigh: To measure weight; to consider
+Weight: The force of gravity on mass
+Weighty: Heavy; important
+Weir: A low dam
+Weird: Strange and frightening; bizarre
+Welcome: A greeting; to greet hospitably
+Weld: To join metal; a welded joint
+Welder: One who welds
+Welfare: Health and happiness; assistance
+Well: A deep hole for water; in good manner
+Well-being: A state of health and happiness
+Welter: To roll in mud; confusion
+Wench: A country girl; a serving girl
+Went: Past tense of "go"
+Wept: Past tense of "weep"
+Were: Past tense of "be" (plural)
+West: The direction where sun sets; region
+Western: Relating to the west; a western film
+Westward: Toward the west
+Wet: Covered with water; moist
+Whale: A large marine mammal
+Wharf: A dock or pier
+What: Which thing; asking for information
+Whatever: Anything; all things that
+Whatsoever: Anything at all; to any extent
+Wheat: A grain used for flour
+Wheel: A circular object rotating on axis
+Wheelbarrow: A vehicle with one wheel
+Wheelbase: The distance between wheel axles
+Wheelchair: A chair with wheels
+Wheeze: To breathe with difficulty
+Whelp: A young dog; to give birth
+When: At what time; at which time
+Whence: From where or what place
+Whenever: At any time that
+Where: At what place; the place in which
+Whereabouts: The location or position
+Whereas: In consideration that; while
+Whereby: By which
+Wherefore: For which reason; why
+Wherein: In what or which
+Whereupon: After which; at which point
+Wherever: In any place that
+Whet: To sharpen; to stimulate
+Whether: Expressing doubt or alternative
+Whetstone: A stone for sharpening
+Whey: The watery part of milk
+Which: What one or ones; that
+Whichever: The one or ones that
+Whiff: A slight smell; a puff
+While: A period of time; although
+Whilst: While; during the time that
+Whim: A sudden desire; a caprice
+Whimper: A weak cry; to whine
+Whimsical: Playfully fanciful; eccentric
+Whine: A high-pitched complaint
+Whinny: The cry of a horse; to neigh
+Whip: An instrument for striking; to strike
+Whippet: A small fast dog
+Whir: A continuous buzzing sound; to make sound
+Whirl: To rotate rapidly; to turn
+Whirlpool: A rotating water current
+Whirlwind: A rapidly rotating wind; a busy time
+Whirlybird: A helicopter
+Whisk: A utensil for beating; to move quickly
+Whisker: A long hair; a small distance
+Whiskey: A distilled alcoholic spirit
+Whisper: To speak softly; a soft sound
+Whist: A card game
+Whistle: A device for making sound; to blow air
+Whit: A small amount; a bit
+White: The lightest color; of pallor
+Whiten: To make white; to bleach
+Whitewash: A white liquid coating; to cover up
+Whither: To what place; where
+Whiting: A food fish; whitening material
+Whittle: To carve with knife; to reduce
+Whiz: A hissing sound; an expert; to move rapidly
+Who: What or which person
+Whoever: Any person that; anyone
+Whole: All of something; complete
+Wholesale: Selling in large quantities; in bulk
+Wholesome: Healthy or beneficial; morally good
+Wholly: Entirely or completely
+Whom: The objective form of who
+Whomever: The objective form of whoever
+Whoop: To shout loudly; a loud cry
+Whooping: Shouting; making loud cries
+Whore: A prostitute; to engage in sexual trade
+Whorl: A circular pattern; a ring
+Whose: Belonging to whom; of which
+Why: For what reason; for what cause
+Wick: The thread of candle or lamp
+Wicked: Morally evil; playfully mischievous
+Wicker: Woven willow or rattan
+Wicket: A gate; a set of stumps in cricket
+Wide: Extending far across; broad
+Widen: To make wide; to broaden
+Widespread: Spread over wide area
+Widow: A woman whose husband died
+Widower: A man whose wife died
+Width: The measurement across
+Wield: To hold and use; to exercise
+Wife: A married woman
+Wig: A covering of artificial hair
+Wiggle: To move with short jerky motions
+Wigwam: A Native American dwelling
+Wild: Living in natural state; uncontrolled
+Wildcat: A wild animal resembling cat; risky
+Wilderness: An uninhabited wild region
+Wildfire: An uncontrolled fire; spreading rapidly
+Wildlife: Wild animals and plants
+Wile: A trick or stratagem; to beguile
+Will: The mental faculty; a testament; determination
+Willful: Deliberately intentional; stubborn
+Willing: Ready or prepared; consenting
+Willow: A tree with drooping branches
+Willowy: Tall and slender; graceful
+Wilt: To droop or wither
+Wily: Cunning and deceitful
+Win: To achieve victory; to succeed
+Wince: To shrink back; to flinch
+Winch: A lifting device; to haul with winch
+Wind: Moving air; to coil or turn
+Windfall: An unexpected gain
+Windlass: A lifting device; a winch
+Windmill: A mill powered by wind
+Window: An opening for light and air
+Windowpane: A sheet of glass in window
+Windowsill: The horizontal bar under window
+Windpipe: The tube for air to lungs
+Windshield: A protective glass shield
+Windstorm: A storm with strong wind
+Windward: Toward the direction wind comes from
+Windy: Having much wind; verbose
+Wine: An alcoholic drink from grapes
+Wing: A limb for flying; a side section
+Wink: To close and open eye quickly
+Winner: One who wins; a victor
+Winning: Victorious; charming
+Winnow: To separate grain from chaff
+Winsome: Attractive and appealing
+Winter: The cold season; to spend winter
+Wintry: Characteristic of winter; cold
+Wipe: To clean by rubbing
+Wiper: A device for wiping
+Wire: A thin metal strand; to install wires
+Wireless: Transmitting without wires
+Wiry: Made of wire; thin and strong
+Wisdom: The quality of being wise
+Wise: Having knowledge and good judgment
+Wish: A desire or aspiration; to desire
+Wishbone: The bone from poultry; a forked object
+Wishful: Having unrealistic desires
+Wisp: A thin strand; a faint trace
+Wistful: Yearning or pensive
+Wit: Mental sharpness; humor
+Witch: A woman practicing witchcraft
+Witchcraft: The practice of sorcery
+Witchery: Witchcraft; sorcery
+With: In the company of; having
+Withdraw: To take back; to remove
+Withdrawal: The act of withdrawing
+Withdrawn: Removed; socially aloof
+Wither: To dry up; to wilt
+Withers: The ridge between a horse's shoulders
+Withhold: To refuse to give; to keep back
+Within: Inside; not exceeding
+Without: Outside of; lacking
+Withstand: To resist; to oppose
+Witness: One who sees; to see or observe
+Witticism: A witty remark or joke
+Witty: Cleverly amusing; quick-witted
+Wizard: A person who practices magic
+Wizened: Dried and wrinkled; withered
+Woad: A blue dye plant
+Wobble: To move unsteadily; to be unstable
+Woe: Great sorrow; grief
+Woebegone: Appearing sad and haggard
+Woeful: Full of sorrow; pitiful
+Wolf: A large wild dog; to eat greedily
+Woman: An adult female person
+Womanhood: The state of being a woman
+Womb: The uterus of female
+Won: Past tense of "win"
+Wonder: To think with curiosity; amazement
+Wonderful: Inspiring great admiration
+Wonderland: A place of wonder and marvel
+Wondrous: Causing wonder; remarkable
+Wont: One's habitual practice; accustomed
+Woo: To court romantically; to seek support
+Wood: The material from trees; a forest
+Woodbine: A climbing plant; honeysuckle
+Woodchuck: A burrowing rodent
+Woodcock: A game bird
+Woodcut: A print from wooden block
+Wooden: Made of wood; stiff or expressionless
+Woodland: Land covered with trees
+Woodman: One who works with wood
+Woodpecker: A bird that pecks wood
+Woodwind: Musical instrument with woodreeds
+Woodwork: Objects or craft made from wood
+Woodworm: A worm that bores into wood
+Woody: Containing or resembling wood
+Woof: The crosswise threads in weaving
+Wool: The fiber from sheep
+Woolen: Made of wool
+Woolly: Resembling wool; fuzzy
+Word: A unit of language; to express in words
+Wording: The way words are used
+Wordplay: Witty use of words; puns
+Wordsmith: One skilled with words
+Wordy: Using too many words; verbose
+Work: An activity; to labor
+Workaday: Ordinary; routine
+Workbench: A table for working
+Workbook: A book with exercises
+Workday: A day for work; business day
+Worker: One who works
+Workhouse: An institution for poor
+Working: Engaged in work; operative
+Workman: A skilled laborer
+Workmanship: The skill in making
+Workout: Physical exercise; a test
+Workshop: A room or building for work
+World: The earth; all people; a sphere
+Worldly: Relating to the world; secular
+Worm: A small elongated creature; to move slowly
+Worn: Made thin by wear; exhausted
+Worry: To be anxious; anxiety
+Worse: More bad; in worse manner
+Worship: To honor with religious rites; to revere
+Worst: Most bad; in worst manner
+Worsted: A wool fabric; defeated
+Worth: Value or merit; deserving
+Worthless: Without worth; useless
+Worthwhile: Worthy of time or effort
+Worthy: Deserving or meritorious
+Would: Past tense of will; expressing condition
+Wound: An injury; to injure
+Wove: Past tense of "weave"
+Woven: Made by weaving
+Wrack: Seaweed; ruin or destruction
+Wraith: A ghost or specter
+Wrangle: To quarrel; to herd cattle
+Wrap: To cover or enclose; a shawl
+Wrapper: Paper or material that wraps
+Wrath: Intense anger; fury
+Wreak: To cause or inflict
+Wreath: A circular band of flowers
+Wreathe: To form into wreath; to envelop
+Wreck: To destroy; a destroyed vessel
+Wreckage: The remains of wreck
+Wrecker: One who wrecks
+Wren: A small songbird
+Wrench: To twist forcibly; a tool
+Wrest: To obtain by force; to wrench
+Wrestle: To grapple; to struggle
+Wrestler: One who wrestles
+Wretch: A miserable or despicable person
+Wretched: In a very unhappy state; despicable
+Wriggle: To twist and turn; to squirm
+Wring: To squeeze or twist; to extract
+Wrinkle: A crease or fold; to form wrinkles
+Wrist: The joint connecting arm and hand
+Wristwatch: A watch worn on wrist
+Writ: A legal document or order
+Write: To mark with letters or words
+Writer: One who writes
+Writhe: To twist or contort
+Writing: The act of composing; something written
+Wrong: Not correct; unjust; to treat unjustly
+Wrongful: Unjust or unlawful
+Wrote: Past tense of "write"
+Wroth: Angry; filled with wrath
+Wrought: Formed or shaped; decorated metal
+Wrung: Past tense of "wring"
+Wry: Twisted; using dry humor
+
+---
+
+**X-Y-Z SECTION:**
+
+X-ray: Electromagnetic radiation; to examine with x-ray
+Xenon: A rare colorless gas element
+Xerox: To photocopy; a copier (trademark)
+Xylem: Plant tissue that transports water
+Xylophone: A percussion instrument with wooden bars
+
+Yacht: A luxury sailboat or motorboat
+Yak: A long-haired Asian ox
+Yam: A starchy tuber; a sweet potato
+Yard: A unit of length (3 feet); outdoor space
+Yarn: A strand of thread; a story
+Yawn: To open mouth while tired; a gap
+Ye: Old form of "you" (plural)
+Yea: An affirmative vote; yes
+Year: A period of 365 or 366 days
+Yearn: To have strong desire; to long for
+Yeast: A fungus used in baking and fermentation
+Yell: To shout loudly; a loud cry
+Yellow: A bright primary color; cowardly
+Yelp: A sharp bark or cry
+Yen: Japanese currency; a desire
+Yeoman: A man owning small estate; an attendant
+Yesterday: The day before today
+Yet: Nevertheless; up to now
+Yew: An evergreen tree
+Yield: To produce or give way; a return
+Yoga: A spiritual discipline with postures
+Yoke: A wooden frame for oxen; to join
+Yokel: A country person; rustic
+Yolk: The yellow part of an egg
+Yon: That or those over there
+Yonder: Over there; in that direction
+You: The person or group addressed
+Young: In early life; not old
+Youngster: A young person; a child
+Your: Belonging to you
+Yours: The one belonging to you
+Yourself: Emphasized form of "you"
+Youth: The period of being young; a young person
+Youthful: Characteristic of youth; young
+Yucca: A plant with stiff leaves
+Yule: Christmas or the Christmas season
+Zeal: Enthusiastic devotion; fervor
+Zealot: One who is fanatical
+Zealous: Filled with zeal; enthusiastic
+Zebra: A striped horse-like animal
+Zenith: The highest point; the peak
+Zephyr: A gentle breeze; a soft wind
+Zero: The number 0; nothing
+Zest: Enthusiasm or vigor; citrus peel
+Zigzag: A line with sharp angles; to move in zigzag
+Zinc: A metallic element
+Zinnea: A flowering plant (also Zinnia)
+Zip: To fasten with zipper; to move quickly
+Zipper: A fastening device with interlocking teeth
+Zircon: A gemstone; a mineral
+Zone: An area or region; to divide into zones
+Zoo: A place where animals are kept
+Zoology: The study of animals
+Zoom: To move quickly; to magnify
+
