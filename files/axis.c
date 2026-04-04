@@ -3,8 +3,6 @@
  *  AXIX - Word Search & Dictionary
  *  (Simplified + Original Output Format Preserved)
  *
- *  Added Feature:
- *    - Stores search history silently (search_history.txt)
  *
  * ============================================================
  */
@@ -69,7 +67,7 @@ char* findSubstring(const char *text, const char *word) {
     strcpy(t, text);
     strcpy(w, word);
     toLowerStr(t);
-    toLowerStr(w);
+    toLowerStr(w); 
     return strstr(t, w);
 }
 
@@ -225,7 +223,7 @@ void runSearch() {
     query[strcspn(query, "\n")] = 0;
     trim(query);
 
-    saveSearchHistory(query);   // ✅ NEW LINE
+    saveSearchHistory(query);   //  NEW LINE
 
     printf(CLR_CYAN "\n  SEARCHING FILES FOR: \"%s\"\n" CLR_RESET, query);
     printLine('=');
