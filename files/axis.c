@@ -136,7 +136,6 @@ void loadDictionary() {
 }
 
 /* ================= SEARCH ================= */
-
 int searchFiles(const char *query) {
     int total = 0;
 
