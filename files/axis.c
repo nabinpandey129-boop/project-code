@@ -188,7 +188,7 @@ int lookupExact(const char *query) {
         if (strcmp(w, q) == 0) {
             printLine('-');
             printf(CLR_YELLOW "  Word    : " CLR_RESET CLR_BOLD "%s\n" CLR_RESET, dict[i].word);
-            printf(CLR_YELLOW "  Meaning : " CLR_RESET "%s\n", dict[i].meaning);
+            printf(CLR_YELLOW "  Meaning : " CLR_RESET "%s\n", dict[i].meaning); 
             printLine('-');
             return 1;
         }
